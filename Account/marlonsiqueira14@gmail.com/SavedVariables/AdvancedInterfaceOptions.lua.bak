@@ -1,0 +1,18 @@
+
+AdvancedInterfaceOptionsSaved = {
+	["CustomVars"] = {
+	},
+	["DBVersion"] = 3,
+	["ModifiedCVars"] = {
+	},
+	["CharVars"] = {
+	},
+	["AccountVars"] = {
+		["WorldTextScale"] = "0.5",
+		["floatingCombatTextCombatHealingAbsorbTarget"] = "0",
+		["floatingCombatTextCombatDamage"] = "0",
+		["stopAutoAttackOnTargetChange"] = "1",
+		["SpellQueueWindow"] = "216",
+	},
+	["EnforceSettings"] = false,
+}

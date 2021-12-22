@@ -1,0 +1,1943 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["scrollback"] = {
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 1,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1221434.348,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [1]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 76,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Diffa:247:CHANNEL:4|h|cffa22fc8Diffa|r|h|cffd8d8d8]|r: if u do quest",
+					["serverTime"] = 1640020157,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						49, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222848.739,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [1]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Demonshout:248:CHANNEL:4|h|cffc59a6cDemonshout|r|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_3:0|t|cffffffff<|r|cff00ff00Twlight Justice|r|cffffffff>|r|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_3:0|t is a new guild and We are a growing community of multinational, friendly players.We are mostly focused on raiding and the harder aspects of the game, but we're here to enjoy the game! /w me to join",
+					["serverTime"] = 1640020159,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222850.944,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [2]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Diffa:249:CHANNEL:4|h|cffa22fc8Diffa|r|h|cffd8d8d8]|r: u just have this item",
+					["serverTime"] = 1640020160,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						49, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222852.002,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [3]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Jeankule:250:CHANNEL:4|h|cfff38bb9Jeankule|r|h|cffd8d8d8]|r: hi my lads, boris is around ?",
+					["serverTime"] = 1640020166,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						162, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222857.636,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [4]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Belhân:251|h|cffd84e4e50|r:|cfffe7b09Belhân|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1640020167,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222858.562,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [5]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Rhodri:252:CHANNEL:4|h|cffc59a6cRhodri|r|h|cffd8d8d8]|r: nop",
+					["serverTime"] = 1640020170,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222861.698,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [6]
+				{
+					["message"] = "Someone has declined the invite. You have been returned to the front of the queue.",
+					["serverTime"] = 1640020174,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222866.139,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [7]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Jeankule:254:CHANNEL:4|h|cfff38bb9Jeankule|r|h|cffd8d8d8]|r: f",
+					["serverTime"] = 1640020175,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						162, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222866.261,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [8]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Jeankule:255:CHANNEL:4|h|cfff38bb9Jeankule|r|h|cffd8d8d8]|r: ty",
+					["serverTime"] = 1640020178,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						162, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222870.124,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [9]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Gorallix:256:CHANNEL:4|h|cff00fe97Gorallix|r|h|cffd8d8d8]|r: laging",
+					["serverTime"] = 1640020186,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						148, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222877.772,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [10]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Quolqt:257:CHANNEL:4|h|cffa9d271Quolqt|r|h|cffd8d8d8]|r: Why i cant take Herbalism in boralus?",
+					["serverTime"] = 1640020198,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						39, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222889.232,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [11]
+				{
+					["message"] = "|Hchannel:channel:5|h[5] |h|cffd8d8d8[|r|Hplayer:Necral:258:CHANNEL:5|h|cff00fe97Necral|r|h|cffd8d8d8]|r: mano, uma das minhas armas sumiram",
+					["serverTime"] = 1640020203,
+					["r"] = 1,
+					["extraData"] = {
+						72, -- [1]
+						false, -- [2]
+						4, -- [3]
+						164, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222894.207,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [12]
+				{
+					["message"] = "|Hchannel:channel:5|h[5] |h|cffd8d8d8[|r|Hplayer:Darkgils:259:CHANNEL:5|h|cfff38bb9Darkgils|r|h|cffd8d8d8]|r: olha no correio",
+					["serverTime"] = 1640020220,
+					["r"] = 1,
+					["extraData"] = {
+						72, -- [1]
+						false, -- [2]
+						4, -- [3]
+						166, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222912.155,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [13]
+				{
+					["message"] = "|Hchannel:channel:5|h[5] |h|cffd8d8d8[|r|Hplayer:Darkgils:260:CHANNEL:5|h|cfff38bb9Darkgils|r|h|cffd8d8d8]|r: ve se ta la",
+					["serverTime"] = 1640020222,
+					["r"] = 1,
+					["extraData"] = {
+						72, -- [1]
+						false, -- [2]
+						4, -- [3]
+						166, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222913.859,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [14]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Quolqt:261:CHANNEL:4|h|cffa9d271Quolqt|r|h|cffd8d8d8]|r: freakin bugs cmon this is so stupid",
+					["serverTime"] = 1640020232,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						39, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222923.397,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [15]
+				{
+					["message"] = "|cffffff00[|c00077766Autobroadcast|cffffff00]: |cFFF222FFBreaking the rules will get you suspended and to avoid that, you need to check our Rules all the time. We have updated our rules (11/10/2020) so you need to keep yourself up to date with it, check out |cffffffff|Hurl:http://fstorm.cc/Rules|h[http://fstorm.cc/Rules]|h|r for more information.|r",
+					["serverTime"] = 1640020234,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222925.919,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [16]
+				{
+					["message"] = "Discovered Roland's Doom: 127 experience gained",
+					["serverTime"] = 1640020235,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222926.445,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [17]
+				{
+					["message"] = "|Hchannel:channel:5|h[5] |h|cffd8d8d8[|r|Hplayer:Necral:265:CHANNEL:5|h|cff00fe97Necral|r|h|cffd8d8d8]|r: achei, obg",
+					["serverTime"] = 1640020241,
+					["r"] = 1,
+					["extraData"] = {
+						72, -- [1]
+						false, -- [2]
+						4, -- [3]
+						164, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222932.428,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [18]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Mimogamer:266:CHANNEL:4|h|cff3ec6eaMimogamer|r|h|cffd8d8d8]|r: ♦|cffffffff<|r|cff00ff00MimoWOWinc|r|cffffffff>|r♦is an english speaking guild PVE we are a friendly guild and we looking for a respectfuls,friendly and active membres we like a family if u want to join /w me :) enjoy",
+					["serverTime"] = 1640020243,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222935.144,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [19]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Quolqt:267:CHANNEL:4|h|cffa9d271Quolqt|r|h|cffd8d8d8]|r: no mining no herbalism",
+					["serverTime"] = 1640020247,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						39, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222938.387,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [20]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Quolqt:268:CHANNEL:4|h|cffa9d271Quolqt|r|h|cffd8d8d8]|r: wtf",
+					["serverTime"] = 1640020247,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						39, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222938.995,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [21]
+				{
+					["message"] = "|Hchannel:channel:5|h[5] |h|cffd8d8d8[|r|Hplayer:Darkgils:269:CHANNEL:5|h|cfff38bb9Darkgils|r|h|cffd8d8d8]|r: tmj",
+					["serverTime"] = 1640020248,
+					["r"] = 1,
+					["extraData"] = {
+						72, -- [1]
+						false, -- [2]
+						4, -- [3]
+						166, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222939.955,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [22]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Feelixkluk:270:CHANNEL:4|h|cff3ec6eaFeelixkluk|r|h|cffd8d8d8]|r: shore",
+					["serverTime"] = 1640020255,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						168, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222947.065,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [23]
+				{
+					["message"] = "You loot 1 Silver, 37 Copper",
+					["serverTime"] = 1640020258,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						170, -- [3]
+						171, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222949.488,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [24]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Feelixkluk:273:CHANNEL:4|h|cff3ec6eaFeelixkluk|r|h|cffd8d8d8]|r: snore",
+					["serverTime"] = 1640020259,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						168, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222950.961,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [25]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Scatinaa:274:CHANNEL:4|h|cffc59a6cScatinaa|r|h|cffd8d8d8]|r: any myanmar player ?",
+					["serverTime"] = 1640020265,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						172, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222956.908,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [26]
+				{
+					["message"] = "You loot 4 Silver, 53 Copper",
+					["serverTime"] = 1640020291,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						170, -- [3]
+						171, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222982.939,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [27]
+				{
+					["message"] = "|cffffff00[|c00077766Autobroadcast|cffffff00]: |cFFF222FFIf you have any questions, look at our Frequently Asked Questions. Check out |cffffffff|Hurl:www.fstorm.cc|h[www.fstorm.cc]|h|r/FAQ for more information.|r",
+					["serverTime"] = 1640020294,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222985.923,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [28]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Rhèà:280|h|cffd84e4e50|r:|cff006fdcRhèà|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1640020299,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222990.278,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [29]
+				{
+					["message"] = "|Hchannel:channel:5|h[5] |h|cffd8d8d8[|r|Hplayer:Muga:285:CHANNEL:5|h|cfff38bb9Muga|r|h|cffd8d8d8]|r: como e que ta o shadowlands",
+					["serverTime"] = 1640020318,
+					["r"] = 1,
+					["extraData"] = {
+						72, -- [1]
+						false, -- [2]
+						4, -- [3]
+						174, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223009.974,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [30]
+				{
+					["message"] = "|cfffef367Psiheia|r has gone offline.",
+					["serverTime"] = 1640020320,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223011.808,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [31]
+				{
+					["message"] = "You receive loot: |cffffffff|Hitem:3770::::::::11:63::::1:9:10:::::|h[Mutton Chop]|h|r",
+					["serverTime"] = 1640020323,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						176, -- [3]
+						177, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223014.928,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [32]
+				{
+					["message"] = "You receive loot: |cffffffff|Hitem:3770::::::::11:63::::1:9:10:::::|h[Mutton Chop]|h|r",
+					["serverTime"] = 1640020323,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						176, -- [3]
+						177, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223014.928,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [33]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Feelixkluk:295:CHANNEL:4|h|cff3ec6eaFeelixkluk|r|h|cffd8d8d8]|r: snore",
+					["serverTime"] = 1640020324,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						168, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223015.567,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [34]
+				{
+					["message"] = "You loot 22 Silver, 98 Copper",
+					["serverTime"] = 1640020324,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						170, -- [3]
+						171, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223015.926,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [35]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Gerrexios:297:CHANNEL:4|h|cff3ec6eaGerrexios|r|h|cffd8d8d8]|r: bastion not so fun",
+					["serverTime"] = 1640020326,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						178, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223017.738,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [36]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Rhodri:299:CHANNEL:4|h|cffc59a6cRhodri|r|h|cffd8d8d8]|r: just wait until you get to ardenweald",
+					["serverTime"] = 1640020336,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223027.911,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [37]
+				{
+					["message"] = "You receive loot: |cffffffff|Hitem:5635::::::::11:63::::1:9:10:::::|h[Sharp Claw]|h|r",
+					["serverTime"] = 1640020341,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						176, -- [3]
+						177, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223032.829,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [38]
+				{
+					["message"] = "You receive loot: |cff1eff00|Hitem:15127::::::::11:63:::2:6654:1707:1:9:11:::::|h[Robust Shoulders of the Aurora]|h|r",
+					["serverTime"] = 1640020341,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						176, -- [3]
+						177, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223032.829,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [39]
+				{
+					["message"] = "You receive loot: |cffffffff|Hitem:1205::::::::11:63::::1:9:11:::::|h[Melon Juice]|h|rx2",
+					["serverTime"] = 1640020341,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						176, -- [3]
+						177, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223032.829,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [40]
+				{
+					["message"] = "You loot 9 Silver, 60 Copper",
+					["serverTime"] = 1640020342,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						170, -- [3]
+						171, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223033.833,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [41]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Gerrexios:305:CHANNEL:4|h|cff3ec6eaGerrexios|r|h|cffd8d8d8]|r: rip",
+					["serverTime"] = 1640020346,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						178, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223037.583,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [42]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Psiheia:307|h|cffd84e4e50|r:|cfffef367Psiheia|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1640020351,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223042.282,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [43]
+				{
+					["message"] = "|cffffff00[|c00077766Autobroadcast|cffffff00]: |cFFF222FFUsing Third Party Programs on our servers is prohibited and will be punished appropriately. If you don't want to be suspended, then don't use any program that gives you an unfair advantage over other players. Check out |cffffffff|Hurl:www.fstorm.cc|h[www.fstorm.cc]|h|r/Rules for more information.|r",
+					["serverTime"] = 1640020354,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223045.918,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [44]
+				{
+					["message"] = "You loot 8 Silver, 91 Copper",
+					["serverTime"] = 1640020361,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						170, -- [3]
+						171, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223053.175,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [45]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Mylunia:311|h|cffd84e4e50|r:|cfffe7b09Mylunia|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1640020367,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223058.938,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [46]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Barbarien:312|h|cffd84e4e50|r:|cfff38bb9Barbarien|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1640020368,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223059.495,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [47]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Rhodri:313:CHANNEL:4|h|cffc59a6cRhodri|r|h|cffd8d8d8]|r: one of the first quests in ardenweald is fucking a bird",
+					["serverTime"] = 1640020372,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223063.753,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [48]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Belhmönt:314:CHANNEL:4|h|cfff38bb9Belhmönt|r|h|cffd8d8d8]|r: does pala has some delay in combat?",
+					["serverTime"] = 1640020372,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						43, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223063.838,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [49]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Ledinhishead:316:CHANNEL:4|h|cffc59a6cLedinhishead|r|h|cffd8d8d8]|r: bastion is the worst",
+					["serverTime"] = 1640020374,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						180, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223066.157,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [50]
+				{
+					["message"] = "You loot 3 Silver, 19 Copper",
+					["serverTime"] = 1640020376,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						170, -- [3]
+						171, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223067.76,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [51]
+				{
+					["message"] = "|Hchannel:channel:5|h[5] |h|cffd8d8d8[|r|Hplayer:Ganulor:318:CHANNEL:5|h|cffc59a6cGanulor|r|h|cffd8d8d8]|r: Ainda to tentando entender de onde veio tanta skill nova",
+					["serverTime"] = 1640020383,
+					["r"] = 1,
+					["extraData"] = {
+						72, -- [1]
+						false, -- [2]
+						4, -- [3]
+						182, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223074.299,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [52]
+				{
+					["message"] = "You loot 5 Silver, 32 Copper",
+					["serverTime"] = 1640020386,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						170, -- [3]
+						171, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223077.297,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [53]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Niar:321:CHANNEL:4|h|cfffef367Niar|r|h|cffd8d8d8]|r: castable melee attacks :C",
+					["serverTime"] = 1640020388,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						69, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223079.222,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [54]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Niar:322:CHANNEL:4|h|cfffef367Niar|r|h|cffd8d8d8]|r: Necrolords ♥",
+					["serverTime"] = 1640020395,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						69, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223086.895,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [55]
+				{
+					["message"] = "You loot 4 Silver, 55 Copper",
+					["serverTime"] = 1640020399,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						170, -- [3]
+						171, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223090.32,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [56]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Mimogamer:325:CHANNEL:4|h|cff3ec6eaMimogamer|r|h|cffd8d8d8]|r: ♦|cffffffff<|r|cff00ff00MimoWOWinc|r|cffffffff>|r♦is an english speaking guild PVE we looking for a respectfuls,friendly and active membres we like a family if u want to join /w me :) enjoy",
+					["serverTime"] = 1640020407,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223098.346,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [57]
+				{
+					["message"] = "|cffa22fc8Haäwk|r has gone offline.",
+					["serverTime"] = 1640020422,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223113.528,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [58]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Branisllav:327:CHANNEL:4|h|cffc31d39Branisllav|r|h|cffd8d8d8]|r: bastion has a good story but its not fun to play at all",
+					["serverTime"] = 1640020429,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						184, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223120.809,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [59]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Branisllav:328:CHANNEL:4|h|cffc31d39Branisllav|r|h|cffd8d8d8]|r: maldraxxus is top",
+					["serverTime"] = 1640020435,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						184, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223126.761,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [60]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Antarielle:329:CHANNEL:4|h|cfffefefeAntarielle|r|h|cffd8d8d8]|r: I need chrome I fucking hate leveling in bfa",
+					["serverTime"] = 1640020435,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						138, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223127.138,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [61]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Antarielle:330:CHANNEL:4|h|cfffefefeAntarielle|r|h|cffd8d8d8]|r: garbage zones and garbage quests",
+					["serverTime"] = 1640020451,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						138, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223142.258,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [62]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Barbarien:331:GUILD|h|cffd84e4e50|r:|cfff38bb9Barbarien|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:9670:Player-8-000274E5:1:12:20:21:4294967295:4294967295:4294967295:4294967295|h[Toying Around]|h|r!",
+					["serverTime"] = 1640020454,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						48, -- [1]
+						false, -- [2]
+						77, -- [3]
+						186, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223145.692,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [63]
+				{
+					["message"] = "Someone has declined the invite. You have been returned to the front of the queue.",
+					["serverTime"] = 1640020455,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223146.371,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [64]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Rayioku:333:CHANNEL:4|h|cff006fdcRayioku|r|h|cffd8d8d8]|r: maldraxxus is so fkin good :D",
+					["serverTime"] = 1640020456,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						187, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223147.993,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [65]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Astrodagger:334:CHANNEL:4|h|cfffef367Astrodagger|r|h|cffd8d8d8]|r: y chromie isnt in stormwind",
+					["serverTime"] = 1640020456,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						189, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223148.087,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [66]
+				{
+					["message"] = "|cffffff00[|c00077766Autobroadcast|cffffff00]: |cFFF222FFUsing Third Party Programs on our servers is prohibited and will be punished appropriately. If you don't want to be suspended, then don't use any program that gives you an unfair advantage over other players. Check out |cffffffff|Hurl:www.fstorm.cc|h[www.fstorm.cc]|h|r/Rules for more information.|r",
+					["serverTime"] = 1640020474,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223165.92,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [67]
+				{
+					["message"] = "Dungeon Difficulty set to Normal.",
+					["serverTime"] = 1640020476,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223167.61,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [68]
+				{
+					["message"] = "Гронот has joined the instance group.",
+					["serverTime"] = 1640020476,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223167.87,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [69]
+				{
+					["message"] = "Chupen has joined the instance group.",
+					["serverTime"] = 1640020476,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223167.891,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [70]
+				{
+					["message"] = "Khyriex has joined the instance group.",
+					["serverTime"] = 1640020476,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223167.905,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [71]
+				{
+					["message"] = "Тэлая has joined the instance group.",
+					["serverTime"] = 1640020476,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223167.933,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [72]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Tysex-Oribos:341:CHANNEL:4|h|cffc59a6cTysex|r|h|cffd8d8d8]|r: is it warrior good here?",
+					["serverTime"] = 1640020479,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						191, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223170.205,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [73]
+				{
+					["message"] = "Hanj is now the leader of your group!",
+					["serverTime"] = 1640020479,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1223170.205,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [74]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Freehold]|h",
+					["serverTime"] = 1640020479,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						193, -- [3]
+						194, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223170.571,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [75]
+				{
+					["message"] = "|Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Freehold]|h",
+					["serverTime"] = 1640020479,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						196, -- [3]
+						197, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1223170.571,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [76]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Scarelet:201:CHANNEL:4|h|cffa22fc8Scarelet|r|h|cffd8d8d8]|r: in anything",
+					["serverTime"] = 1640019980,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						132, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222672.09,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [77]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Veserlina:202:CHANNEL:4|h|cff3ec6eaVeserlina|r|h|cffd8d8d8]|r: |cff71d5ff|Hspell:90621:0|h[Golden King]|h|r",
+					["serverTime"] = 1640019984,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						140, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222675.357,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [78]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Sphille:203:CHANNEL:4|h|cff3ec6eaSphille|r|h|cffd8d8d8]|r: hm",
+					["serverTime"] = 1640019995,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222686.605,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [79]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Rhodri:204:CHANNEL:4|h|cffc59a6cRhodri|r|h|cffd8d8d8]|r: even if, i really don't enjoy arms",
+					["serverTime"] = 1640019995,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222687.09,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [80]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Deathfingers:205:CHANNEL:4|h|cffc31d39Deathfingers|r|h|cffd8d8d8]|r: He is nab",
+					["serverTime"] = 1640020003,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						146, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222694.718,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [81]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Scarelet:206:CHANNEL:4|h|cffa22fc8Scarelet|r|h|cffd8d8d8]|r: same but its true",
+					["serverTime"] = 1640020004,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						132, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222695.33,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [82]
+				{
+					["message"] = "You are no longer Away.",
+					["serverTime"] = 1640020006,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222698.151,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [83]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Gorallix:208:CHANNEL:4|h|cff00fe97Gorallix|r|h|cffd8d8d8]|r: where are people? I know is covid 19 but, in WOW also too.?",
+					["serverTime"] = 1640020012,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						148, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222703.984,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [84]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Scarelet:209:CHANNEL:4|h|cffa22fc8Scarelet|r|h|cffd8d8d8]|r: if you try fury in pvp will be pain in ass",
+					["serverTime"] = 1640020013,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						132, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222704.914,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [85]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Veserlina:210:CHANNEL:4|h|cff3ec6eaVeserlina|r|h|cffd8d8d8]|r: play what u want",
+					["serverTime"] = 1640020020,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						140, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222711.308,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [86]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Rhodri:211:CHANNEL:4|h|cffc59a6cRhodri|r|h|cffd8d8d8]|r: yeah fury pvp is absolute shit",
+					["serverTime"] = 1640020021,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222712.437,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [87]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Scarelet:212:CHANNEL:4|h|cffa22fc8Scarelet|r|h|cffd8d8d8]|r: pve too but a little",
+					["serverTime"] = 1640020021,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						132, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222713.137,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [88]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Veserlina:213:CHANNEL:4|h|cff3ec6eaVeserlina|r|h|cffd8d8d8]|r: ssimple",
+					["serverTime"] = 1640020022,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						140, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222713.202,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [89]
+				{
+					["message"] = "You are now queued in the Dungeon Finder.",
+					["serverTime"] = 1640020024,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222715.382,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [90]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Greatgrandpa:215:CHANNEL:4|h|cfff38bb9Greatgrandpa|r|h|cffd8d8d8]|r: or play what is available LOL",
+					["serverTime"] = 1640020038,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						150, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222729.422,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [91]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Rhodri:216:CHANNEL:4|h|cffc59a6cRhodri|r|h|cffd8d8d8]|r: but im really not sure about pve, subcreation tells me something different",
+					["serverTime"] = 1640020038,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222729.452,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [92]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Bachhla:217:CHANNEL:4|h|cffa9d271Bachhla|r|h|cffd8d8d8]|r: survival hunter is good in pvp ?",
+					["serverTime"] = 1640020045,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						152, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222736.82,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [93]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Gorallix:218:CHANNEL:4|h|cff00fe97Gorallix|r|h|cffd8d8d8]|r: maybe dowlanding",
+					["serverTime"] = 1640020047,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						148, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222738.342,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [94]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Veserlina:219:CHANNEL:4|h|cff3ec6eaVeserlina|r|h|cffd8d8d8]|r: Rhodri",
+					["serverTime"] = 1640020049,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						140, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222740.518,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [95]
+				{
+					["message"] = "|cfffef367Psiheia|r has gone offline.",
+					["serverTime"] = 1640020051,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222742.785,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [96]
+				{
+					["message"] = "|Hbuggrabber:Hanj:000001C9691A33F0:|h|cffff0000[Error 000001C9691A33F0]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 1222742.899,
+					["serverTime"] = 1640020051,
+				}, -- [97]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Scarelet:221:CHANNEL:4|h|cffa22fc8Scarelet|r|h|cffd8d8d8]|r: SL could be pvp expansion but...",
+					["serverTime"] = 1640020053,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						132, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222744.396,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [98]
+				{
+					["message"] = "|cffffff00[|c00077766Autobroadcast|cffffff00]: |cFFF222FFIf you need to contact our shop support, do not make an ingame ticket. You need to go on |cffffffff|Hurl:https://firestorm-servers.com/support/|h[https://firestorm-servers.com/support/]|h|r ! Never buy codes from other players, you can get scammed: Always get them from our website!\n|r",
+					["serverTime"] = 1640020054,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222745.919,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [99]
+				{
+					["message"] = "|Hbuggrabber:Hanj:000001C9691A33F0:|h|cffff0000[Error 000001C9691A33F0]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 1222746.268,
+					["serverTime"] = 1640020055,
+				}, -- [100]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Veserlina:223:CHANNEL:4|h|cff3ec6eaVeserlina|r|h|cffd8d8d8]|r: why listen to 1 person only",
+					["serverTime"] = 1640020055,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						140, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222746.893,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [101]
+				{
+					["message"] = "|Hbuggrabber:Hanj:000001C9691A33F0:|h|cffff0000[Error 000001C9691A33F0]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 1222747.929,
+					["serverTime"] = 1640020056,
+				}, -- [102]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Skrynfer:224:CHANNEL:4|h|cffa9d271Skrynfer|r|h|cffd8d8d8]|r: Yep, surv keep so good in pvp",
+					["serverTime"] = 1640020059,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						154, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222750.312,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [103]
+				{
+					["message"] = "|Hbuggrabber:Hanj:000001C9691A33F0:|h|cffff0000[Error 000001C9691A33F0]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 1222750.446,
+					["serverTime"] = 1640020059,
+				}, -- [104]
+				{
+					["message"] = "|Hbuggrabber:Hanj:000001C9691A33F0:|h|cffff0000[Error 000001C9691A33F0]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 1222751.575,
+					["serverTime"] = 1640020060,
+				}, -- [105]
+				{
+					["message"] = "|Hbuggrabber:Hanj:000001C9691A33F0:|h|cffff0000[Error 000001C9691A33F0]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 1222751.68,
+					["serverTime"] = 1640020060,
+				}, -- [106]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Veserlina:225:CHANNEL:4|h|cff3ec6eaVeserlina|r|h|cffd8d8d8]|r: see other's opinions too",
+					["serverTime"] = 1640020061,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						140, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222752.617,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [107]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Scarelet:226:CHANNEL:4|h|cffa22fc8Scarelet|r|h|cffd8d8d8]|r: from self experience from retail its SHIT",
+					["serverTime"] = 1640020061,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						132, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222753.177,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [108]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Belhmönt:227:CHANNEL:4|h|cfff38bb9Belhmönt|r|h|cffd8d8d8]|r: asd",
+					["serverTime"] = 1640020062,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						43, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222753.332,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [109]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Scarelet:228:CHANNEL:4|h|cffa22fc8Scarelet|r|h|cffd8d8d8]|r: :D",
+					["serverTime"] = 1640020062,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						132, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222753.973,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [110]
+				{
+					["message"] = "Someone has declined the invite. You have been returned to the front of the queue.",
+					["serverTime"] = 1640020074,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222766.106,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [111]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Bachhla:230:CHANNEL:4|h|cffa9d271Bachhla|r|h|cffd8d8d8]|r: what's the best class for pvp?",
+					["serverTime"] = 1640020075,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						152, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222766.409,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [112]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Psiheia:231|h|cffd84e4e50|r:|cfffef367Psiheia|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1640020076,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222767.328,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [113]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Scarelet:232:CHANNEL:4|h|cffa22fc8Scarelet|r|h|cffd8d8d8]|r: dude",
+					["serverTime"] = 1640020078,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						132, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222769.604,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [114]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Scarelet:233:CHANNEL:4|h|cffa22fc8Scarelet|r|h|cffd8d8d8]|r: anything",
+					["serverTime"] = 1640020079,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						132, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222770.599,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [115]
+				{
+					["message"] = "|cfffe7b09Schneezahn|r has gone offline.",
+					["serverTime"] = 1640020086,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222777.318,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [116]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Titanecuador:235:CHANNEL:4|h|cff8687edTitanecuador|r|h|cffd8d8d8]|r: |cffffffff|Hurl:https://www.twitch.tv/titanecuador1|h[https://www.twitch.tv/titanecuador1]|h|r",
+					["serverTime"] = 1640020089,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						156, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222780.771,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [117]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Rhodri:236:CHANNEL:4|h|cffc59a6cRhodri|r|h|cffd8d8d8]|r: veser, subcreation is a data base that's collected from many players, not just one person",
+					["serverTime"] = 1640020089,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222780.801,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [118]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Scarelet:237:CHANNEL:4|h|cffa22fc8Scarelet|r|h|cffd8d8d8]|r: any class could have onesho0t",
+					["serverTime"] = 1640020094,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						132, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222785.283,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [119]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Schneezahn:238|h|cffd84e4e53|r:|cfffe7b09Schneezahn|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1640020096,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222787.66,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [120]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Malkawian:239:CHANNEL:4|h|cfffefefeMalkawian|r|h|cffd8d8d8]|r: kyrian female modelslike can kill u with snu snu..",
+					["serverTime"] = 1640020100,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						158, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222791.433,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [121]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Antarielle:240:CHANNEL:4|h|cfffefefeAntarielle|r|h|cffd8d8d8]|r: u can make anything work",
+					["serverTime"] = 1640020104,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						138, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222795.622,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [122]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Miskec:241:CHANNEL:4|h|cfffe7b09Miskec|r|h|cffd8d8d8]|r: snu snu to the death :D",
+					["serverTime"] = 1640020127,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						120, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222818.919,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [123]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Hêlia:242:CHANNEL:4|h|cff3ec6eaHêlia|r|h|cffd8d8d8]|r: WTS |cffa335ee|Hitem:183035::::::::54:63::17:3:6771:6652:7193:1:9:54:::::|h[Ardent Sunstar Signet]|h|r wihp me price",
+					["serverTime"] = 1640020140,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						144, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222832.103,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [124]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Mondato:243:CHANNEL:4|h|cff3ec6eaMondato|r|h|cffd8d8d8]|r: will Chomie will be available? for alt leveling in different zones?",
+					["serverTime"] = 1640020145,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						160, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222836.334,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [125]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Waytohell:244:CHANNEL:4|h|cfffefefeWaytohell|r|h|cffd8d8d8]|r: Hêlia 1k gold",
+					["serverTime"] = 1640020152,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						109, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222843.845,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [126]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Diffa:245:CHANNEL:4|h|cffa22fc8Diffa|r|h|cffd8d8d8]|r: my man what kind of trash are u selling",
+					["serverTime"] = 1640020153,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						49, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222844.339,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [127]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Rhodri:246:CHANNEL:4|h|cffc59a6cRhodri|r|h|cffd8d8d8]|r: they're working on it mondato",
+					["serverTime"] = 1640020157,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						1, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1222848.591,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [128]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

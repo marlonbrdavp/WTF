@@ -1,0 +1,1975 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 6,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[15:51:32]|h|r Guild Message of the Day: \"https://discord.gg/5PxFGjRW     A player is sought for the position of the head of the guild. It can be any level 120 player. \"",
+					["g"] = 1,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1390463.662,
+					["serverTime"] = 1636137603,
+					["b"] = 0.250980406999588,
+				}, -- [1]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[15:40:02]|h|r Guild Message of the Day: \"https://discord.gg/5PxFGjRW     A player is sought for the position of the head of the guild. It can be any level 120 player. \"",
+					["serverTime"] = 1636138171,
+					["r"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+					["timestamp"] = 1390463.662,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 1,
+				}, -- [2]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[15:41:16]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Elfyte:424:GUILD|h|cffd8bc3f120|r:|cfffe7b09Elfyte|r|h|cffd8d8d8]|r: Visiems Sveiki. Hello everyone. Hola, todos. Всем привет. Bonjour à tous",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 1390463.662,
+					["serverTime"] = 1636137676,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+				}, -- [3]
+				{
+					["message"] = "0 |4day:days;, 0 |4hour:hours;, 8 |4minute:minutes;, 15 |4second:seconds;",
+					["timestamp"] = 1390463.662,
+				}, -- [4]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 1390463.662,
+				}, -- [5]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[15:49:31]|h|r Guild Message of the Day: \"https://discord.gg/5PxFGjRW     A player is sought for the position of the head of the guild. It can be any level 120 player. \"",
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1390463.432,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [6]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 83,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "Shandris Feathermoon says: We will hold back the naga, King Greymane.",
+					["serverTime"] = 1636138347,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390639.151,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [1]
+				{
+					["message"] = "Shandris Feathermoon says: We will hold back the naga, King Greymane.",
+					["serverTime"] = 1636138347,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390639.151,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [2]
+				{
+					["message"] = "Reputation with Waveblade Ankoan increased by 150.",
+					["serverTime"] = 1636138347,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390639.936,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [3]
+				{
+					["message"] = "Reputation with Guild increased by 150.",
+					["serverTime"] = 1636138347,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390639.936,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [4]
+				{
+					["message"] = "Where the Road Leads completed.",
+					["serverTime"] = 1636138347,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390639.956,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [5]
+				{
+					["message"] = "Received 34 Gold, 11 Silver.",
+					["serverTime"] = 1636138347,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390639.956,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [6]
+				{
+					["message"] = "Quest accepted: A Way Home",
+					["serverTime"] = 1636138348,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390640.962,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [7]
+				{
+					["message"] = "Lady Jaina Proudmoore says: This land was once the heart of the night elves' empire. I can sense ley lines of magical energy converging below ground.",
+					["serverTime"] = 1636138349,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390641.951,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [8]
+				{
+					["message"] = "Lady Jaina Proudmoore says: We can tap into this latent power to forge a connection to Boralus. So long as we're careful, we can keep Azshara from noticing it.",
+					["serverTime"] = 1636138358,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390650.522,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [9]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Nornes:761:CHANNEL:4|h|cfffe7b09Nornes|r|h|cffd8d8d8]|r: Can anyone help me please?",
+					["serverTime"] = 1636138363,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						6, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390655.914,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [10]
+				{
+					["message"] = "Lady Jaina Proudmoore says: The Heart of Azeroth holds potent magic, Mithsuya. If you use it to help me focus the ley lines, we can open the way together.",
+					["serverTime"] = 1636138367,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390659.732,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [11]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Vaedishis:763:CHANNEL:4|h|cffa22fc8Vaedishis|r|h|cffd8d8d8]|r: sure",
+					["serverTime"] = 1636138374,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						6, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390666.663,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [12]
+				{
+					["message"] = "Lady Jaina Proudmoore says: Nearly there...",
+					["serverTime"] = 1636138388,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390681.042,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [13]
+				{
+					["message"] = "Reputation with Guild increased by 150.",
+					["serverTime"] = 1636138409,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390701.775,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [14]
+				{
+					["message"] = "A Way Home completed.",
+					["serverTime"] = 1636138409,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390701.775,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [15]
+				{
+					["message"] = "Received 17 Gold, 7 Silver.",
+					["serverTime"] = 1636138409,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390701.775,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [16]
+				{
+					["message"] = "Lady Jaina Proudmoore says: Thank you, Mithsuya. Now we need to gather our wits and reinforce our position.",
+					["serverTime"] = 1636138409,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390701.828,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [17]
+				{
+					["message"] = "|cffffff00Added missing appearances of: |cffff7fff|Htransmogset-extra:2827|h[Warfronts Alliance Mail]|h|r",
+					["timestamp"] = 1390701.954,
+					["serverTime"] = 1636138409,
+				}, -- [18]
+				{
+					["message"] = "|cffff80ff|Htransmogappearance:105596|h[7th Legionnaire's Monnion]|h|r has been added to your appearance collection.",
+					["serverTime"] = 1636138409,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390701.954,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [19]
+				{
+					["message"] = "Magni Bronzebeard says: Champion! MOTHER has a new plan tae save Azeroth. Meet us in the Chamber of Heart as soon as ye can!",
+					["serverTime"] = 1636138419,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390711.22,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [20]
+				{
+					["message"] = "Quest accepted: Essential Empowerment",
+					["serverTime"] = 1636138419,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390711.231,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [21]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Boralus Harbor]|h",
+					["serverTime"] = 1636138449,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390741.586,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [22]
+				{
+					["message"] = "|Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Boralus Harbor]|h",
+					["serverTime"] = 1636138449,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						24, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390741.586,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [23]
+				{
+					["message"] = "Loot Specialization set to: Enhancement",
+					["serverTime"] = 1636138449,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1390741.586,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [24]
+				{
+					["message"] = "Louisa says: Mama, all my friends are playing without me! Can I go pleeease?",
+					["serverTime"] = 1636138451,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390743.268,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [25]
+				{
+					["message"] = "|cff9d9d9d|Hitem:155608::::::::120:263:512:2::120:::|h[Defiled Bone]|h|r",
+					["timestamp"] = 1390773.547,
+					["serverTime"] = 1636138481,
+				}, -- [26]
+				{
+					["message"] = "|cff9d9d9d|Hitem:155598::::::::120:263:512:2::120:::|h[Severed Mandible]|h|r",
+					["timestamp"] = 1390773.547,
+					["serverTime"] = 1636138481,
+				}, -- [27]
+				{
+					["message"] = "|cff9d9d9d|Hitem:158863::::::::120:263:512:2::120:::|h[Chitinous Exoskeleton]|h|r",
+					["timestamp"] = 1390773.547,
+					["serverTime"] = 1636138481,
+				}, -- [28]
+				{
+					["message"] = "|cff9d9d9d|Hitem:158808::::::::120:263:512:2::120:::|h[Thick Tendon]|h|r",
+					["timestamp"] = 1390773.547,
+					["serverTime"] = 1636138481,
+				}, -- [29]
+				{
+					["message"] = "|cff9d9d9d|Hitem:158773::::::::120:263:512:2::120:::|h[Wriggling Goop]|h|r",
+					["timestamp"] = 1390773.547,
+					["serverTime"] = 1636138481,
+				}, -- [30]
+				{
+					["message"] = "|cff9d9d9d|Hitem:160926::::::::120:263:512:2::120:::|h[Broken Mooring Post]|h|r",
+					["timestamp"] = 1390773.547,
+					["serverTime"] = 1636138481,
+				}, -- [31]
+				{
+					["message"] = "|cff9d9d9d|Hitem:158821::::::::120:263:512:2::120:::|h[Cracked Mask]|h|r",
+					["timestamp"] = 1390773.547,
+					["serverTime"] = 1636138481,
+				}, -- [32]
+				{
+					["message"] = "|cff9d9d9d|Hitem:154800::::::::120:263:512:::120:::|h[Crumbling Chain Coif]|h|r",
+					["timestamp"] = 1390773.547,
+					["serverTime"] = 1636138481,
+				}, -- [33]
+				{
+					["message"] = "|cff9d9d9d|Hitem:155610::::::::120:263:512:2::120:::|h[Stinging Nettle]|h|r",
+					["timestamp"] = 1390773.547,
+					["serverTime"] = 1636138481,
+				}, -- [34]
+				{
+					["message"] = "|cff9d9d9d|Hitem:158771::::::::120:263:512:2::120:::|h[Spirit Ichor]|h|r",
+					["timestamp"] = 1390773.547,
+					["serverTime"] = 1636138481,
+				}, -- [35]
+				{
+					["message"] = "|cff9d9d9d|Hitem:158078::::::::120:263:512:2::120:::|h[Cracked Overlord's Scepter]|h|r",
+					["timestamp"] = 1390773.547,
+					["serverTime"] = 1636138481,
+				}, -- [36]
+				{
+					["message"] = "|cff9d9d9d|Hitem:155609::::::::120:263:512:2::120:::|h[Springy Eyeball]|h|r",
+					["timestamp"] = 1390773.547,
+					["serverTime"] = 1636138481,
+				}, -- [37]
+				{
+					["message"] = "|cff9d9d9d|Hitem:158856::::::::120:263:512:2::120:::|h[Giant Frog Leg]|h|r",
+					["timestamp"] = 1390773.547,
+					["serverTime"] = 1636138481,
+				}, -- [38]
+				{
+					["message"] = "|cff9d9d9d|Hitem:158865::::::::120:263:512:2::120:::|h[Ghastly Ooze]|h|r",
+					["timestamp"] = 1390773.547,
+					["serverTime"] = 1636138481,
+				}, -- [39]
+				{
+					["message"] = "|cff9d9d9d|Hitem:158745::::::::120:263:512:::120:::|h[Luminous Scale]|h|r",
+					["timestamp"] = 1390773.547,
+					["serverTime"] = 1636138481,
+				}, -- [40]
+				{
+					["message"] = "|cff9d9d9d|Hitem:155603::::::::120:263:512:::120:::|h[Flaky Fish Scales]|h|r",
+					["timestamp"] = 1390773.547,
+					["serverTime"] = 1636138481,
+				}, -- [41]
+				{
+					["message"] = "52 Gold, 7 Silver, 88 Copper",
+					["timestamp"] = 1390773.547,
+					["serverTime"] = 1636138481,
+				}, -- [42]
+				{
+					["message"] = "\"Risky\" Liz Seminario says: Quality furs from all over Kul Tiras!",
+					["serverTime"] = 1636138497,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390789.905,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [43]
+				{
+					["message"] = "|Hplayer:Mecharibura:783:TEXT_EMOTE:|h|cffc59a6cMecharibura|r|h shimmies before Sieteaguila.",
+					["serverTime"] = 1636138528,
+					["r"] = 1,
+					["extraData"] = {
+						12, -- [1]
+						false, -- [2]
+						27, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390820.437,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
+				}, -- [44]
+				{
+					["message"] = "|Hplayer:Mecharibura:784:TEXT_EMOTE:|h|cffc59a6cMecharibura|r|h shimmies before Sieteaguila.",
+					["serverTime"] = 1636138533,
+					["r"] = 1,
+					["extraData"] = {
+						12, -- [1]
+						false, -- [2]
+						27, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390825.959,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
+				}, -- [45]
+				{
+					["message"] = "|Hplayer:Mecharibura:785:TEXT_EMOTE:|h|cffc59a6cMecharibura|r|h licks Sieteaguila.",
+					["serverTime"] = 1636138541,
+					["r"] = 1,
+					["extraData"] = {
+						12, -- [1]
+						false, -- [2]
+						27, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390833.686,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
+				}, -- [46]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Tiragarde Sound]|h",
+					["serverTime"] = 1636138555,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390847.259,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [47]
+				{
+					["message"] = "|Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Tiragarde Sound]|h",
+					["serverTime"] = 1636138555,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						24, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390847.259,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [48]
+				{
+					["message"] = "Eddie Norwington yells: I'm over here! He has the key! Please, help me!",
+					["serverTime"] = 1636138665,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						29, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390957.759,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [49]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Lamansh:791:CHANNEL:4|h|cff3ec5e9Lamansh|r|h|cffd8d8d8]|r: fire 470 lf hpaly/rdru 2s team!",
+					["serverTime"] = 1636138686,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						6, -- [3]
+						31, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390978.273,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [50]
+				{
+					["message"] = "Eddie Norwington yells: I'm over here! He has the key! Please, help me!",
+					["serverTime"] = 1636138691,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						29, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390983.279,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [51]
+				{
+					["message"] = "Eddie Norwington yells: I'm over here! He has the key! Please, help me!",
+					["serverTime"] = 1636138711,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						29, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391003.823,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [52]
+				{
+					["message"] = "Eddie Norwington yells: I'm over here! He has the key! Please, help me!",
+					["serverTime"] = 1636138732,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						29, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391024.22,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [53]
+				{
+					["message"] = "You receive item: |cff0070dd|Hcurrency:1553:230|h[Glowing Azerite Crystal]|h|r.",
+					["serverTime"] = 1636138742,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391034.913,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [54]
+				{
+					["message"] = "|cffe6cc80|Hitem:158075::::::::120:263:512:11:4:4933:4935:4936:1562:110:::|h[Heart of Azeroth]|h|r gains 230 Artifact Power.",
+					["serverTime"] = 1636138742,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391034.913,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [55]
+				{
+					["message"] = "Reputation with Proudmoore Admiralty increased by 75.",
+					["serverTime"] = 1636138742,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391034.913,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [56]
+				{
+					["message"] = "Reputation with Guild increased by 150.",
+					["serverTime"] = 1636138742,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391034.913,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [57]
+				{
+					["message"] = "Grounding the Grimestone completed.",
+					["serverTime"] = 1636138742,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391034.941,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [58]
+				{
+					["message"] = "Dungeon Difficulty set to Heroic.",
+					["serverTime"] = 1636138749,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391041.843,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [59]
+				{
+					["message"] = "Salchichador has joined the instance group.",
+					["serverTime"] = 1636138749,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391041.843,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [60]
+				{
+					["message"] = "Theored has joined the instance group.",
+					["serverTime"] = 1636138749,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391042.092,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [61]
+				{
+					["message"] = "Elementka has joined the instance group.",
+					["serverTime"] = 1636138750,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391042.14,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [62]
+				{
+					["message"] = "Mithsuya is now the leader of your group!",
+					["serverTime"] = 1636138751,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1391043.783,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [63]
+				{
+					["message"] = "Welcome to Tol Dagor (Heroic). Instance locks are scheduled to expire in 20 |4Hour:Hours; 48 |4Second:Seconds;.",
+					["serverTime"] = 1636138751,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1391043.783,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [64]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Tol Dagor]|h",
+					["serverTime"] = 1636138751,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391043.864,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [65]
+				{
+					["message"] = "|Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Tol Dagor]|h",
+					["serverTime"] = 1636138751,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						24, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391043.864,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [66]
+				{
+					["message"] = "Loot Specialization set to: Enhancement",
+					["serverTime"] = 1636138751,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1391043.864,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [67]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200DBM|r|cffff7d0a>|r Loaded 'Dungeons (BfA)' mods. For more options such as custom alert sounds and personalized warning notes, type /dbm.",
+					["r"] = 0.41,
+					["serverTime"] = 1636138752,
+					["timestamp"] = 1391044.868,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [68]
+				{
+					["message"] = "|cfff38bb9Theored|r has left the instance group.",
+					["serverTime"] = 1636138763,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391056.075,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [69]
+				{
+					["message"] = "You are now queued in the Dungeon Finder.",
+					["serverTime"] = 1636138765,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391057.698,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [70]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Raidmedic:821:CHANNEL:4|h|cfffefefeRaidmedic|r|h|cffd8d8d8]|r: LF all FH-M0",
+					["serverTime"] = 1636138771,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						6, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391063.613,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [71]
+				{
+					["message"] = "Escaped Convict says: I did it, I made it out!",
+					["serverTime"] = 1636138772,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391064.917,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [72]
+				{
+					["message"] = "Taelia says: Stay low! They haven't spotted us yet.",
+					["serverTime"] = 1636138775,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391067.647,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [73]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Tiragarde Sound]|h",
+					["serverTime"] = 1636138780,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391072.747,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [74]
+				{
+					["message"] = "|Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Tiragarde Sound]|h",
+					["serverTime"] = 1636138780,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						24, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391072.747,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [75]
+				{
+					["message"] = "Loot Specialization set to: Enhancement",
+					["serverTime"] = 1636138780,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1391072.747,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [76]
+				{
+					["message"] = "Melissa Kenny yells: Eddie!!!",
+					["serverTime"] = 1636138805,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						29, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391097.784,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [77]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Boralus Harbor]|h",
+					["serverTime"] = 1636138815,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391107.942,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [78]
+				{
+					["message"] = "|Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Boralus Harbor]|h",
+					["serverTime"] = 1636138815,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						24, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391107.942,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [79]
+				{
+					["message"] = "Camilla Darksky says: Hey, Cass. I can't find my favorite skinning knife. Have you se- Nevermind! Found it.",
+					["serverTime"] = 1636138819,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391111.436,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [80]
+				{
+					["message"] = "You leave the group.",
+					["serverTime"] = 1636138820,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391112.754,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [81]
+				{
+					["message"] = "You are no longer queued.",
+					["serverTime"] = 1636138820,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391112.754,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [82]
+				{
+					["message"] = "|cff00ff00Mithsuya|r has gone offline.",
+					["serverTime"] = 1636138821,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1391113.661,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [83]
+				{
+					["message"] = "If you wish to join the English world chat channel, type /join world_en.",
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1390463.662,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [84]
+				{
+					["message"] = "",
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1390463.662,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [85]
+				{
+					["message"] = "You can also join the other channels: world_fr, world_es.",
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1390463.662,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [86]
+				{
+					["message"] = "|Hplayer:Mithsuya|h[Mithsuya]|h has come online.",
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1390463.662,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [87]
+				{
+					["message"] = "Your actual experience rate is 3.",
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1390463.662,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [88]
+				{
+					["message"] = "",
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1390463.662,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [89]
+				{
+					["message"] = "Loot Specialization set to: Enhancement",
+					["serverTime"] = 1636138172,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1390463.662,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [90]
+				{
+					["message"] = "You are now queued in the Dungeon Finder.",
+					["serverTime"] = 1636138172,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390464.877,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [91]
+				{
+					["message"] = "|Hchannel:channel:2|h[2] |h Changed Channel: |Hchannel:CHANNEL:2|h[2. world_ptbr]|h",
+					["serverTime"] = 1636138173,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390465.395,
+					["g"] = 0.7490196228027344,
+					["b"] = 0.7490196228027344,
+				}, -- [92]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h Changed Channel: |Hchannel:CHANNEL:4|h[4. world_en]|h",
+					["serverTime"] = 1636138173,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390465.395,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [93]
+				{
+					["message"] = "Reputation with Guild increased by 150.",
+					["serverTime"] = 1636138176,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390468.582,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [94]
+				{
+					["message"] = "Disruption of Power completed.",
+					["serverTime"] = 1636138176,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390468.599,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [95]
+				{
+					["message"] = "Received 34 Gold, 11 Silver.",
+					["serverTime"] = 1636138176,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390468.599,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [96]
+				{
+					["message"] = "Reputation with Guild increased by 150.",
+					["serverTime"] = 1636138176,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390469.075,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [97]
+				{
+					["message"] = "Fortunate Souls completed.",
+					["serverTime"] = 1636138176,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390469.089,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [98]
+				{
+					["message"] = "Received 34 Gold, 11 Silver.",
+					["serverTime"] = 1636138176,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390469.089,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [99]
+				{
+					["message"] = "Quest accepted: In Deep",
+					["serverTime"] = 1636138177,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390469.504,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [100]
+				{
+					["message"] = "Genn Greymane says: This cave won't remain safe for long.",
+					["serverTime"] = 1636138181,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390473.869,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [101]
+				{
+					["message"] = "In Deep completed.",
+					["serverTime"] = 1636138183,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390475.574,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [102]
+				{
+					["message"] = "Received 3 Gold, 42 Silver.",
+					["serverTime"] = 1636138183,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390475.574,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [103]
+				{
+					["message"] = "Lady Jaina Proudmoore says: Then we have no choice but to move forward.",
+					["serverTime"] = 1636138184,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390476.578,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [104]
+				{
+					["message"] = "Quest accepted: Up Against It",
+					["serverTime"] = 1636138184,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390476.9,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [105]
+				{
+					["message"] = "Genn Greymane says: Do you hear that?",
+					["serverTime"] = 1636138192,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390484.36,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [106]
+				{
+					["message"] = "Lady Jaina Proudmoore says: Stay on your guard. We don't know how many more naga are out there.",
+					["serverTime"] = 1636138195,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390487.274,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [107]
+				{
+					["message"] = "|cffa22fc8Käzt|r has gone offline.",
+					["serverTime"] = 1636138217,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390510.011,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [108]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Nornes:733:CHANNEL:4|h|cfffe7b09Nornes|r|h|cffd8d8d8]|r: Hello guys i am returning player i would like to ask you, is server better now, Scripted Talents available dungeons raids, and how much players are in horde and how much in alliance, and what is player base on BFA server, please answer.thank you ^_^",
+					["serverTime"] = 1636138219,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						6, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390512.016,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [109]
+				{
+					["message"] = "Genn Greymane says: They've spotted us! We need to go!",
+					["serverTime"] = 1636138224,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390517.01,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [110]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Seribap:735:CHANNEL:4|h|cfff38bb9Seribap|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00The Crimson Dawn|r|cffffffff>|r is recruiting new and experienced English speaking people. We are a social guild that is also making progress in M+ and raiding! /w me or apply on guild finder today!",
+					["serverTime"] = 1636138231,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						6, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390523.2,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [111]
+				{
+					["message"] = "Gilnean Elite says: They've spotted us! We need to go!",
+					["serverTime"] = 1636138243,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390535.688,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [112]
+				{
+					["message"] = "Interface action failed because of an AddOn",
+					["serverTime"] = 1636138251,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1390543.651,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [113]
+				{
+					["message"] = "You are now Neutral with Waveblade Ankoan.",
+					["serverTime"] = 1636138275,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390567.332,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [114]
+				{
+					["message"] = "Reputation with Waveblade Ankoan increased by 75.",
+					["serverTime"] = 1636138277,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390569.218,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [115]
+				{
+					["message"] = "Reputation with Guild increased by 150.",
+					["serverTime"] = 1636138277,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390569.218,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [116]
+				{
+					["message"] = "Up Against It completed.",
+					["serverTime"] = 1636138277,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390569.236,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [117]
+				{
+					["message"] = "Received 34 Gold, 11 Silver.",
+					["serverTime"] = 1636138277,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390569.236,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [118]
+				{
+					["message"] = "Quest accepted: Where the Road Leads",
+					["serverTime"] = 1636138278,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390571.045,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [119]
+				{
+					["message"] = "Ankoan Bladesman says: This way. My people will harry the enemy while we work our way past the main army.",
+					["serverTime"] = 1636138278,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390571.045,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [120]
+				{
+					["message"] = "Lady Jaina Proudmoore says: A people called the jinyu aided the Alliance in Pandaria. Are they your kin?",
+					["serverTime"] = 1636138286,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390578.13,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [121]
+				{
+					["message"] = "Ankoan Bladesman says: My people are known as the ankoan. We left the land behind long ago.",
+					["serverTime"] = 1636138291,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390583.696,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [122]
+				{
+					["message"] = "Lady Jaina Proudmoore says: Azshara. Perhaps the most powerful sorceress the world has ever known.",
+					["serverTime"] = 1636138320,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390612.277,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [123]
+				{
+					["message"] = "Ankoan Bladesman says: You could not have stumbled upon this place by accident. She wanted you here.",
+					["serverTime"] = 1636138325,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390617.695,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [124]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Bomka:748:CHANNEL:4|h|cffa9d271Bomka|r|h|cffd8d8d8]|r: |cff66bbff|Hjournal:0:1030:2|h[Храм Сетралисс]|h|r m13 tank heal",
+					["serverTime"] = 1636138326,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						6, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390618.48,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [125]
+				{
+					["message"] = "Genn Greymane says: But why lure us here? Why not simply drown us and be done with it?",
+					["serverTime"] = 1636138331,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390623.858,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [126]
+				{
+					["message"] = "Lady Jaina Proudmoore says: There is something going on here that we do not yet understand. We must find out what she's after.",
+					["serverTime"] = 1636138335,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390628.038,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [127]
+				{
+					["message"] = "Shandris Feathermoon says: We will hold back the naga, King Greymane.",
+					["serverTime"] = 1636138347,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1390639.151,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [128]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

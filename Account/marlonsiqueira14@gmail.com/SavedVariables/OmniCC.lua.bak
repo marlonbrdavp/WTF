@@ -1,0 +1,30 @@
+
+OmniCCDB = {
+	["profileKeys"] = {
+		["Linestry - Sethraliss"] = "Default",
+		["Lunadry - Sethraliss"] = "Default",
+		["Alunary - Sethraliss"] = "Default",
+		["Alyardy - Sethraliss"] = "Default",
+	},
+	["global"] = {
+		["addonVersion"] = "8.3.6",
+		["dbVersion"] = 5,
+	},
+	["profiles"] = {
+		["Default"] = {
+			["themes"] = {
+				["Default"] = {
+					["textStyles"] = {
+						["minutes"] = {
+						},
+						["soon"] = {
+						},
+						["seconds"] = {
+						},
+					},
+				},
+			},
+		},
+	},
+}
+OmniCC4Config = nil

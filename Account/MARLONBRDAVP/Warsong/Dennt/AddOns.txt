@@ -1,0 +1,11 @@
+Grid2: enabled
+Grid2Options: enabled
+Grid2RaidDebuffsOptions: enabled
+Grid2RaidDebuffs: enabled
+Grid2LDB: enabled
+OPie_Classic: disabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+XPerl_TeamSpeak: disabled
+ZPerl_Options: enabled
+!BugGrabber: disabled

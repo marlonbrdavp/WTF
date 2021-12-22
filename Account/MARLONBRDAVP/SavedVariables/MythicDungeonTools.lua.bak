@@ -1,0 +1,12 @@
+
+MythicDungeonToolsDB = {
+	["profileKeys"] = {
+		["Dennt - Warsong"] = "Dennt - Warsong",
+		["Yndark - Warsong"] = "Yndark - Warsong",
+	},
+	["global"] = {
+		["minimap"] = {
+			["lock"] = true,
+		},
+	},
+}

@@ -1,0 +1,83 @@
+
+OmniCCDB = {
+	["profileKeys"] = {
+		["Mitsuya - Azralon"] = "Default",
+		["Selendiis - Goldrinn"] = "Padrão",
+		["Nymmeriah - Goldrinn"] = "Default",
+		["Ynlight - Goldrinn"] = "Default",
+		["Fuujiwara - Azralon"] = "Default",
+		["Mizuhara - Goldrinn"] = "Default",
+		["Mykkaza - Goldrinn"] = "Default",
+		["Shinomiyah - Goldrinn"] = "Default",
+		["Fuuji - Nemesis"] = "Default",
+		["Nishinoia - Goldrinn"] = "Default",
+		["Arcki - Azralon"] = "Default",
+	},
+	["global"] = {
+		["dbVersion"] = 6,
+		["addonVersion"] = "9.0.8",
+	},
+	["profiles"] = {
+		["Padrão"] = {
+			["themes"] = {
+				["Plater Nameplates Theme"] = {
+					["textStyles"] = {
+						["seconds"] = {
+						},
+						["minutes"] = {
+						},
+						["soon"] = {
+						},
+					},
+				},
+				["Padrão"] = {
+					["textStyles"] = {
+						["seconds"] = {
+						},
+						["minutes"] = {
+						},
+						["soon"] = {
+						},
+					},
+				},
+				["Default"] = {
+					["textStyles"] = {
+						["soon"] = {
+						},
+						["minutes"] = {
+						},
+						["seconds"] = {
+						},
+					},
+				},
+			},
+			["rules"] = {
+				{
+					["id"] = "Plater Nameplates Rule",
+					["patterns"] = {
+						"PlaterMainAuraIcon", -- [1]
+						"PlaterSecondaryAuraIcon", -- [2]
+						"ExtraIconRowIcon", -- [3]
+					},
+					["theme"] = "Plater Nameplates Theme",
+					["priority"] = 1,
+				}, -- [1]
+			},
+		},
+		["Default"] = {
+			["themes"] = {
+				["Default"] = {
+					["textStyles"] = {
+						["soon"] = {
+						},
+						["seconds"] = {
+						},
+						["minutes"] = {
+						},
+					},
+				},
+			},
+		},
+	},
+}
+OmniCC4Config = nil

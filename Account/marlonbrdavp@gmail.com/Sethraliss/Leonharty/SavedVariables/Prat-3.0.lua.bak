@@ -1,0 +1,3987 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 35,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:21:05]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1130:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: to sem mic",
+					["serverTime"] = 1637590866,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392827.215,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [1]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:21:56]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1131:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: majone",
+					["serverTime"] = 1637590917,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392879.185,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [2]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:22:08]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Mäjone:1132:GUILD|h|cffd8bc3f120|r:|cffa9d271Mäjone|r|h|cffd8d8d8]|r: diga",
+					["serverTime"] = 1637590929,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						98, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392890.664,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [3]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:22:14]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1133:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: tu ja viu um DH bater 200k single?",
+					["serverTime"] = 1637590935,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392897.142,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [4]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:22:25]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Mäjone:1134:GUILD|h|cffd8bc3f120|r:|cffa9d271Mäjone|r|h|cffd8d8d8]|r: já kkkkkkkkk",
+					["serverTime"] = 1637590946,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						98, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392907.397,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [5]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:22:32]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Mäjone:1135:GUILD|h|cffd8bc3f120|r:|cffa9d271Mäjone|r|h|cffd8d8d8]|r: bizarro",
+					["serverTime"] = 1637590953,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						98, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392914.966,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [6]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:22:34]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:1136:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: TANK",
+					["serverTime"] = 1637590955,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392917.115,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:22:44]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Mäjone:1137:GUILD|h|cffd8bc3f120|r:|cffa9d271Mäjone|r|h|cffd8d8d8]|r: ai nao",
+					["serverTime"] = 1637590965,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						98, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392926.882,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:22:45]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:1138:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: eu vi ele iniciar em 442k",
+					["serverTime"] = 1637590966,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392927.515,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:22:45]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1139:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: AMAZING",
+					["serverTime"] = 1637590966,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392928.049,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:22:55]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:1140:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: o boss iniciou com a metade da vida kkkkkkkkkkk",
+					["serverTime"] = 1637590976,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392937.882,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:23:07]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1141:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: sera q eh pay to win",
+					["serverTime"] = 1637590988,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392949.249,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:23:14]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:1142:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: sei não kkkkkkkkkk",
+					["serverTime"] = 1637590995,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392957.142,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:23:28]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Mäjone:1143:GUILD|h|cffd8bc3f120|r:|cffa9d271Mäjone|r|h|cffd8d8d8]|r: se for russo é 100% pay to win",
+					["serverTime"] = 1637591009,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						98, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392970.499,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:23:28]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1144:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: bora galera",
+					["serverTime"] = 1637591009,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392970.556,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:23:30]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1145:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: entra",
+					["serverTime"] = 1637591011,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392972.267,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:23:35]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1146:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: sige",
+					["serverTime"] = 1637591016,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392977.255,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:23:36]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:1147:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: oxe, me sumona kkkkk",
+					["serverTime"] = 1637591017,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392978.643,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:23:36]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1148:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: sige",
+					["serverTime"] = 1637591017,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392979.064,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:23:48]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1149:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: o nome dele eh Eírhenjar",
+					["serverTime"] = 1637591029,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392990.64,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:24:33]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1171:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: ja to dentro da dg",
+					["serverTime"] = 1637591074,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393036.052,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:35:23]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1246:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: 1 mim",
+					["serverTime"] = 1637591724,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393686.021,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:38:27]|h|r |cffd8d8d8[|r|Hplayer:Kyurisaloom:1272:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12727:Player-10-00866FD1:1:11:22:21:4294967295:4294967295:4294967295:4294967295|h[Stand by Me]|h|r |cffffffff(|rCompleted 8/10/20|cffffffff)|r!",
+					["serverTime"] = 1637591908,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						18, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393870.001,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:38:27]|h|r |cffd8d8d8[|r|Hplayer:Sukar:1274:GUILD|h|cffd8bc3f120|r:|cfffe7b09Sukar|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12727:Player-10-00866C55:1:11:22:21:4294967295:4294967295:4294967295:4294967295|h[Stand by Me]|h|r |cffffffff(|rCompleted 8/10/20|cffffffff)|r!",
+					["serverTime"] = 1637591908,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						18, -- [3]
+						112, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393870.001,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:43:54]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1321:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: traz tud pra ca",
+					["serverTime"] = 1637592235,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394196.403,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:45:04]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1329:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: q foi isso",
+					["serverTime"] = 1637592305,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394266.519,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:45:16]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1331:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: vao vim tudo pra ca",
+					["serverTime"] = 1637592317,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394278.557,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [27]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:46:00]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1333:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: vai traz d novo",
+					["serverTime"] = 1637592361,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394322.906,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [28]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:46:37]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sukar:1335:GUILD|h|cffd8bc3f120|r:|cfffe7b09Sukar|r|h|cffd8d8d8]|r: gnomo",
+					["serverTime"] = 1637592398,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						90, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394359.385,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:46:39]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sukar:1336:GUILD|h|cffd8bc3f120|r:|cfffe7b09Sukar|r|h|cffd8d8d8]|r: vem discord",
+					["serverTime"] = 1637592400,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						90, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394362.181,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:46:55]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1339:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: tem +",
+					["serverTime"] = 1637592416,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394377.925,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:52:32]|h|r |cffd8d8d8[|r|Hplayer:Sukar:1385:GUILD|h|cffd8bc3f120|r:|cfffe7b09Sukar|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12489:Player-10-00866C55:1:11:22:21:4294967295:4294967295:4294967295:4294967295|h[Losing My Profession]|h|r |cffffffff(|rCompleted 11/15/21|cffffffff)|r!",
+					["serverTime"] = 1637592753,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						18, -- [3]
+						112, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394714.239,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:52:32]|h|r |cffd8d8d8[|r|Hplayer:Kyurisaloom:1386:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12489:Player-10-00866FD1:1:11:22:21:4294967295:4294967295:4294967295:4294967295|h[Losing My Profession]|h|r |cffffffff(|rCompleted 11/15/21|cffffffff)|r!",
+					["serverTime"] = 1637592753,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						18, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394714.239,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [33]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:52:55]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1398:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: |cffa335ee|Hitem:162541::::::::120:256:512:16:4:40:5021:1617:4786:120:::|h[Band of the Roving Scalawag]|h|r",
+					["serverTime"] = 1637592776,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394737.881,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [34]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:52:58]|h|r |cffd8d8d8[|r|Hplayer:Sukar:1399:GUILD|h|cffd8bc3f120|r:|cfffe7b09Sukar|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:1178:Player-10-00866C55:1:11:22:21:4294967295:4294967295:4294967295:4294967295|h[Got My Mind On My Money]|h|r |cffffffff(|rCompleted 7/24/20|cffffffff)|r!",
+					["serverTime"] = 1637592779,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						18, -- [3]
+						112, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394741.092,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [35]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:06:12]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:915:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: SOLARIA A PORRA DE UMA M8",
+					["serverTime"] = 1637589973,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 391934.928,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [36]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:06:18]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:916:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: com certeza",
+					["serverTime"] = 1637589979,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 391941.016,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [37]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:06:26]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:918:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: meu druid não tanka mais que esse cara",
+					["serverTime"] = 1637589987,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 391949.031,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [38]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:06:32]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:920:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: se o zack vise",
+					["serverTime"] = 1637589993,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 391954.727,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [39]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:06:35]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:921:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: vocês olharam a build ele ?",
+					["serverTime"] = 1637589996,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 391957.739,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [40]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:06:40]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:923:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: zack choraria KKKKKKKKKKKKK",
+					["serverTime"] = 1637590001,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 391962.651,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [41]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:06:41]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:924:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: ia babar nele",
+					["serverTime"] = 1637590002,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 391963.254,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [42]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:06:49]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:929:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: mano, ele tem engaste em tudo",
+					["serverTime"] = 1637590010,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 391971.253,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [43]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:06:51]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:930:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: nao",
+					["serverTime"] = 1637590012,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 391973.676,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [44]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:06:52]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:931:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: '-'",
+					["serverTime"] = 1637590013,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 391974.442,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [45]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:07:21]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:933:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: upo +3",
+					["serverTime"] = 1637590042,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392003.554,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [46]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:07:23]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:934:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: ?",
+					["serverTime"] = 1637590044,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392005.75,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [47]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:07:42]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:935:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: upou",
+					["serverTime"] = 1637590063,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392024.424,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [48]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:07:44]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:936:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: |cffa335ee|Hkeystone:158923:250:11:10:8:12:120|h[Keystone: Temple of Sethraliss (11)]|h|r",
+					["serverTime"] = 1637590065,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392026.713,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [49]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:07:55]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:943:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: infelizmente não dropo nada kkkk",
+					["serverTime"] = 1637590076,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392038.06,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [50]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:07:58]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:944:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: da pra ir ou fica pesado?",
+					["serverTime"] = 1637590079,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392040.76,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [51]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:08:13]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:950:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: qual eh?",
+					["serverTime"] = 1637590094,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392055.652,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [52]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:08:19]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:954:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: s",
+					["serverTime"] = 1637590100,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392061.611,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [53]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:08:22]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:956:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: sethlasiss",
+					["serverTime"] = 1637590103,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392065.139,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [54]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:08:25]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:958:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: templo",
+					["serverTime"] = 1637590106,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392068.115,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [55]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:08:27]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:965:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: linka ai",
+					["serverTime"] = 1637590108,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392069.711,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [56]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:08:38]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:982:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: mano, eu preciso upar a minha key, não dropo itens com a minha no 5 =/",
+					["serverTime"] = 1637590119,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392080.528,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [57]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:09:04]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:989:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: bora fazer a tua entao",
+					["serverTime"] = 1637590145,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392106.728,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [58]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:09:17]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:991:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: AAmonet",
+					["serverTime"] = 1637590158,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392119.258,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [59]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:09:17]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:992:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: |cffa335ee|Hkeystone:158923:353:5:10:8:0:0|h[Pedra-chave: Cerco de Boralus (5)]|h|r",
+					["serverTime"] = 1637590158,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392119.539,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [60]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:09:19]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:994:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: quer ir pedra?",
+					["serverTime"] = 1637590160,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392122.048,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [61]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:09:22]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:997:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: templo d sethalim eh so o 1 boss q eh chato o resto eh mleza",
+					["serverTime"] = 1637590163,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392124.995,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [62]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:09:25]|h|r [W To] |cffd8d8d8[|r|Hplayer:Aamonet:999:WHISPER:AAMONET|h|cffd8bc3f120|r:|cff8686ecAamonet|r|h|cffd8d8d8]|r: vai pedra?",
+					["serverTime"] = 1637590166,
+					["r"] = 1,
+					["extraData"] = {
+						10, -- [1]
+						false, -- [2]
+						82, -- [3]
+						83, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392127.535,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [63]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:09:36]|h|r [W From] |cffd8d8d8[|r|Hplayer:Aamonet:1000:WHISPER:AAMONET|h|cffd8bc3f120|r:|cff8686ecAamonet|r|h|cffd8d8d8]|r: to em aula agora, n da",
+					["serverTime"] = 1637590177,
+					["r"] = 1,
+					["extraData"] = {
+						0, -- [1]
+						false, -- [2]
+						82, -- [3]
+						84, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392139.154,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [64]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:09:37]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1001:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: bora essa 5 ai",
+					["serverTime"] = 1637590178,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392140.059,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [65]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:09:40]|h|r [W To] |cffd8d8d8[|r|Hplayer:Aamonet:1002:WHISPER:AAMONET|h|cffd8bc3f120|r:|cff8686ecAamonet|r|h|cffd8d8d8]|r: blz",
+					["serverTime"] = 1637590181,
+					["r"] = 1,
+					["extraData"] = {
+						10, -- [1]
+						false, -- [2]
+						82, -- [3]
+						83, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392142.855,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [66]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:10:07]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1004:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: vamu ver se raio cai no mesmo canto 2 vezes e vcs consegui outro tank louco",
+					["serverTime"] = 1637590208,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392170.044,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [67]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:10:40]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:1011:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: kkkkkkkkkkkkk",
+					["serverTime"] = 1637590241,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392202.724,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [68]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:11:32]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1025:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: nao tem tank mas tem um DPS escroto ai",
+					["serverTime"] = 1637590293,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392254.513,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [69]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:11:34]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1026:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: 477",
+					["serverTime"] = 1637590295,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392256.342,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [70]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:12:21]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1033:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: cuidado q ilvl quer dizer nada",
+					["serverTime"] = 1637590342,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392303.764,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [71]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:12:37]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1034:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: eh",
+					["serverTime"] = 1637590358,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392320.129,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [72]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:12:41]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1035:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: mas so tem isso pra medir",
+					["serverTime"] = 1637590362,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392323.928,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [73]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:12:44]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1036:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: devia ter um addon",
+					["serverTime"] = 1637590365,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392326.814,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [74]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:12:50]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1037:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: que tu pudesse bater no stike ali",
+					["serverTime"] = 1637590371,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392333.005,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [75]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:12:58]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1040:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: dai ele calcula e mostra no premade",
+					["serverTime"] = 1637590379,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392340.611,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [76]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:13:05]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:1042:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: pela build, ta bom ele",
+					["serverTime"] = 1637590386,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392347.303,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [77]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:13:07]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1043:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: 30k dps 5min stick",
+					["serverTime"] = 1637590388,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392349.565,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [78]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:13:16]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1044:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: a tecnica eh coloca na pt e inspeciona",
+					["serverTime"] = 1637590397,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392358.915,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [79]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:14:03]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1045:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: mar eh m5 tem nada naum se fosse m15 era outra historia",
+					["serverTime"] = 1637590444,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392406.069,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [80]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:14:12]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Drainaina:1046:GUILD|h|cffd8bc3f120|r:|cfff38bb9Drainaina|r|h|cffd8d8d8]|r: bom dia meu queridos",
+					["serverTime"] = 1637590453,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						89, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392414.416,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [81]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:14:17]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1047:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: bom dia",
+					["serverTime"] = 1637590458,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392420.151,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [82]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:14:18]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:1048:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: quero corrup de aceleração 16%, tem ?=v",
+					["serverTime"] = 1637590459,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392421.107,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [83]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:14:30]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:1052:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: bom dia, bebe",
+					["serverTime"] = 1637590471,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392432.594,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [84]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:14:45]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1054:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: tem a T3 eh + d 5k echos",
+					["serverTime"] = 1637590486,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392448.07,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [85]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:15:02]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1056:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: tem build tank |cfff38bb9drainaina|r?",
+					["serverTime"] = 1637590503,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392465.065,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [86]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:15:16]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Drainaina:1057:GUILD|h|cffd8bc3f120|r:|cfff38bb9Drainaina|r|h|cffd8d8d8]|r: tenho n mano",
+					["serverTime"] = 1637590517,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						89, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392478.244,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [87]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:15:23]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1058:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: poxa",
+					["serverTime"] = 1637590524,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392485.664,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [88]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:15:34]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1060:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: vou ir de pala tank no SL",
+					["serverTime"] = 1637590535,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392496.333,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [89]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:15:38]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1061:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: maxu aindo to pensando no dano instantaneo daquele DH",
+					["serverTime"] = 1637590539,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392500.619,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [90]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:15:50]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1062:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: DH é o tank mais forte",
+					["serverTime"] = 1637590551,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392512.945,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [91]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:15:57]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:1063:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: mano",
+					["serverTime"] = 1637590558,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392519.668,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [92]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:15:58]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1064:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: no SL fica mais ainda",
+					["serverTime"] = 1637590559,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392521.003,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [93]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:16:03]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:1065:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: ele deu 1,5kk insta",
+					["serverTime"] = 1637590564,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392525.604,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [94]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:16:19]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1066:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: eh meu sonho chegar nesse nivel",
+					["serverTime"] = 1637590580,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392542.107,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [95]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:16:48]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1068:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: ai eu ia ganhar esses Euros no MDI",
+					["serverTime"] = 1637590609,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392570.73,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [96]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:17:00]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1070:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: m5 siege",
+					["serverTime"] = 1637590621,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392583.147,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [97]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:17:03]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1071:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: vai |cfff38bb9drainaina|r?",
+					["serverTime"] = 1637590624,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392586.025,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [98]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:17:19]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Drainaina:1072:GUILD|h|cffd8bc3f120|r:|cfff38bb9Drainaina|r|h|cffd8d8d8]|r: vou",
+					["serverTime"] = 1637590640,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						89, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392602.164,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [99]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:17:24]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Drainaina:1075:GUILD|h|cffd8bc3f120|r:|cfff38bb9Drainaina|r|h|cffd8d8d8]|r: vou entrar no druida",
+					["serverTime"] = 1637590645,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						89, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392606.769,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [100]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:17:27]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Drainaina:1076:GUILD|h|cffd8bc3f120|r:|cfff38bb9Drainaina|r|h|cffd8d8d8]|r: calma ai",
+					["serverTime"] = 1637590648,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						89, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392609.809,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [101]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:17:33]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1078:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: loga la",
+					["serverTime"] = 1637590654,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392615.759,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [102]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:17:35]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Drainaina:1079:GUILD|h|cffd8bc3f120|r:|cfff38bb9Drainaina|r|h|cffd8d8d8]|r: só n sei a mecanica",
+					["serverTime"] = 1637590656,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						89, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392617.63,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [103]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:17:44]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1081:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: bate em mob",
+					["serverTime"] = 1637590665,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392626.216,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [104]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:17:46]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1082:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: e depois bate em boss",
+					["serverTime"] = 1637590667,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392629.07,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [105]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:17:50]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1084:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: kkkkk zuando",
+					["serverTime"] = 1637590671,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392632.969,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [106]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:17:55]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sukar:1085:GUILD|h|cffd8bc3f120|r:|cfffe7b09Sukar|r|h|cffd8d8d8]|r: chama",
+					["serverTime"] = 1637590676,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						90, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392637.951,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [107]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:17:57]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:1086:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: mano, um pet bom pra sobrevivencia ? =v",
+					["serverTime"] = 1637590678,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392639.534,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [108]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:18:25]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1091:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: esse druida so tem heal?",
+					["serverTime"] = 1637590706,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392667.465,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [109]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:18:37]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:1092:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: não não",
+					["serverTime"] = 1637590718,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392679.888,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [110]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:18:39]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:1093:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: kkkkkk",
+					["serverTime"] = 1637590720,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392681.485,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [111]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:18:42]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:1094:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: ele só é burro =v",
+					["serverTime"] = 1637590723,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392684.975,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [112]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:19:08]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1099:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: vai de heal |cfffe7b09sukar|r?",
+					["serverTime"] = 1637590749,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392710.701,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [113]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:19:24]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sukar:1103:GUILD|h|cffd8bc3f120|r:|cfffe7b09Sukar|r|h|cffd8d8d8]|r: vou de tank",
+					["serverTime"] = 1637590765,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						90, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392726.257,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [114]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:19:30]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sukar:1104:GUILD|h|cffd8bc3f120|r:|cfffe7b09Sukar|r|h|cffd8d8d8]|r: mas ta mostrando hiles",
+					["serverTime"] = 1637590771,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						90, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392732.952,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [115]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:20:17]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1110:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: liberdade nao é uma opção",
+					["serverTime"] = 1637590818,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392779.422,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [116]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:20:20]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1111:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: bora",
+					["serverTime"] = 1637590821,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392782.408,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [117]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:20:23]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1112:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: oh o majone",
+					["serverTime"] = 1637590824,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392786.101,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [118]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:20:26]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Mäjone:1113:GUILD|h|cffd8bc3f120|r:|cffa9d271Mäjone|r|h|cffd8d8d8]|r: bom dia familia",
+					["serverTime"] = 1637590827,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						98, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392788.735,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [119]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:20:33]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1114:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: bom dia brou",
+					["serverTime"] = 1637590834,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392795.732,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [120]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:20:38]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:1122:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: chega Majone",
+					["serverTime"] = 1637590839,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392800.633,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [121]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:20:38]|h|r [W From] |cffd8d8d8[|r|Hplayer:Shadowtakerz:1123:WHISPER:SHADOWTAKERZ|h|cfff38bb9Shadowtakerz|r|h|cffd8d8d8]|r: SUMM?",
+					["serverTime"] = 1637590839,
+					["r"] = 1,
+					["extraData"] = {
+						0, -- [1]
+						false, -- [2]
+						99, -- [3]
+						100, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392800.755,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [122]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:20:40]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:1124:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: m5",
+					["serverTime"] = 1637590841,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392802.329,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [123]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:20:41]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:1125:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: =v",
+					["serverTime"] = 1637590842,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392803.626,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [124]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:20:48]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sukar:1126:GUILD|h|cffd8bc3f120|r:|cfffe7b09Sukar|r|h|cffd8d8d8]|r: chama Majone",
+					["serverTime"] = 1637590849,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						90, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392810.895,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [125]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:20:52]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1127:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: susa eim majone",
+					["serverTime"] = 1637590853,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392814.884,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [126]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:20:52]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Mäjone:1128:GUILD|h|cffd8bc3f120|r:|cffa9d271Mäjone|r|h|cffd8d8d8]|r: bora po",
+					["serverTime"] = 1637590853,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						98, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392815.053,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [127]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:20:59]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Mäjone:1129:GUILD|h|cffd8bc3f120|r:|cffa9d271Mäjone|r|h|cffd8d8d8]|r: colem discord",
+					["serverTime"] = 1637590860,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						98, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392821.567,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [128]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 53,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Inbred:1308:CHANNEL:1|h|cffa22fc8Inbred|r|h|cffd8d8d8]|r: Having part time wont cut it but since they dont knnnow shit clearly they are the basement dwellers",
+					["serverTime"] = 1637592038,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						115, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393999.642,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [1]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |hInbred-Sethraliss Player Inbred-Sethraliss kicked by Refrezh-Sethraliss.",
+					["serverTime"] = 1637592040,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						125, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394001.264,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [2]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Afela:1310:CHANNEL:1|h|cfffefefeAfela|r|h|cffd8d8d8]|r: a GM in BFA! Whats nxt? Unicorms?",
+					["serverTime"] = 1637592041,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						126, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394003.085,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [3]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Ispellyou:1311:CHANNEL:1|h|cff3ec5e9Ispellyou|r|h|cffd8d8d8]|r: :O",
+					["serverTime"] = 1637592051,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						119, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394012.529,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [4]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Armonthus:1312:CHANNEL:1|h|cffc59a6cArmonthus|r|h|cffd8d8d8]|r: m12 freehold healer",
+					["serverTime"] = 1637592053,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						128, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394014.701,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [5]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dalaedor:1313:CHANNEL:1|h|cff00fe95Dalaedor|r|h|cffd8d8d8]|r: wow",
+					["serverTime"] = 1637592061,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						104, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394022.737,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [6]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Saijyo:1314:CHANNEL:1|h|cffc59a6cSaijyo|r|h|cffd8d8d8]|r: haha guys i would be careful now xD",
+					["serverTime"] = 1637592062,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						130, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394023.246,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [7]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Gnomohabe:1315:SAY|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: Interrupted |cff71d5ff|Hspell:272581:0|h[Jato d'Água]|h|r on Trovoeiro Rato de Porão",
+					["serverTime"] = 1637592105,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						27, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394066.35,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [8]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dalaedor:1316:CHANNEL:1|h|cff00fe95Dalaedor|r|h|cffd8d8d8]|r: niggas cant take it!",
+					["serverTime"] = 1637592107,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						104, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394068.823,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [9]
+				{
+					["message"] = "|cff33ff99Grid2|r: Grid2Options cannot be loaded in combat.",
+					["timestamp"] = 394104.317,
+					["serverTime"] = 1637592143,
+				}, -- [10]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Melpo:1319:CHANNEL:1|h|cffc59a6cMelpo|r|h|cffd8d8d8]|r: how can i get Vicidous saddle for mount in stormwind?",
+					["serverTime"] = 1637592222,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394183.807,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [11]
+				{
+					["message"] = "|Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1321:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: traz tud pra ca",
+					["serverTime"] = 1637592235,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394196.403,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [12]
+				{
+					["message"] = "|cffffaeaeDetails!:|r |cFFFFBB00First Hit|r: *?* |cFFFFBB00Boss First Target|r: Sukar    ",
+					["timestamp"] = 394204.509,
+					["serverTime"] = 1637592243,
+				}, -- [13]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dalaedor:1323:CHANNEL:1|h|cff00fe95Dalaedor|r|h|cffd8d8d8]|r: where is all that complainers ? :DDDD",
+					["serverTime"] = 1637592243,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						104, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394205.207,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [14]
+				{
+					["message"] = "|cfffe7b09Sukar|r has died.",
+					["serverTime"] = 1637592287,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394248.355,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [15]
+				{
+					["message"] = "|cff71d5ff|Hdeath:4|h[You died.]|h",
+					["serverTime"] = 1637592298,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394260.198,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [16]
+				{
+					["message"] = "|cfffef367Gnomohabe|r has died.",
+					["serverTime"] = 1637592298,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394260.198,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [17]
+				{
+					["message"] = "|Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1329:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: q foi isso",
+					["serverTime"] = 1637592305,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394266.519,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [18]
+				{
+					["message"] = "|cffa9d271Mäjone|r has died.",
+					["serverTime"] = 1637592311,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394272.313,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [19]
+				{
+					["message"] = "|Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1331:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: vao vim tudo pra ca",
+					["serverTime"] = 1637592317,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394278.557,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [20]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Afela:1332:CHANNEL:1|h|cfffefefeAfela|r|h|cffd8d8d8]|r: need to be top ranked pvp to et vicious seddle, i think",
+					["serverTime"] = 1637592350,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						126, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394311.81,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [21]
+				{
+					["message"] = "|Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1333:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: vai traz d novo",
+					["serverTime"] = 1637592361,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394322.906,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [22]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dalaedor:1334:CHANNEL:1|h|cff00fe95Dalaedor|r|h|cffd8d8d8]|r: i think yes",
+					["serverTime"] = 1637592361,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						104, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394323.196,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [23]
+				{
+					["message"] = "|Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sukar:1335:GUILD|h|cffd8bc3f120|r:|cfffe7b09Sukar|r|h|cffd8d8d8]|r: gnomo",
+					["serverTime"] = 1637592398,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						90, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394359.385,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [24]
+				{
+					["message"] = "|Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sukar:1336:GUILD|h|cffd8bc3f120|r:|cfffe7b09Sukar|r|h|cffd8d8d8]|r: vem discord",
+					["serverTime"] = 1637592400,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						90, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394362.181,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [25]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Afela:1337:CHANNEL:1|h|cfffefefeAfela|r|h|cffd8d8d8]|r: i havent really seen anyone actualy riding a vicious mount though",
+					["serverTime"] = 1637592405,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						126, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394366.733,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [26]
+				{
+					["message"] = "|cffffaeaeDetails!:|r |cFFFFBB00First Hit|r: *?* |cFFFFBB00Boss First Target|r: Sukar    ",
+					["timestamp"] = 394372.638,
+					["serverTime"] = 1637592411,
+				}, -- [27]
+				{
+					["message"] = "|Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1339:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: tem +",
+					["serverTime"] = 1637592416,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394377.925,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [28]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dalaedor:1340:CHANNEL:1|h|cff00fe95Dalaedor|r|h|cffd8d8d8]|r: i think i have not too",
+					["serverTime"] = 1637592430,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						104, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394391.308,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [29]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Twoninee:1341:CHANNEL:1|h|cffc31d39Twoninee|r|h|cffd8d8d8]|r: F ally",
+					["serverTime"] = 1637592437,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						132, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394398.56,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [30]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Afela:1342:CHANNEL:1|h|cfffefefeAfela|r|h|cffd8d8d8]|r: you mount collector?",
+					["serverTime"] = 1637592492,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						126, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394453.789,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [31]
+				{
+					["message"] = "|cffffaeaeDetails!:|r |cFFFFBB00First Hit|r: *?* |cFFFFBB00Boss First Target|r: Sukar    ",
+					["timestamp"] = 394504.474,
+					["serverTime"] = 1637592543,
+				}, -- [32]
+				{
+					["message"] = "|cffffaeaeDetails!:|r |cFFFFBB00First Hit|r: *?* |cFFFFBB00Boss First Target|r: Sukar    ",
+					["timestamp"] = 394583.674,
+					["serverTime"] = 1637592622,
+				}, -- [33]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Gnomohabe:1355:SAY|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: Águas Pútridas em |cfffef367Gnomohabe|r!",
+					["serverTime"] = 1637592628,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						27, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394589.579,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [34]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Leonharty:1360:SAY|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: Putrid Waters on |cff00ff00Leonharty|r",
+					["serverTime"] = 1637592650,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						27, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394611.797,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [35]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Leonharty:1363:SAY|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: Putrid Waters on |cff00ff00Leonharty|r",
+					["serverTime"] = 1637592670,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						27, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394631.323,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [36]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Bserker:1367:CHANNEL:1|h|cffa9d271Bserker|r|h|cffd8d8d8]|r: wtb |cffa335ee|Hitem:2801::::::::120:255:::1:3524:::|h[Blade of Hanna]|h|r",
+					["serverTime"] = 1637592688,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						134, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394649.694,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [37]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Leonharty:1368:SAY|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: Putrid Waters on |cff00ff00Leonharty|r",
+					["serverTime"] = 1637592690,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						27, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394651.753,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [38]
+				{
+					["message"] = "|cfffe7b09Sukar|r has died.",
+					["serverTime"] = 1637592710,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394671.213,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [39]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Gnomohabe:1373:SAY|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: Águas Pútridas em |cfffef367Gnomohabe|r!",
+					["serverTime"] = 1637592712,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						27, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394673.771,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [40]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Leonharty:1374:SAY|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: Putrid Waters on |cff00ff00Leonharty|r",
+					["serverTime"] = 1637592713,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						27, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394674.399,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [41]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Mäjone:1378:SAY|h|cffd8bc3f120|r:|cffa9d271Mäjone|r|h|cffd8d8d8]|r: Águas Pútridas em |cffa9d271Mäjone|r!",
+					["serverTime"] = 1637592733,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						27, -- [3]
+						101, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394694.692,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [42]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Gnomohabe:1379:SAY|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: Águas Pútridas em |cfffef367Gnomohabe|r!",
+					["serverTime"] = 1637592733,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						27, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394694.995,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [43]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Leonharty:1383:SAY|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: Putrid Waters on |cff00ff00Leonharty|r",
+					["serverTime"] = 1637592752,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						27, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394713.741,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [44]
+				{
+					["message"] = "Dungeon Difficulty set to Mythic.",
+					["serverTime"] = 1637592752,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394714.194,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [45]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Sukar:1385:GUILD|h|cffd8bc3f120|r:|cfffe7b09Sukar|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12489:Player-10-00866C55:1:11:22:21:4294967295:4294967295:4294967295:4294967295|h[Losing My Profession]|h|r |cffffffff(|rCompleted 11/15/21|cffffffff)|r!",
+					["serverTime"] = 1637592753,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						18, -- [3]
+						112, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394714.239,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [46]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Kyurisaloom:1386:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12489:Player-10-00866FD1:1:11:22:21:4294967295:4294967295:4294967295:4294967295|h[Losing My Profession]|h|r |cffffffff(|rCompleted 11/15/21|cffffffff)|r!",
+					["serverTime"] = 1637592753,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						18, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394714.239,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [47]
+				{
+					["message"] = "You receive item: |cff0070dd|Hcurrency:1553:290|h[Glowing Azerite Crystal]|h|r.",
+					["serverTime"] = 1637592769,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394730.989,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [48]
+				{
+					["message"] = "|cffe6cc80|Hitem:158075::::::::120:256:512:11:4:4936:4929:5814:1634:110:::|h[Heart of Azeroth]|h|r gains 290 Artifact Power.",
+					["serverTime"] = 1637592769,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394730.989,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [49]
+				{
+					["message"] = "|Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1398:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: |cffa335ee|Hitem:162541::::::::120:256:512:16:4:40:5021:1617:4786:120:::|h[Band of the Roving Scalawag]|h|r",
+					["serverTime"] = 1637592776,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394737.881,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [50]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Sukar:1399:GUILD|h|cffd8bc3f120|r:|cfffe7b09Sukar|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:1178:Player-10-00866C55:1:11:22:21:4294967295:4294967295:4294967295:4294967295|h[Got My Mind On My Money]|h|r |cffffffff(|rCompleted 7/24/20|cffffffff)|r!",
+					["serverTime"] = 1637592779,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						18, -- [3]
+						112, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394741.092,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [51]
+				{
+					["message"] = "Loot Specialization set to: Discipline",
+					["serverTime"] = 1637592806,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 394767.504,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [52]
+				{
+					["message"] = "|cff00ff00Leonharty|r has gone offline.",
+					["serverTime"] = 1637592828,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 394789.807,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [53]
+				{
+					["message"] = "|Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1146:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: sige",
+					["serverTime"] = 1637591016,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392977.255,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [54]
+				{
+					["message"] = "|Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyurisaloom:1147:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r: oxe, me sumona kkkkk",
+					["serverTime"] = 1637591017,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392978.643,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [55]
+				{
+					["message"] = "|Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Leonharty:1148:GUILD|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: sige",
+					["serverTime"] = 1637591017,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392979.064,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [56]
+				{
+					["message"] = "|Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1149:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: o nome dele eh Eírhenjar",
+					["serverTime"] = 1637591029,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 392990.64,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [57]
+				{
+					["message"] = "Loot Specialization set to: Discipline",
+					["serverTime"] = 1637591035,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 392996.344,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [58]
+				{
+					["message"] = "Loot Specialization set to: Discipline",
+					["serverTime"] = 1637591063,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 393024.737,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [59]
+				{
+					["message"] = "|Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1171:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: ja to dentro da dg",
+					["serverTime"] = 1637591074,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393036.052,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [60]
+				{
+					["message"] = "Starting ready check...",
+					["serverTime"] = 1637591092,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393053.659,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [61]
+				{
+					["message"] = "Everyone is Ready",
+					["serverTime"] = 1637591094,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393055.686,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [62]
+				{
+					["message"] = "The party leader has attempted to reset the instance you are in.  Please zone out to allow the instance to reset.",
+					["serverTime"] = 1637591105,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393067.018,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [63]
+				{
+					["message"] = "Dungeon Difficulty set to Mythic Keystone.",
+					["serverTime"] = 1637591105,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393067.018,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [64]
+				{
+					["message"] = "Loot Specialization set to: Discipline",
+					["serverTime"] = 1637591107,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 393068.958,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [65]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Gnomohabe:1191:SAY|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: Interrupted |cff71d5ff|Hspell:257063:0|h[Seta Salobre]|h|r on Moldaonda Maré-férrea",
+					["serverTime"] = 1637591137,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						27, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393098.589,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [66]
+				{
+					["message"] = "|cffffff00[|c00077766Autobroadcast|cffffff00]: |cFFF222FFJoin the english world : /join world_en|r",
+					["serverTime"] = 1637591178,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393139.916,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [67]
+				{
+					["message"] = "|cffa9d271Mäjone|r has died.",
+					["serverTime"] = 1637591192,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393153.826,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [68]
+				{
+					["message"] = "|cff71d5ff|Hdeath:3|h[You died.]|h",
+					["serverTime"] = 1637591198,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393159.514,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [69]
+				{
+					["message"] = "|cfffef367Gnomohabe|r has died.",
+					["serverTime"] = 1637591201,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393162.613,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [70]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:집게발:1206|h|cffd8bc3f120|r:|cff00fe95집게발|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1637591235,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393196.534,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [71]
+				{
+					["message"] = "|cfffe7b09Sukar|r has died.",
+					["serverTime"] = 1637591236,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393197.575,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [72]
+				{
+					["message"] = "|cffffaeaeDetails!:|r |cFFFFBB00First Hit|r: *?* |cFFFFBB00Boss First Target|r: Sukar    ",
+					["timestamp"] = 393408.5,
+					["serverTime"] = 1637591447,
+				}, -- [73]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Leonharty:1213:SAY|h|cffd8bc3f120|r:|cfffefefeLeonharty|r|h|cffd8d8d8]|r: On the Hook on |cff00ff00Leonharty|r",
+					["serverTime"] = 1637591449,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						27, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393410.359,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [74]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Mäjone:1219:SAY|h|cffd8bc3f120|r:|cffa9d271Mäjone|r|h|cffd8d8d8]|r: No Gancho em |cffa9d271Mäjone|r!",
+					["serverTime"] = 1637591476,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						27, -- [3]
+						101, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393437.553,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [75]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Gnomohabe:1230:SAY|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: Interrupted |cff71d5ff|Hspell:257063:0|h[Seta Salobre]|h|r on Moldaonda Maré-férrea",
+					["serverTime"] = 1637591553,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						27, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393515.001,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [76]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Ribaars:1235:CHANNEL:1|h|cffa22fc8Ribaars|r|h|cffd8d8d8]|r: No PH Guild?",
+					["serverTime"] = 1637591590,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						102, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393552.154,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [77]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Gnomohabe:1240:SAY|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: Artilharia Avistada em |cfffef367Gnomohabe|r!",
+					["serverTime"] = 1637591606,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						27, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393568.085,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [78]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dalaedor:1241:CHANNEL:1|h|cff00fe95Dalaedor|r|h|cffd8d8d8]|r: no kids anymore",
+					["serverTime"] = 1637591640,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						104, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393602.203,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [79]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Agimat:1242:CHANNEL:1|h|cfffe7b09Agimat|r|h|cffd8d8d8]|r: are you old?",
+					["serverTime"] = 1637591658,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393620.202,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [80]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Gnomohabe:1243:SAY|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: Interrupted |cff71d5ff|Hspell:257063:0|h[Seta Salobre]|h|r on Moldaonda Maré-férrea",
+					["serverTime"] = 1637591683,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						27, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393644.458,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [81]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Angelikcz:1244:CHANNEL:1|h|cfffe7b09Angelikcz|r|h|cffd8d8d8]|r: toxic",
+					["serverTime"] = 1637591696,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						106, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393657.557,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [82]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dalaedor:1245:CHANNEL:1|h|cff00fe95Dalaedor|r|h|cffd8d8d8]|r: im 18",
+					["serverTime"] = 1637591706,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						104, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393667.694,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [83]
+				{
+					["message"] = "|Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gnomohabe:1246:GUILD|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: 1 mim",
+					["serverTime"] = 1637591724,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						18, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393686.021,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [84]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Angelikcz:1247:CHANNEL:1|h|cfffe7b09Angelikcz|r|h|cffd8d8d8]|r: ahh boy 18",
+					["serverTime"] = 1637591738,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						106, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393699.858,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [85]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Ribaars:1248:CHANNEL:1|h|cffa22fc8Ribaars|r|h|cffd8d8d8]|r: Still living in mama's basement boy?",
+					["serverTime"] = 1637591751,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						102, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393712.997,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [86]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Jiramatrath:1251:CHANNEL:1|h|cffc31d39Jiramatrath|r|h|cffd8d8d8]|r: like most people nowadays",
+					["serverTime"] = 1637591792,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						108, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393753.267,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [87]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dalaedor:1253:CHANNEL:1|h|cff00fe95Dalaedor|r|h|cffd8d8d8]|r: i have have my room here so",
+					["serverTime"] = 1637591803,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						104, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393764.47,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [88]
+				{
+					["message"] = "|cffa9d271Mäjone|r has died.",
+					["serverTime"] = 1637591803,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393765.079,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [89]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Ribaars:1255:CHANNEL:1|h|cffa22fc8Ribaars|r|h|cffd8d8d8]|r: Nope.",
+					["serverTime"] = 1637591810,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						102, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393771.342,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [90]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dalaedor:1256:CHANNEL:1|h|cff00fe95Dalaedor|r|h|cffd8d8d8]|r: im still living with parents yea.",
+					["serverTime"] = 1637591810,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						104, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393771.669,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [91]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Ribaars:1258:CHANNEL:1|h|cffa22fc8Ribaars|r|h|cffd8d8d8]|r: don't talk shit when you're not earning your own $$ yet, 'boy'.",
+					["serverTime"] = 1637591848,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						102, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393809.75,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [92]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dalaedor:1259:CHANNEL:1|h|cff00fe95Dalaedor|r|h|cffd8d8d8]|r: im working bro :D",
+					["serverTime"] = 1637591855,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						104, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393816.238,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [93]
+				{
+					["message"] = "|cffffaeaeDetails!:|r |cFFFFFF00First Hit|r: |cff71d5ff|Hspell:8676:0|h[Ambush]|h|r from Gnomohabe |cFFFFBB00Boss First Target|r: Sukar    ",
+					["timestamp"] = 393820.662,
+					["serverTime"] = 1637591859,
+				}, -- [94]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Angelikcz:1262:CHANNEL:1|h|cfffe7b09Angelikcz|r|h|cffd8d8d8]|r: so you can't |cffffff00|Hinvplr:your|h[invite your]|h|r girl into the house",
+					["serverTime"] = 1637591865,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						106, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393826.281,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [95]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Jiramatrath:1263:CHANNEL:1|h|cffc31d39Jiramatrath|r|h|cffd8d8d8]|r: you can earn money but still stay with your parents",
+					["serverTime"] = 1637591868,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						108, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393829.415,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [96]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Melpo:1265:CHANNEL:1|h|cffc59a6cMelpo|r|h|cffd8d8d8]|r: living with your parents means u dont earn your own shit? haha",
+					["serverTime"] = 1637591872,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393834.042,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [97]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Earalyn:1268:CHANNEL:1|h|cffa22fc8Earalyn|r|h|cffd8d8d8]|r: He's 18 and ur saying it's a shame to live with parents, what a idiot",
+					["serverTime"] = 1637591882,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						110, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393843.959,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [98]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dalaedor:1270:CHANNEL:1|h|cff00fe95Dalaedor|r|h|cffd8d8d8]|r: i work 4 days per week and then i do stocks.",
+					["serverTime"] = 1637591893,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						104, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393854.369,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [99]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Kyurisaloom:1272:GUILD|h|cffd8bc3f120|r:|cffa9d271Kyurisaloom|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12727:Player-10-00866FD1:1:11:22:21:4294967295:4294967295:4294967295:4294967295|h[Stand by Me]|h|r |cffffffff(|rCompleted 8/10/20|cffffffff)|r!",
+					["serverTime"] = 1637591908,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						18, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393870.001,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [100]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Sukar:1274:GUILD|h|cffd8bc3f120|r:|cfffe7b09Sukar|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12727:Player-10-00866C55:1:11:22:21:4294967295:4294967295:4294967295:4294967295|h[Stand by Me]|h|r |cffffffff(|rCompleted 8/10/20|cffffffff)|r!",
+					["serverTime"] = 1637591908,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						18, -- [3]
+						112, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393870.001,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [101]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Elonï:1277:CHANNEL:1|h|cff3ec5e9Elonï|r|h|cffd8d8d8]|r: housing is expensive, you guys know that right?",
+					["serverTime"] = 1637591910,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						113, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393871.751,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [102]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Jiramatrath:1278:CHANNEL:1|h|cffc31d39Jiramatrath|r|h|cffd8d8d8]|r: it's such a modern and retarded idea that it's a shame to not leave your family",
+					["serverTime"] = 1637591919,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						108, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393880.76,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [103]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Melpo:1279:CHANNEL:1|h|cffc59a6cMelpo|r|h|cffd8d8d8]|r: these days, more than ever",
+					["serverTime"] = 1637591920,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393881.726,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [104]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Ribaars:1282:CHANNEL:1|h|cffa22fc8Ribaars|r|h|cffd8d8d8]|r: Let me say it better, Don't talk Shit when you're still a weight your parents carry",
+					["serverTime"] = 1637591928,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						102, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393889.544,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [105]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Earalyn:1283:CHANNEL:1|h|cffa22fc8Earalyn|r|h|cffd8d8d8]|r: i'm leaving with my parents at 21 and getting paid everymonth and that's not a shame",
+					["serverTime"] = 1637591934,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						110, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393895.242,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [106]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Earalyn:1284:CHANNEL:1|h|cffa22fc8Earalyn|r|h|cffd8d8d8]|r: living *",
+					["serverTime"] = 1637591937,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						110, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393898.244,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [107]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dalaedor:1286:CHANNEL:1|h|cff00fe95Dalaedor|r|h|cffd8d8d8]|r: im not weight anymore i pay %50 sallary to my mom",
+					["serverTime"] = 1637591949,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						104, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393910.284,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [108]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Inbred:1287:CHANNEL:1|h|cffa22fc8Inbred|r|h|cffd8d8d8]|r: You guys are legit talking shit to someone who is 18 and living at home?",
+					["serverTime"] = 1637591949,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						115, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393910.575,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [109]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Inbred:1288:CHANNEL:1|h|cffa22fc8Inbred|r|h|cffd8d8d8]|r: Most of you idiots didnt even have a job when you were 18",
+					["serverTime"] = 1637591957,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						115, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393918.781,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [110]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Elonï:1289:CHANNEL:1|h|cff3ec5e9Elonï|r|h|cffd8d8d8]|r: that isn't a shame at all especially when you can save some coin",
+					["serverTime"] = 1637591962,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						113, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393923.391,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [111]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Gnomohabe:1290:SAY|h|cffd8bc3f120|r:|cfffef367Gnomohabe|r|h|cffd8d8d8]|r: Interrupted |cff71d5ff|Hspell:272581:0|h[Jato d'Água]|h|r on Trovoeiro Rato de Porão",
+					["serverTime"] = 1637591977,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						27, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393939.108,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [112]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Earalyn:1292:CHANNEL:1|h|cffa22fc8Earalyn|r|h|cffd8d8d8]|r: i were in school at 18, how can u get ur own place when u study ?",
+					["serverTime"] = 1637591981,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						110, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393943.131,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [113]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dalaedor:1293:CHANNEL:1|h|cff00fe95Dalaedor|r|h|cffd8d8d8]|r: it cant disburn me",
+					["serverTime"] = 1637591990,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						104, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393951.504,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [114]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dalaedor:1294:CHANNEL:1|h|cff00fe95Dalaedor|r|h|cffd8d8d8]|r: some random on video game",
+					["serverTime"] = 1637591995,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						104, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393956.606,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [115]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dalaedor:1295:CHANNEL:1|h|cff00fe95Dalaedor|r|h|cffd8d8d8]|r: im fully focused",
+					["serverTime"] = 1637592000,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						104, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393961.405,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [116]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Melpo:1296:CHANNEL:1|h|cffc59a6cMelpo|r|h|cffd8d8d8]|r: most people at 18 are either in school, or serving army",
+					["serverTime"] = 1637592002,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393963.462,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [117]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Inbred:1297:CHANNEL:1|h|cffa22fc8Inbred|r|h|cffd8d8d8]|r: Doesnt matter if its a game or not",
+					["serverTime"] = 1637592002,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						115, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393963.581,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [118]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|TInterface\\ChatFrame\\UI-ChatIcon-Blizz.blp:0:2:0:-3|t |cffd8d8d8[|r|Hplayer:Refrezh:1298:CHANNEL:1|h|cffa5a5a5Refrezh|r|h|cffd8d8d8]|r: Enough now, drop this all of you!",
+					["serverTime"] = 1637592007,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						117, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393968.674,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [119]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Inbred:1299:CHANNEL:1|h|cffa22fc8Inbred|r|h|cffd8d8d8]|r: When ppl think its bad to live at home when you are 18",
+					["serverTime"] = 1637592008,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						115, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393969.596,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [120]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Jiramatrath:1300:CHANNEL:1|h|cffc31d39Jiramatrath|r|h|cffd8d8d8]|r: even with a decent job you need the help of the bank to get a decent house now",
+					["serverTime"] = 1637592008,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						108, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393970.196,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [121]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Elonï:1301:CHANNEL:1|h|cff3ec5e9Elonï|r|h|cffd8d8d8]|r: yeah",
+					["serverTime"] = 1637592014,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						113, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393975.819,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [122]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Inbred:1302:CHANNEL:1|h|cffa22fc8Inbred|r|h|cffd8d8d8]|r: Not only that",
+					["serverTime"] = 1637592020,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						115, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393981.307,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [123]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Earalyn:1303:CHANNEL:1|h|cffa22fc8Earalyn|r|h|cffd8d8d8]|r: let him talk alone",
+					["serverTime"] = 1637592021,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						110, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393982.59,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [124]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Ispellyou:1304:CHANNEL:1|h|cff3ec5e9Ispellyou|r|h|cffd8d8d8]|r: A GM! it's not a myth :D",
+					["serverTime"] = 1637592022,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						119, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393983.654,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [125]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Inbred:1305:CHANNEL:1|h|cffa22fc8Inbred|r|h|cffd8d8d8]|r: You need a fulltime job",
+					["serverTime"] = 1637592023,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						115, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393984.708,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [126]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Minzii:1306:CHANNEL:1|h|cff00fe95Minzii|r|h|cffd8d8d8]|r: en español",
+					["serverTime"] = 1637592032,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						121, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393993.227,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [127]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Zenmo:1307:CHANNEL:1|h|cff00fe95Zenmo|r|h|cffd8d8d8]|r: free well",
+					["serverTime"] = 1637592035,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						123, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 393996.222,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [128]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

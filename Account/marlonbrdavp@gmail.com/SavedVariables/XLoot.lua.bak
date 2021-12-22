@@ -1,0 +1,63 @@
+
+XLootADB = {
+	["namespaces"] = {
+		["Group"] = {
+			["profiles"] = {
+				["Default"] = {
+					["alert_anchor"] = {
+						["visible"] = false,
+					},
+					["roll_anchor"] = {
+						["y"] = 330.9998779296875,
+						["x"] = 1299.999755859375,
+						["visible"] = false,
+					},
+				},
+			},
+		},
+		["Frame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["autoloots"] = {
+						["all"] = "always",
+					},
+				},
+			},
+		},
+		["Master"] = {
+		},
+		["Monitor"] = {
+			["profiles"] = {
+				["Default"] = {
+					["threshold_own"] = 1,
+					["fade_other"] = 30,
+					["anchor"] = {
+						["visible"] = false,
+						["y"] = 360.9998779296875,
+						["x"] = 0,
+					},
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Undineh - Oribos"] = "Default",
+		["Hanjih - Shadowlands OBTR"] = "Default",
+		["Alunary - Sethraliss"] = "Default",
+		["Leonharty - Sethraliss"] = "Default",
+		["Hanjy - Shadowlands OBTR"] = "Default",
+		["Mithsuya - Sethraliss"] = "Default",
+		["Hanj - Oribos"] = "Default",
+		["Sylfy - Sethraliss"] = "Default",
+		["Sylphety - Sethraliss"] = "Default",
+		["Arckerman - Oribos"] = "Default",
+		["Linaell - Sethraliss"] = "Default",
+		["Ynlight - Sethraliss"] = "Default",
+		["Arckerman - Sethraliss"] = "Default",
+		["Arckerman - Shadowlands OBTR"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

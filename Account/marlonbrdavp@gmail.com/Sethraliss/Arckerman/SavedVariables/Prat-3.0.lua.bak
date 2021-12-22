@@ -1,0 +1,2308 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 16,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:35:48]|h|r Guild Message of the Day: \"Sejam bem vindos(a) UnionCity.BR. Raid todos os dias na semana, exceto na terça.Entrem discord da guild.https://discord.gg/9EWTw\"",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["serverTime"] = 1637436284,
+					["timestamp"] = 322499.854,
+					["g"] = 1,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+				}, -- [1]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[16:24:43]|h|r Guild Message of the Day: \"Sejam bem vindos(a) UnionCity.BR. Raid todos os dias na semana, exceto na terça.Entrem discord da guild.https://discord.gg/9EWTw\"",
+					["g"] = 1,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 322499.854,
+					["serverTime"] = 1637514911,
+					["b"] = 0.250980406999588,
+				}, -- [2]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:15:10]|h|r Guild Message of the Day: \"Sejam bem vindos(a) UnionCity.BR. Raid todos os dias na semana, exceto na terça.Entrem discord da guild.https://discord.gg/9EWTw\"",
+					["serverTime"] = 1637520542,
+					["r"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+					["timestamp"] = 322499.854,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 1,
+				}, -- [3]
+				{
+					["message"] = "0 |4day:days;, 0 |4hour:hours;, 0 |4minute:minutes;, 0 |4second:seconds;",
+					["timestamp"] = 322499.854,
+				}, -- [4]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 322499.854,
+				}, -- [5]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[15:49:00]|h|r Guild Message of the Day: \"Sejam bem vindos(a) UnionCity.BR. Raid todos os dias na semana, exceto na terça.Entrem discord da guild.https://discord.gg/9EWTw\"",
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 322499.202,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [6]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[15:50:58]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kariinsz:222:GUILD|h|cffd8bc3f120|r:|cfffefefeKariinsz|r|h|cffd8d8d8]|r: |cffa335ee|Hkeystone:158923:245:8:10:8:12:0|h[Pedra-chave: Angra do Facão (8)]|h|r",
+					["serverTime"] = 1637520659,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 322617.694,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[15:51:22]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Arckerman:223:GUILD|h|cffd8bc3f120|r:|cffc59a6cArckerman|r|h|cffd8d8d8]|r: quer fazer?",
+					["serverTime"] = 1637520683,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						11, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 322640.943,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[15:51:27]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kariinsz:224:GUILD|h|cffd8bc3f120|r:|cfffefefeKariinsz|r|h|cffd8d8d8]|r: podemos",
+					["serverTime"] = 1637520688,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 322646.072,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[15:54:05]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Arckerman:236:GUILD|h|cffd8bc3f120|r:|cffc59a6cArckerman|r|h|cffd8d8d8]|r: olha que doido",
+					["serverTime"] = 1637520846,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						11, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 322804.023,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[15:54:07]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Arckerman:238:GUILD|h|cffd8bc3f120|r:|cffc59a6cArckerman|r|h|cffd8d8d8]|r: nao tem dps",
+					["serverTime"] = 1637520848,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						11, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 322805.926,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[16:01:14]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gansinho:287:GUILD|h|cffd8bc3f120|r:|cffa9d271Gansinho|r|h|cffd8d8d8]|r: |cffa335ee|Hkeystone:158923:251:7:10:8:12:0|h[Pedra-chave: Terra Podre (7)]|h|r",
+					["serverTime"] = 1637521275,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						11, -- [3]
+						31, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 323232.831,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[16:01:20]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gansinho:288:GUILD|h|cffd8bc3f120|r:|cffa9d271Gansinho|r|h|cffd8d8d8]|r: valendo uma coca",
+					["serverTime"] = 1637521281,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						11, -- [3]
+						31, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 323239.431,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[16:27:47]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Gansinho:513:GUILD|h|cffd8bc3f120|r:|cffa9d271Gansinho|r|h|cffd8d8d8]|r: @{",
+					["serverTime"] = 1637522868,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						11, -- [3]
+						31, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 324826.472,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[16:30:43]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Arckerman:522:GUILD|h|cffd8bc3f120|r:|cffc59a6cArckerman|r:1|h|cffd8d8d8]|r: alguem quer ir M11",
+					["serverTime"] = 1637523044,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						11, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325002.786,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:02:53]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyax:691:GUILD|h|cffd8bc3f120|r:|cffa22fc8Kyax|r|h|cffd8d8d8]|r: .",
+					["serverTime"] = 1637524974,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						11, -- [3]
+						89, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326932.016,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [16]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 111,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Fantoomas:556:CHANNEL:1|h|cffc59a6cFantoomas|r|h|cffd8d8d8]|r: dps for Kr m2",
+					["serverTime"] = 1637523409,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						64, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325367.687,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [1]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Kariinsz:557:SAY|h|cffd8bc3f120|r:|cfffefefeKariinsz|r:1|h|cffd8d8d8]|r: aq",
+					["serverTime"] = 1637523415,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325373.278,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [2]
+				{
+					["message"] = "|cffa9d271Gansinho|r has died.",
+					["serverTime"] = 1637523433,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325390.824,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [3]
+				{
+					["message"] = "|cfffefefeKariinsz|r has died.",
+					["serverTime"] = 1637523433,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325390.907,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [4]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Sergiop:560:CHANNEL:1|h|cfffefefeSergiop|r|h|cffd8d8d8]|r: report ms XD",
+					["serverTime"] = 1637523483,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						72, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325441.607,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [5]
+				{
+					["message"] = "|cfffefefeKariinsz|r has died.",
+					["serverTime"] = 1637523489,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325447.798,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [6]
+				{
+					["message"] = "|cff71d5ff|Hdeath:2|h[You died.]|h",
+					["serverTime"] = 1637523490,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325448.532,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [7]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Terajopremo:565:SAY|h|cffd8bc3f120|r:|cfffef367Terajopremo|r:1|h|cffd8d8d8]|r: move",
+					["serverTime"] = 1637523514,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						74, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325472.753,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [8]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Terajopremo:566:SAY|h|cffd8bc3f120|r:|cfffef367Terajopremo|r:1|h|cffd8d8d8]|r: tank",
+					["serverTime"] = 1637523520,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						74, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325478.377,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [9]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Terajopremo:567:SAY|h|cffd8bc3f120|r:|cfffef367Terajopremo|r:1|h|cffd8d8d8]|r: move",
+					["serverTime"] = 1637523522,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						74, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325480.37,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [10]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Arckerman:568:SAY|h|cffd8bc3f120|r:|cffc59a6cArckerman|r:1|h|cffd8d8d8]|r: sanguine",
+					["serverTime"] = 1637523528,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325486.588,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [11]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Arckerman:569:SAY|h|cffd8bc3f120|r:|cffc59a6cArckerman|r:1|h|cffd8d8d8]|r: tem tirar qde cima",
+					["serverTime"] = 1637523531,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325488.983,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [12]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Synnay:570:CHANNEL:1|h|cff8686ecSynnay|r|h|cffd8d8d8]|r: ppl for shrine 10 for up..join premade pleas",
+					["serverTime"] = 1637523555,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325513.657,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [13]
+				{
+					["message"] = "|cffa9d271Gansinho|r has died.",
+					["serverTime"] = 1637523557,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325515.474,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [14]
+				{
+					["message"] = "|cfff38bb9Sacrodivine|r has gone offline.",
+					["serverTime"] = 1637523558,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325516.154,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [15]
+				{
+					["message"] = "|cfffefefeKariinsz|r has died.",
+					["serverTime"] = 1637523582,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325540.721,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [16]
+				{
+					["message"] = "|cfffef367Terajopremo|r has died.",
+					["serverTime"] = 1637523609,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325567.027,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [17]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Jaggeerjack:575|h|cffd8bc3f120|r:|cffa9d271Jaggeerjack|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1637523626,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325584.785,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [18]
+				{
+					["message"] = "|cfffefefeKariinsz|r has died.",
+					["serverTime"] = 1637523651,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325608.804,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [19]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Lobosego:577|h|cffd8bc3f120|r:|cffa9d271Lobosego|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1637523812,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325770.133,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [20]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Synnay:578:CHANNEL:1|h|cff8686ecSynnay|r|h|cffd8d8d8]|r: Join premade shrine 10 pleas..For up",
+					["serverTime"] = 1637523813,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325770.939,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [21]
+				{
+					["message"] = "|cffffaeaeDetails!:|r |cFFFFFF00First Hit|r: Melee from Raal the Gluttonous |cFFFFBB00Boss First Target|r: Arckerman    ",
+					["timestamp"] = 325833.409,
+					["serverTime"] = 1637523875,
+				}, -- [22]
+				{
+					["message"] = "|cffa9d271Gansinho|r has died.",
+					["serverTime"] = 1637523883,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325841.429,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [23]
+				{
+					["message"] = "|cfffef367Terajopremo|r has died.",
+					["serverTime"] = 1637523884,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325842.232,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [24]
+				{
+					["message"] = "|cff71d5ff|Hdeath:3|h[You died.]|h",
+					["serverTime"] = 1637523885,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325843.659,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [25]
+				{
+					["message"] = "|cfffefefeKariinsz|r has died.",
+					["serverTime"] = 1637523888,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325846.319,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [26]
+				{
+					["message"] = "|cfff38bb9Palmeirass|r has died.",
+					["serverTime"] = 1637523921,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325879.657,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [27]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Kariinsz:587:SAY|h|cffd8bc3f120|r:|cfffefefeKariinsz|r:1|h|cffd8d8d8]|r: vai la",
+					["serverTime"] = 1637523982,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325940.518,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [28]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Feinroarsh:588:CHANNEL:1|h|cffc59a6cFeinroarsh|r|h|cffd8d8d8]|r: when shadowland will be realese?",
+					["serverTime"] = 1637523985,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						75, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325943.606,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [29]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Swopper:589:CHANNEL:1|h|cffa9d271Swopper|r|h|cffd8d8d8]|r: Hopefully never",
+					["serverTime"] = 1637524030,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						77, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325988.648,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [30]
+				{
+					["message"] = "|cfffefefeKariinsz|r has died.",
+					["serverTime"] = 1637524043,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326001.425,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [31]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Terajopremo:591:SAY|h|cffd8bc3f120|r:|cfffef367Terajopremo|r:1|h|cffd8d8d8]|r: move",
+					["serverTime"] = 1637524046,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						74, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326004.302,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [32]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Kariinsz:592:RAID|h|cffd8bc3f120|r:|cfffefefeKariinsz|r:1|h|cffd8d8d8]|r: ress pala",
+					["serverTime"] = 1637524057,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						79, -- [3]
+						80, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326015.706,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [33]
+				{
+					["message"] = "|cfffefefeSofiabc|r has gone offline.",
+					["serverTime"] = 1637524065,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326023.316,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [34]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Palmeirass:594:SAY|h|cffd8bc3f120|r:|cfff38bb9Palmeirass|r:1|h|cffd8d8d8]|r: go",
+					["serverTime"] = 1637524083,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						63, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326041.054,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [35]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Kariinsz:595:SAY|h|cffd8bc3f120|r:|cfffefefeKariinsz|r:1|h|cffd8d8d8]|r: go",
+					["serverTime"] = 1637524087,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326045.262,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [36]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Terajopremo:596:SAY|h|cffd8bc3f120|r:|cfffef367Terajopremo|r:1|h|cffd8d8d8]|r: u have to go",
+					["serverTime"] = 1637524089,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						74, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326047.16,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [37]
+				{
+					["message"] = "|cffffaeaeDetails!:|r |cFFFFFF00First Hit|r: |cff71d5ff|Hspell:275779:0|h[Judgment]|h|r from Palmeirass |cFFFFBB00Boss First Target|r: Palmeirass    ",
+					["timestamp"] = 326048.896,
+					["serverTime"] = 1637524091,
+				}, -- [38]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Ddyrø:598:CHANNEL:1|h|cffa9d271Ddyrø|r|h|cffd8d8d8]|r: wtb |cff0070dd|Hitem:158378::::::::120:253::::::|h[Satin des abysses brodé]|h|r 10k/stack",
+					["serverTime"] = 1637524131,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						81, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326089.104,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [39]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Joti:604:CHANNEL:1|h|cffc59a6cJoti|r|h|cffd8d8d8]|r: need 2 dps 1 heal 1 tank +5 key",
+					["serverTime"] = 1637524213,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						83, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326171.025,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [40]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Joti:605:CHANNEL:1|h|cffc59a6cJoti|r|h|cffd8d8d8]|r: 450+",
+					["serverTime"] = 1637524216,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						83, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326173.976,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [41]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Joti:606:CHANNEL:1|h|cffc59a6cJoti|r|h|cffd8d8d8]|r: go up",
+					["serverTime"] = 1637524219,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						83, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326177.549,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [42]
+				{
+					["message"] = "|cfffefefeKariinsz|r has died.",
+					["serverTime"] = 1637524240,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326198.688,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [43]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Terajopremo:609:SAY|h|cffd8bc3f120|r:|cfffef367Terajopremo|r:1|h|cffd8d8d8]|r: fisrt time tank?",
+					["serverTime"] = 1637524283,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						74, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326240.996,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [44]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Terajopremo:610:SAY|h|cffd8bc3f120|r:|cfffef367Terajopremo|r:1|h|cffd8d8d8]|r: pillar",
+					["serverTime"] = 1637524288,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						74, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326246.193,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [45]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Kariinsz:611:SAY|h|cffd8bc3f120|r:|cfffefefeKariinsz|r:1|h|cffd8d8d8]|r: pilar",
+					["serverTime"] = 1637524289,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326247.501,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [46]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Kariinsz:612:SAY|h|cffd8bc3f120|r:|cfffefefeKariinsz|r:1|h|cffd8d8d8]|r: go",
+					["serverTime"] = 1637524290,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326248.214,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [47]
+				{
+					["message"] = "|cffa9d271Jaggeerjack|r has gone offline.",
+					["serverTime"] = 1637524296,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326254.76,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [48]
+				{
+					["message"] = "|cffa9d271Lobosego|r has gone offline.",
+					["serverTime"] = 1637524297,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326255.735,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [49]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Ddyrø:615:CHANNEL:1|h|cffa9d271Ddyrø|r|h|cffd8d8d8]|r: |cffa335ee|Hitem:153709::::::::120:253:512:13::120:::|h[Oeil du kraken d’Intelligence]|h|r givefree ..",
+					["serverTime"] = 1637524334,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						81, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326292.739,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [50]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Synnay:616:CHANNEL:1|h|cff8686ecSynnay|r|h|cffd8d8d8]|r: shrine 10 join premade",
+					["serverTime"] = 1637524372,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326330.067,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [51]
+				{
+					["message"] = "|cfffef367Terajopremo|r has died.",
+					["serverTime"] = 1637524407,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326364.92,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [52]
+				{
+					["message"] = "|cfff38bb9Palmeirass|r has died.",
+					["serverTime"] = 1637524423,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326381.114,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [53]
+				{
+					["message"] = "|cff71d5ff|Hdeath:4|h[You died.]|h",
+					["serverTime"] = 1637524424,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326382.136,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [54]
+				{
+					["message"] = "|cfffef367Terajopremo|r has left the raid group.",
+					["serverTime"] = 1637524424,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326382.416,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [55]
+				{
+					["message"] = "|cffa9d271Gansinho|r has died.",
+					["serverTime"] = 1637524425,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326383.631,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [56]
+				{
+					["message"] = "|cff71d5ff|Hdeath:5|h[You died.]|h",
+					["serverTime"] = 1637524462,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326420.646,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [57]
+				{
+					["message"] = "|cffa9d271Gansinho|r has died.",
+					["serverTime"] = 1637524467,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326425.216,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [58]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Kariinsz:629:SAY|h|cffd8bc3f120|r:|cfffefefeKariinsz|r:1|h|cffd8d8d8]|r: go",
+					["serverTime"] = 1637524499,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326456.995,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [59]
+				{
+					["message"] = "|cfffefefeKariinsz|r has died.",
+					["serverTime"] = 1637524554,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326512.499,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [60]
+				{
+					["message"] = "|cffffff00[|c00077766Autobroadcast|cffffff00]: |cFFF222FFDo not forget to talk with the NPC Jeanne which can be found on the faction main cities in order to get your loyalty points! More information here: |cffffffff|Hurl:www.fstorm.cc|h[www.fstorm.cc]|h|r/loyalty-point|r",
+					["serverTime"] = 1637524579,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326536.911,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [61]
+				{
+					["message"] = "|cffa9d271Jaggeerjack|r has gone offline.",
+					["serverTime"] = 1637524582,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326540.259,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [62]
+				{
+					["message"] = "|cffa9d271Gansinho|r has died.",
+					["serverTime"] = 1637524583,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326541.104,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [63]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Arckerman:637:SAY|h|cffd8bc3f120|r:|cffc59a6cArckerman|r:1|h|cffd8d8d8]|r: wa",
+					["serverTime"] = 1637524607,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326564.931,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [64]
+				{
+					["message"] = "|cffffaeaeDetails!:|r |cFFFFFF00First Hit|r: |cff71d5ff|Hspell:31935:0|h[Avenger's Shield]|h|r from Palmeirass |cFFFFBB00Boss First Target|r: Palmeirass    ",
+					["timestamp"] = 326673.292,
+					["serverTime"] = 1637524715,
+				}, -- [65]
+				{
+					["message"] = "|cfffefefeKariinsz|r has died.",
+					["serverTime"] = 1637524772,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326730.222,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [66]
+				{
+					["message"] = "|Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Kariinsz:650:PARTY|h|cffd8bc3f120|r:|cfffefefeKariinsz|r:1|h|cffd8d8d8]|r: pala tem q acumular",
+					["serverTime"] = 1637524780,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326737.897,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [67]
+				{
+					["message"] = "|Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Kariinsz:651:PARTY|h|cffd8bc3f120|r:|cfffefefeKariinsz|r:1|h|cffd8d8d8]|r: n fica passando ele no fogo n",
+					["serverTime"] = 1637524783,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326741.694,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [68]
+				{
+					["message"] = "|Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Kariinsz:652:PARTY|h|cffd8bc3f120|r:|cfffefefeKariinsz|r:1|h|cffd8d8d8]|r: se n vai matar todo mundo po",
+					["serverTime"] = 1637524787,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326745.603,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [69]
+				{
+					["message"] = "|cffa9d271Gansinho|r has died.",
+					["serverTime"] = 1637524809,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326767.59,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [70]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Arckerman:658:SAY|h|cffd8bc3f120|r:|cffc59a6cArckerman|r:1|h|cffd8d8d8]|r: Soul Thorns on |cff00ff00Arckerman|r",
+					["serverTime"] = 1637524812,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326770.051,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [71]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Arckerman:662:SAY|h|cffd8bc3f120|r:|cffc59a6cArckerman|r:1|h|cffd8d8d8]|r: Soul Thorns on |cff00ff00Arckerman|r",
+					["serverTime"] = 1637524833,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326791.777,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [72]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Arckerman:664:SAY|h|cffd8bc3f120|r:|cffc59a6cArckerman|r:1|h|cffd8d8d8]|r: me solta",
+					["serverTime"] = 1637524841,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326799.534,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [73]
+				{
+					["message"] = "|cff71d5ff|Hdeath:6|h[You died.]|h",
+					["serverTime"] = 1637524851,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326809.2,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [74]
+				{
+					["message"] = "|Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Kariinsz:676:PARTY|h|cffd8bc3f120|r:|cfffefefeKariinsz|r:1|h|cffd8d8d8]|r: overzada bro",
+					["serverTime"] = 1637524925,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326883.563,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [75]
+				{
+					["message"] = "|Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Kariinsz:677:PARTY|h|cffd8bc3f120|r:|cfffefefeKariinsz|r:1|h|cffd8d8d8]|r: te mais",
+					["serverTime"] = 1637524927,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326885.469,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [76]
+				{
+					["message"] = "Loot Specialization set to: Arms",
+					["serverTime"] = 1637524946,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 326903.972,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [77]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Mínara:684:CHANNEL:1|h|cfff38bb9Mínara|r|h|cffd8d8d8]|r: Perklunt is a monke",
+					["serverTime"] = 1637524950,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326908.269,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [78]
+				{
+					["message"] = "|cfffefefeKariinsz|r has gone offline.",
+					["serverTime"] = 1637524950,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326908.398,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [79]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Kyax:687|h|cffd8bc3f120|r:|cffa22fc8Kyax|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1637524962,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326920.268,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [80]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Hallersch:688:CHANNEL:1|h|cff3ec5e9Hallersch|r|h|cffd8d8d8]|r: me and my monke",
+					["serverTime"] = 1637524965,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						87, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326923.329,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [81]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Hallersch:689:CHANNEL:1|h|cff3ec5e9Hallersch|r|h|cffd8d8d8]|r: monke monke monke",
+					["serverTime"] = 1637524967,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						87, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326925.796,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [82]
+				{
+					["message"] = "|Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kyax:691:GUILD|h|cffd8bc3f120|r:|cffa22fc8Kyax|r|h|cffd8d8d8]|r: .",
+					["serverTime"] = 1637524974,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						11, -- [3]
+						89, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326932.016,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [83]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Mesario:692:CHANNEL:1|h|cff3ec5e9Mesario|r|h|cffd8d8d8]|r: tvoje chlupatá máma je monke",
+					["serverTime"] = 1637524979,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						90, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326937.625,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [84]
+				{
+					["message"] = "|Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Palmeirass:693:PARTY|h|cffd8bc3f120|r:|cfff38bb9Palmeirass|r:1|h|cffd8d8d8]|r: te mais,foi mal ai,voltei a joga agora,nao lembro mais o caminho",
+					["serverTime"] = 1637524983,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						17, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326941.32,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [85]
+				{
+					["message"] = "|Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Arckerman:694:PARTY|h|cffd8bc3f120|r:|cffc59a6cArckerman|r:1|h|cffd8d8d8]|r: flw vlw",
+					["serverTime"] = 1637524992,
+					["r"] = 0.4627451300621033,
+					["extraData"] = {
+						50, -- [1]
+						false, -- [2]
+						17, -- [3]
+						93, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326949.911,
+					["g"] = 0.7843137979507446,
+					["b"] = 1,
+				}, -- [86]
+				{
+					["message"] = "|cfff38bb9Palmeirass|r has left the raid group.",
+					["serverTime"] = 1637524995,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326953.359,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [87]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Mínara:697:CHANNEL:1|h|cfff38bb9Mínara|r|h|cffd8d8d8]|r: No u",
+					["serverTime"] = 1637524996,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326953.963,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [88]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Mínara:698:CHANNEL:1|h|cfff38bb9Mínara|r|h|cffd8d8d8]|r: bitch",
+					["serverTime"] = 1637524997,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326954.973,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [89]
+				{
+					["message"] = "|cfffefefeKariinsz|r has left the raid group.",
+					["serverTime"] = 1637524997,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326955.255,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [90]
+				{
+					["message"] = "You have invited |cffa22fc8Kyax|r to join your group.",
+					["serverTime"] = 1637525000,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326958.42,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [91]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Synnay:701:CHANNEL:1|h|cff8686ecSynnay|r|h|cffd8d8d8]|r: chlupata mama :DD",
+					["serverTime"] = 1637525003,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326961.463,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [92]
+				{
+					["message"] = "|cffa22fc8Kyax|r has joined the raid group.",
+					["serverTime"] = 1637525004,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326961.806,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [93]
+				{
+					["message"] = "|Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Arckerman:703:PARTY|h|cffd8bc3f120|r:|cffc59a6cArckerman|r:1|h|cffd8d8d8]|r: |cffa335ee|Hkeystone:158923:245:15:10:8:12:120|h[Keystone: Freehold (15)]|h|r",
+					["serverTime"] = 1637525011,
+					["r"] = 0.4627451300621033,
+					["extraData"] = {
+						50, -- [1]
+						false, -- [2]
+						17, -- [3]
+						93, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326968.822,
+					["g"] = 0.7843137979507446,
+					["b"] = 1,
+				}, -- [94]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Fantoomas:704:CHANNEL:1|h|cffc59a6cFantoomas|r|h|cffd8d8d8]|r: :-D",
+					["serverTime"] = 1637525014,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						64, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326972.483,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [95]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dalaedor:705:CHANNEL:1|h|cff00fe95Dalaedor|r|h|cffd8d8d8]|r: kecy kecy kecyy",
+					["serverTime"] = 1637525017,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						46, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 326975.664,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [96]
+				{
+					["message"] = "|Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Kyax:709:PARTY|h|cffd8bc3f120|r:|cffa22fc8Kyax|r|h|cffd8d8d8]|r: |cffa335ee|Hitem:173512::::::::120:577:512:30:6:6412:4803:4802:6545:1477:4786:120:::|h[Garras da Gorja Insaciável]|h|r|cffa335ee|Hitem:173480::::::::120:577:512:55:5:6412:4802:6560:1502:4786:120:::|h[Braceletes da Gorja Insaciável]|h|r",
+					["serverTime"] = 1637525066,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						17, -- [3]
+						94, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 327024.09,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [97]
+				{
+					["message"] = "|Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Kyax:710:PARTY|h|cffd8bc3f120|r:|cffa22fc8Kyax|r|h|cffd8d8d8]|r: |cffa335ee|Hitem:173468::::::::120:577:512:36:5:6412:4803:6566:1487:4786:120:::|h[Perneiras da Gorja Insaciável]|h|r",
+					["serverTime"] = 1637525067,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						17, -- [3]
+						94, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 327025.788,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [98]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Jonathanrw:713|h|cff8b8b8b20|r:|cfff38bb9Jonathanrw|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1637525085,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 327043.769,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [99]
+				{
+					["message"] = "|cfff38bb9Jonathanrw|r has left the guild.",
+					["serverTime"] = 1637525089,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 327046.821,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [100]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Laxky:715:SAY|h|cfff38bb9Laxky|r|h|cffd8d8d8]|r: ESTE ENANO CON ALAS PARECE UNA ABEJA",
+					["serverTime"] = 1637525093,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						95, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 327051.087,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [101]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Kêndâll:716:SAY|h|cffd8bc3f120|r:|cffc59a6cKêndâll|r|h|cffd8d8d8]|r: UN MOSCO",
+					["serverTime"] = 1637525110,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						96, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 327068.717,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [102]
+				{
+					["message"] = "|Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Gansinho:719:PARTY|h|cffd8bc3f120|r:|cffa9d271Gansinho|r:1|h|cffd8d8d8]|r: |cffa335ee|Hitem:174533::::::::120:253:512:3:3:4822:1487:4786:120:::|h[Anel do Potencial Cósmico]|h|r",
+					["serverTime"] = 1637525120,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						17, -- [3]
+						97, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 327078.243,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [103]
+				{
+					["message"] = "|Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Gansinho:721:PARTY|h|cffd8bc3f120|r:|cffa9d271Gansinho|r:1|h|cffd8d8d8]|r: |cffa335ee|Hitem:169158::::::::120:253:512:35:6:6578:6579:6554:5024:1517:4786:120:::|h[Loop Lógico de Recursão]|h|r",
+					["serverTime"] = 1637525126,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						17, -- [3]
+						97, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 327083.925,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [104]
+				{
+					["message"] = "|Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Kyax:727:PARTY|h|cffd8bc3f120|r:|cffa22fc8Kyax|r|h|cffd8d8d8]|r: |cffa335ee|Hitem:159460:5941:::::::120:577:512:35:7:6578:6579:6437:6455:5026:1637:4786:120:::|h[Selo Perdido do Feitor]|h|r",
+					["serverTime"] = 1637525142,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						17, -- [3]
+						94, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 327099.842,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [105]
+				{
+					["message"] = "|Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Kyax:729:PARTY|h|cffd8bc3f120|r:|cffa22fc8Kyax|r|h|cffd8d8d8]|r: |cffa335ee|Hitem:169056::::::::120:577:512:35:7:6578:6579:6531:1527:4786:6462:6438:120:::|h[Galochas Eca-meleca]|h|r",
+					["serverTime"] = 1637525146,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						17, -- [3]
+						94, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 327103.831,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [106]
+				{
+					["message"] = "|Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Kyax:732:PARTY|h|cffd8bc3f120|r:|cffa22fc8Kyax|r|h|cffd8d8d8]|r: |cffa335ee|Hitem:159321::::::::120:577:512:35:6:6578:6579:6562:6529:1642:4786:120:::|h[Luvas das Águas Corrompidas]|h|r",
+					["serverTime"] = 1637525149,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						17, -- [3]
+						94, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 327107.735,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [107]
+				{
+					["message"] = "|Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Kyax:733:PARTY|h|cffd8bc3f120|r:|cffa22fc8Kyax|r|h|cffd8d8d8]|r: |cffa335ee|Hitem:169058:6148:::::::120:577:512:35:6:6578:6579:6566:6527:1522:4786:120:::|h[Ferramenta Incendiária Resgatada]|h|r",
+					["serverTime"] = 1637525154,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						17, -- [3]
+						94, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 327112.107,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [108]
+				{
+					["message"] = "You leave the group.",
+					["serverTime"] = 1637525199,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 327157.279,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [109]
+				{
+					["message"] = "Dungeon Difficulty set to Mythic.",
+					["serverTime"] = 1637525199,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 327157.279,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [110]
+				{
+					["message"] = "|cff00ff00Arckerman|r has gone offline.",
+					["serverTime"] = 1637525204,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 327162.42,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [111]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Palmeirass:529:SAY|h|cffd8bc3f120|r:|cfff38bb9Palmeirass|r:1|h|cffd8d8d8]|r: pega,tenho sobrando",
+					["serverTime"] = 1637523092,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						63, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325049.906,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [112]
+				{
+					["message"] = "Starting ready check...",
+					["serverTime"] = 1637523134,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325092.76,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [113]
+				{
+					["message"] = "Everyone is Ready",
+					["serverTime"] = 1637523138,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325096.557,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [114]
+				{
+					["message"] = "The party leader has attempted to reset the instance you are in.  Please zone out to allow the instance to reset.",
+					["serverTime"] = 1637523145,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325103.548,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [115]
+				{
+					["message"] = "Loot Specialization set to: Arms",
+					["serverTime"] = 1637523147,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 325105.07,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [116]
+				{
+					["message"] = "|cffffaeaeDetails!:|r overall data are now reset.    ",
+					["timestamp"] = 325106.019,
+					["serverTime"] = 1637523148,
+				}, -- [117]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Palmeirass:536:SAY|h|cffd8bc3f120|r:|cfff38bb9Palmeirass|r:1|h|cffd8d8d8]|r: bufa sacer",
+					["serverTime"] = 1637523154,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						63, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325112.113,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [118]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Palmeirass:537:SAY|h|cffd8bc3f120|r:|cfff38bb9Palmeirass|r:1|h|cffd8d8d8]|r: ty",
+					["serverTime"] = 1637523157,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						63, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325115.485,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [119]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Fantoomas:538:CHANNEL:1|h|cffc59a6cFantoomas|r|h|cffd8d8d8]|r: heal dos for KR m2",
+					["serverTime"] = 1637523161,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						64, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325118.878,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [120]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Hippiek:547:CHANNEL:1|h|cff00fe95Hippiek|r|h|cffd8d8d8]|r: Brewmaster here ?))",
+					["serverTime"] = 1637523276,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						66, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325234.169,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [121]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Palmeirass:548:SAY|h|cffd8bc3f120|r:|cfff38bb9Palmeirass|r:1|h|cffd8d8d8]|r: esqueci o caminho",
+					["serverTime"] = 1637523285,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						63, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325243,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [122]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Palmeirass:549:SAY|h|cffd8bc3f120|r:|cfff38bb9Palmeirass|r:1|h|cffd8d8d8]|r: guia ai",
+					["serverTime"] = 1637523287,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						63, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325245.295,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [123]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Sharinaa:550:CHANNEL:1|h|cfffe7b09Sharinaa|r|h|cffd8d8d8]|r: Yes",
+					["serverTime"] = 1637523295,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						68, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325253.501,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [124]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Kariinsz:551:SAY|h|cffd8bc3f120|r:|cfffefefeKariinsz|r:1|h|cffd8d8d8]|r: aq",
+					["serverTime"] = 1637523297,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325254.813,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [125]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Pilavo:552:CHANNEL:1|h|cffc59a6cPilavo|r|h|cffd8d8d8]|r: |cff808080|Hquest:12856:-1:67:80:0|h[Cold Hearted]|h|r bugged?",
+					["serverTime"] = 1637523373,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325331.482,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [126]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Milkjuicy:553:CHANNEL:1|h|cfff38bb9Milkjuicy|r|h|cffd8d8d8]|r: idk if is BETA test... or a shit 60k world ms test",
+					["serverTime"] = 1637523383,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						70, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325341.007,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [127]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Kariinsz:555:SAY|h|cffd8bc3f120|r:|cfffefefeKariinsz|r:1|h|cffd8d8d8]|r: aq",
+					["serverTime"] = 1637523409,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						9, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 325367.063,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [128]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

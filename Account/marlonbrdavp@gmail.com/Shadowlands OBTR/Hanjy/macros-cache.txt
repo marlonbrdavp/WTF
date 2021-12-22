@@ -1,0 +1,54 @@
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+/cast [@mouseover,harm,nodead,mod:ctrl][mod:ctrl]purge;[@mouseover,help,nodead,spec:3][@target,help,nodead,spec:3]Purify Spirit;[spec:2]lava lash;[spec:3]Chain lightning
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus,mod:ctrl][@mouseover,harm,nodead][]Hex
+/focus [@mouseover,exists,nodead,nomod][nomod]
+END
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player]Earthbind Totem
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead,mod:ctrl][mod:ctrl]Wind Shear;[spec:2]stormstrike;[@mouseover,help,nodead,spec:3]Riptide;[@target,harm,nodead,spec:3]lava Burst;[spec:3]Riptide
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Chain Lightning;Crash Lightning
+END
+VER 3 0100000000000008 " " "132224"
+#showtooltip
+/cast Water Walking
+/use Garn Nighthowl 
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player]Capacitor Totem
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][@target,help]Healing Wave;[@target,harm]Frost Shock;[@player]Healing Wave
+END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][@target,help]Chain Heal;[@target,harm]Flame Shock;[@player]Chain Heal
+END
+VER 3 010000000000000F " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player,mod:ctrl]Chain heal;Lightning Bolt
+END
+VER 3 0100000000000010 " " "451167"
+#showtooltip
+/cast Astral Shift
+/cast [@player]Gift of the Naaru(Racial)
+END
+VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead,mod:ctrl][mod:ctrl]Cleanse spirit;flame shock
+END
+VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:Ctrl]Healing Stream Totem;[@target,harm,nodead]Lightning bolt;healing stream totem
+END

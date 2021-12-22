@@ -1,0 +1,2026 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 1,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:25:49]|h|r You have been disconnected from Blizzard services.",
+					["serverTime"] = 1632439550,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 9571.531,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [1]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 1,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:25:49]|h|r You have been disconnected from Blizzard services.",
+					["serverTime"] = 1632439550,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 9571.531,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [1]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 1,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:25:49]|h|r You have been disconnected from Blizzard services.",
+					["serverTime"] = 1632439550,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 9571.531,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [1]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 1,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:25:49]|h|r You have been disconnected from Blizzard services.",
+					["serverTime"] = 1632439550,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 9571.531,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [1]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 1,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:25:49]|h|r You have been disconnected from Blizzard services.",
+					["serverTime"] = 1632439550,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 9571.531,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [1]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 1,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:25:49]|h|r You have been disconnected from Blizzard services.",
+					["serverTime"] = 1632439550,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 9571.531,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [1]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 1,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:25:49]|h|r You have been disconnected from Blizzard services.",
+					["serverTime"] = 1632439550,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 9571.531,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [1]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 1,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:25:49]|h|r You have been disconnected from Blizzard services.",
+					["serverTime"] = 1632439550,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 9571.531,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [1]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 119,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:13:44]|h|r - |TInterface\\Icons\\Trade_Engineering.blp:16|t |cFF00FFFFSuffering - incorrect behaviour (no absorbtion).|r |cFF898989(3d ago)|r",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632438825,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [1]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:13:44]|h|r - |TInterface\\Icons\\Trade_Engineering.blp:16|t |cFF00FFFFThe Pit of Saron|r |cFF898989(3d ago)|r",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632438825,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [2]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:13:44]|h|r |cFF00FF00Above are the latest fixes (|r|cFF00FFFF1480|r|cFF00FF00 total), some might be live only after restart (*). Check site for full list.|r",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632438825,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [3]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:13:44]|h|r You have learned a new passive effect: |cff71d5ff|Hspell:206416:0|h[First Blood]|h|r.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632438825,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [4]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:13:49]|h|r You have learned a new passive effect: |cff71d5ff|Hspell:206477:0|h[Unleashed Power]|h|r.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632438830,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [5]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:13:50]|h|r You have learned a new passive effect: |cff71d5ff|Hspell:213410:0|h[Demonic]|h|r.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632438831,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [6]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:14:12]|h|r You do not meet the requirements for the chosen dungeons.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632438853,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:14:18]|h|r You do not meet the requirements for the chosen dungeons.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632438859,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:14:22]|h|r Donna says: I wonder how far the gears turn?",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1632438863,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:14:49]|h|r |cffffff00[|c0000FF00ARENA ANNOUNCER|cffffff00] |cFF00FFFFCurrently there are |cFFFF00000 |cFF00FFFFteams in 2v2 queue and |cFF00FF000 |cFF00FFFFteams in 3v3 queue",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632438890,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:00]|h|r You receive item: |cff0070dd|Hitem:163538::::::::110:577:512:::110:::|h[Footman's Gladius]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						10, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632438901,
+					["timestamp"] = 9570.32,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:00]|h|r Hour of Reckoning completed.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632438901,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:00]|h|r Experience gained: 4950.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632438901,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:00]|h|r Received 1 Gold, 94 Silver.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632438901,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:00]|h|r |cffff80ff|Htransmogappearance:99224|h[Footman's Gladius]|h|r has been added to your appearance collection.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632438901,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:01]|h|r Quest accepted: The Battle for Lordaeron",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632438902,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:15]|h|r The Battle for Lordaeron completed.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632438916,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:15]|h|r Experience gained: 74100.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632438916,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:15]|h|r Received 19 Gold, 40 Silver.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632438916,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:15]|h|r Quest accepted: A Dying World",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632438916,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:15]|h|r Magni Bronzebeard says: Champion! Azeroth cries out fer yer aid! Come tae Silithus. There's somethin' ye need tae see.",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1632438916,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:48]|h|r |cffffff00[|c00077766Autobroadcast|cffffff00]: |cFFF222FF|cff00ff00IN-GAME SHOP IS CURRENTLY NOT AVAILABLE. PLEASE USE THE WEBSITE SHOP! \n|cffff0000SHOP PAGE: |cffffffff|Hurl:https://www.wow-freakz.com/shop|h[https://www.wow-freakz.com/shop]|h|r |r",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632438949,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:59]|h|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Uldum]|h",
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.7529412508010864,
+					["serverTime"] = 1632438960,
+					["timestamp"] = 9570.32,
+					["g"] = 0.7529412508010864,
+					["r"] = 1,
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:59]|h|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Uldum]|h",
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						15, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.7529412508010864,
+					["serverTime"] = 1632438960,
+					["timestamp"] = 9570.32,
+					["g"] = 0.7529412508010864,
+					["r"] = 1,
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:59]|h|r Loot Specialization set to: Havoc",
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632438960,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:16:18]|h|r |cffffff00[|c00077766Autobroadcast|cffffff00]: |cFFF222FF|cff00ff00Vote for WoW Freakz for cool rewards (mounts, companions, fun items, heirlooms, transmog, etc) \n|cffff0000https://www.wow-freakz.com/vote|r",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632438979,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:16:48]|h|r |cffffff00[|c00077766Autobroadcast|cffffff00]: |cFFF222FF|cFFFF2244WARNING! Do not use hacks / bots / tMorph, you will be banned automatically on ALL YOUR ACCOUNTS and IPs by the anti hack system|r|r",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439009,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [27]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:16:49]|h|r |cffffff00[|c0000FF00ARENA ANNOUNCER|cffffff00] |cFF00FFFFCurrently there are |cFFFF00000 |cFF00FFFFteams in 2v2 queue and |cFF00FF000 |cFF00FFFFteams in 3v3 queue",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439010,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [28]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:17:16]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Esial:469:CHANNEL:4|h|cffc59a6cEsial|r|h|cffd8d8d8]|r: one dps",
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.7490196228027344,
+					["serverTime"] = 1632439037,
+					["timestamp"] = 9570.32,
+					["g"] = 0.7490196228027344,
+					["r"] = 1,
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:17:18]|h|r |cffffff00[|c00077766Autobroadcast|cffffff00]: |cFFF222FF|cff00ff00If you suspect you have found a bug, please report it on forum and provide as much evidence as possible. \n|cffff0000https://forum.wow-freakz.com/Bug-Report-f5549.html|r",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439039,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:17:19]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Esial:471:CHANNEL:4|h|cffc59a6cEsial|r|h|cffd8d8d8]|r: for expedition",
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.7490196228027344,
+					["serverTime"] = 1632439040,
+					["timestamp"] = 9570.32,
+					["g"] = 0.7490196228027344,
+					["r"] = 1,
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:17:21]|h|r |Hchannel:channel:1|h[1] |h Left Channel: |Hchannel:CHANNEL:1|h[1. General - Uldum]|h",
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.7529412508010864,
+					["serverTime"] = 1632439042,
+					["timestamp"] = 9570.32,
+					["g"] = 0.7529412508010864,
+					["r"] = 1,
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:17:21]|h|r |Hchannel:channel:3|h[3] |h Left Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Uldum]|h",
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						15, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.7529412508010864,
+					["serverTime"] = 1632439042,
+					["timestamp"] = 9570.32,
+					["g"] = 0.7529412508010864,
+					["r"] = 1,
+				}, -- [33]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:18:27]|h|r A Dying World completed.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439108,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [34]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:18:27]|h|r Experience gained: 6435.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439108,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [35]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:18:27]|h|r Received 1 Gold, 94 Silver.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439108,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [36]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:18:29]|h|r Magni Bronzebeard says: The entrance tae the chamber is this way. Come on!",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1632439110,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [37]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:18:29]|h|r Quest accepted: The Heart of Azeroth",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439110,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [38]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:18:35]|h|r Loot Specialization set to: Havoc",
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439116,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [39]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:18:39]|h|r Magni Bronzebeard says: Ach! This chamber is in ruins, Yndark. It won't hold together for long!",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1632439120,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [40]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:18:49]|h|r |cffffff00[|c0000FF00ARENA ANNOUNCER|cffffff00] |cFF00FFFFCurrently there are |cFFFF00000 |cFF00FFFFteams in 2v2 queue and |cFF00FF000 |cFF00FFFFteams in 3v3 queue",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439130,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [41]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:18:57]|h|r |cffd8d8d8[|r|Hplayer:Yndark:544:ACHIEVEMENT|h|cffd8bc3f110|r:|cffa22fc8Yndark|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12918:Player-5-001856A2:1:9:24:21:4294967295:4294967295:4294967295:4294967295|h[Have a Heart]|h|r!",
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439138,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [42]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:18:57]|h|r You receive item: |cffe6cc80|Hitem:158075::::::::110:577:512::4:4932:4933:4935:1472:110:::|h[Heart of Azeroth]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						10, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439138,
+					["timestamp"] = 9570.32,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [43]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:18:57]|h|r The Heart of Azeroth completed.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439138,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [44]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:18:57]|h|r Experience gained: 6435.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439138,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [45]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:18:57]|h|r Received 1 Gold, 94 Silver.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439138,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [46]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:18:58]|h|r Quest accepted: Infusing the Heart",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439139,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [47]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:18:58]|h|r Magni Bronzebeard says: The seal on this chamber protects the world's soul. But with all this Azerite burstin' through, the seal is close tae shatterin'!",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1632439139,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [48]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:19:07]|h|r Magni Bronzebeard says: If ye use yer amulet tae absorb the Azerite, its power should mend the chamber's seal!",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1632439148,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [49]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:19:55]|h|r Magni Bronzebeard says: That's it! I think it's workin'!",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1632439196,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [50]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:19:58]|h|r |cffffff00[|c00077766Autobroadcast|cffffff00]: |cFFF222FF|cff00ff00IN-GAME SHOP IS CURRENTLY NOT AVAILABLE. PLEASE USE THE WEBSITE SHOP! \n|cffff0000SHOP PAGE: |cffffffff|Hurl:https://www.wow-freakz.com/shop|h[https://www.wow-freakz.com/shop]|h|r |r",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439199,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [51]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:20:02]|h|r Magni Bronzebeard says: Keep goin'! Just a wee bit more...",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1632439203,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [52]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:20:19]|h|r Magni Bronzebeard yells: No! The seal is shatterin'! Hold on, lass! Please hold on!",
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.250980406999588,
+					["serverTime"] = 1632439220,
+					["timestamp"] = 9570.32,
+					["g"] = 0.250980406999588,
+					["r"] = 1,
+				}, -- [53]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:20:28]|h|r |cffffff00[|c00077766Autobroadcast|cffffff00]: |cFFF222FF|cff00ff00Got Discord? Join |cffff0000http://discord.wow-freakz.com|r",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439229,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [54]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:20:33]|h|r Magni Bronzebeard says: Ye did it, champion! The chamber is secure!",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1632439234,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [55]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:20:49]|h|r |cffffff00[|c0000FF00ARENA ANNOUNCER|cffffff00] |cFF00FFFFCurrently there are |cFFFF00000 |cFF00FFFFteams in 2v2 queue and |cFF00FF000 |cFF00FFFFteams in 3v3 queue",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439250,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [56]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:20:50]|h|r You receive item: |cff1eff00|Hcurrency:1553:143|h[Small Azerite Shard]|h|r.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439251,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [57]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:20:50]|h|r |cffe6cc80|Hitem:158075::::::::110:577:512:11:4:4932:4933:4935:1472:110:::|h[Heart of Azeroth]|h|r gains 143 Artifact Power.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439251,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [58]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:20:50]|h|r You are now Neutral with Champions of Azeroth.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439251,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [59]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:20:50]|h|r Reputation with Champions of Azeroth increased by 1000.",
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						24, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 1,
+					["serverTime"] = 1632439251,
+					["timestamp"] = 9570.32,
+					["g"] = 0.501960813999176,
+					["r"] = 0.501960813999176,
+				}, -- [60]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:20:50]|h|r You receive item: |cff0070dd|Hitem:159902::::::::110:577:512::1:1472:110:::|h[Vest of the Champion]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						10, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439251,
+					["timestamp"] = 9570.32,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [61]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:20:50]|h|r Infusing the Heart completed.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439251,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [62]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:20:50]|h|r Experience gained: 6435.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439251,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [63]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:20:50]|h|r Received 1 Gold, 94 Silver.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439251,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [64]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:20:50]|h|r |cffff80ff|Htransmogappearance:95952|h[Vest of the Champion]|h|r has been added to your appearance collection.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439251,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [65]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:20:51]|h|r Quest accepted: The Speaker's Imperative",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439252,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [66]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:20:52]|h|r Magni Bronzebeard says: Keep that amulet close tae yer heart, Yndark. It'll see ye through the dark times ahead.",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1632439253,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [67]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:20:59]|h|r Magni Bronzebeard says: I'll keep searchin' fer ways tae heal the damage done tae Azeroth. When I have need of ye, I can reach out through that talisman.",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1632439260,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [68]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:21:09]|h|r Loot Specialization set to: Havoc",
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439270,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [69]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:21:32]|h|r The Speaker's Imperative completed.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439293,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [70]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:21:32]|h|r Experience gained: 4950.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439293,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [71]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:21:32]|h|r Received 1 Gold, 94 Silver.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439293,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [72]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:21:32]|h|r Quest accepted: Tides of War",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439293,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [73]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:21:32]|h|r Anduin Wrynn says: Champion! An urgent War Council is underway. Your presence is requested in Stormwind Keep.",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1632439293,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [74]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:22:18]|h|r |cffffff00[|c00077766Autobroadcast|cffffff00]: |cFFF222FF|cff00ff00If you suspect you have found a bug, please report it on forum and provide as much evidence as possible. \n|cffff0000https://forum.wow-freakz.com/Bug-Report-f5549.html|r",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1632439339,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [75]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:22:20]|h|r Anduin Wrynn says: Everyone is here. What news do you bring, Spymaster?",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1632439341,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [76]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:22:24]|h|r Master Mathias Shaw says: Recently, Horde agents broke into the Stockades and freed two Zandalari prisoners.",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1632439345,
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [77]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:22:31]|h|r Loot Specialization set to: Havoc",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439352,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [78]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:22:31]|h|r Master Mathias Shaw says: A princess. And a prophet.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439352,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [79]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:22:34]|h|r Anduin Wrynn says: I'm aware. What of the eight warships we sent in pursuit?",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439355,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [80]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:22:39]|h|r Master Mathias Shaw says: Only one returned.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439360,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [81]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:22:42]|h|r Master Mathias Shaw says: Survivors say they encountered strange and terrifying magics.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439363,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [82]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:22:47]|h|r Master Mathias Shaw says: And a massive Zandalari fleet.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439368,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [83]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:22:48]|h|r |cffffff00[|c00077766Autobroadcast|cffffff00]: |cFFF222FF|cff00ff00Do you want the Legion Artifacts and order hall quests? Go to broken shore Dalaran and there you will find an NPC.|r",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439369,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [84]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:22:49]|h|r |cffffff00[|c0000FF00ARENA ANNOUNCER|cffffff00] |cFF00FFFFCurrently there are |cFFFF00000 |cFF00FFFFteams in 2v2 queue and |cFF00FF000 |cFF00FFFFteams in 3v3 queue",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439370,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [85]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:22:52]|h|r Genn Greymane says: Impossible! It's one of Sylvanas's tricks. It has to be...",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439373,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [86]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:22:57]|h|r Master Mathias Shaw says: Jaina, perhaps you could help us see what this survivor has witnessed.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439378,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [87]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:03]|h|r Lady Jaina Proudmoore says: It's a simple enough spell, provided the subject is cooperative.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439384,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [88]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:08]|h|r Lady Jaina Proudmoore says: Show us... show us what happened...",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439389,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [89]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:16]|h|r Anduin Wrynn says: If the Horde makes allies of the Zandalari, we won't have the power to stop them.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439397,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [90]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:18]|h|r Tides of War completed.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439399,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [91]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:18]|h|r Experience gained: 4950.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439399,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [92]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:18]|h|r Received 1 Gold, 94 Silver.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439399,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [93]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:19]|h|r Lady Jaina Proudmoore says: I must prepare my ship. Yndark, meet me in the harbor when you are ready to depart.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439400,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [94]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:19]|h|r Quest accepted: The Nation of Kul Tiras",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439400,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [95]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:21]|h|r Lady Jaina Proudmoore says: Then we must make allies of our own.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439402,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [96]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:25]|h|r Lady Jaina Proudmoore says: My people command the most powerful navy in all of Azeroth.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439406,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [97]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:26]|h|r Anduin Wrynn says: So, Genn... how are your sea legs?",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439407,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [98]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:30]|h|r Lady Jaina Proudmoore says: If I could bring Kul Tiras back into the Alliance...",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439411,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [99]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:30]|h|r Genn Greymane says: Hmph. Steady as ever.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439411,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [100]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:34]|h|r Anduin Wrynn says: Take a 7th Legion vessel along as an escort.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439415,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [101]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:37]|h|r Anduin Wrynn says: Secure a base of operations in Kul Tiras. Our plan must not fail.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439418,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [102]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:39]|h|r Lady Jaina Proudmoore says: And dealing with that is the only hope we have of bringing them back.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439420,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [103]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:43]|h|r Anduin Wrynn says: And please... look after Jaina.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439424,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [104]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:46]|h|r Genn Greymane says: As you wish.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439427,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [105]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:48]|h|r |cffffff00[|c00077766Autobroadcast|cffffff00]: |cFFF222FF|cff00ff00You want a race change, levelup, fun items, transmog items, mounts, gold, rename, etc? \n|cffff0000https://www.wow-freakz.com/shop/|r",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439429,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [106]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:23:52]|h|r Lady Jaina Proudmoore says: I will return with the fleet... or not at all.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439433,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [107]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:18]|h|r |cffffff00[|c00077766Autobroadcast|cffffff00]: |cFFF222FF|cff00ff00IN-GAME SHOP IS CURRENTLY NOT AVAILABLE. PLEASE USE THE WEBSITE SHOP! \n|cffff0000SHOP PAGE: |cffffffff|Hurl:https://www.wow-freakz.com/shop|h[https://www.wow-freakz.com/shop]|h|r |r",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439459,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [108]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:46]|h|r Loot Specialization set to: Havoc",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439487,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [109]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:24:49]|h|r |cffffff00[|c0000FF00ARENA ANNOUNCER|cffffff00] |cFF00FFFFCurrently there are |cFFFF00000 |cFF00FFFFteams in 2v2 queue and |cFF00FF000 |cFF00FFFFteams in 3v3 queue",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 9570.32,
+					["serverTime"] = 1632439490,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [110]
+				{
+					["message"] = "0 |4day:days;, 0 |4hour:hours;, 0 |4minute:minutes;, 59 |4second:seconds;",
+					["timestamp"] = 9570.32,
+				}, -- [111]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 9570.32,
+				}, -- [112]
+				{
+					["message"] = "|cffffff00You seem to be running !BugGrabber with no display addon to go along with it. Although a slash command is provided for accessing error reports, a display can help you manage these errors in a more convenient way.|r",
+					["timestamp"] = 9560.993,
+				}, -- [113]
+				{
+					["message"] = "|cffffff00The standard display is called BugSack, and can probably be found on the same site where you found !BugGrabber.|r",
+					["timestamp"] = 9560.993,
+				}, -- [114]
+				{
+					["message"] = "|cffffff00If you don't want to be reminded about this again, run /stopnag.|r",
+					["timestamp"] = 9560.993,
+				}, -- [115]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:25:48]|h|r wow-freakz.com | For more info please check our forum forum.wow-freakz.com",
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [116]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:25:48]|h|r ",
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [117]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:25:49]|h|r Loot Specialization set to: Havoc",
+					["serverTime"] = 1632439550,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 9570.32,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [118]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:25:49]|h|r You have been disconnected from Blizzard services.",
+					["serverTime"] = 1632439550,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 9571.531,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [119]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

@@ -1,0 +1,6 @@
+OPie_Classic: disabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+ZPerl_Options: enabled
+XPerl_TeamSpeak: disabled
+BetterWardrobe_SourceData: enabled

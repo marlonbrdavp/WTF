@@ -1,0 +1,7 @@
+Grid2: enabled
+Grid2Options: enabled
+Grid2RaidDebuffsOptions: enabled
+Grid2RaidDebuffs: enabled
+Grid2LDB: enabled
+OPie_Classic: disabled
+!BugGrabber: disabled

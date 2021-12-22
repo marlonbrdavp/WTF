@@ -1,0 +1,66 @@
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Heroic Leap
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead]Charge;[@mouseover,help,nodead]Intervene;[@target,harm,nodead]Charge;[@target,help,nodead]Intervene;[]charge
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Shield Wall
+/cast Gift of the Naaru(Racial)
+END
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][]
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][]Heroic Throw
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Enraged Regeneration
+/cast [@player]Gift of the Naaru(Racial)
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Challenging Shout;[@mouseover,harm,nodead][]Taunt
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/equipslot 16 Modest Greatblade of the Quickblade
+/equipslot 16 Plague-Etched Hacker
+/equipslot 17 Dominance Keep Barrier
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [worn:Two-hand] Slam; [worn:Shields] Shield Slam
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Spell Reflection;[worn:Two-hand] Whirlwind; [worn:Shields] Shield Block
+END
+VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Die by the Sword
+/cast [@player]Gift of the Naaru(Racial)
+END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura [mod:alt]bladestorm
+/cast bladestorm
+END
+VER 3 010000000000000F " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Execute;[worn:Two-hand]Execute;[worn:Shields]Ignore Pain
+END
+VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Door of Shadows(Venthyr)
+END
+VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Hamstring;Revenge
+END

@@ -1,0 +1,12 @@
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][]Power Word: shield
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][]Penance
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead]Flash Heal;[@target,help,nodead]Flash Heal;[@target,harm,nodead][]Smite
+END

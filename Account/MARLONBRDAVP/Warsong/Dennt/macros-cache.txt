@@ -1,0 +1,63 @@
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, harm, nodead] Hex; [@target,harm, nodead][@player] Hex
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help, nodead]Chain Heal; [@target, harm, nodead]Flame Shock;[@target, help, nodead][@player] Chain Heal
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help, nodead] Healing Surge; [@target, help, nodead][@player] Healing Surge
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Astral Shift
+/cast Gift of the Naaru(Racial)
+/cast Spiritwalker's Grace
+/cast [@player]Earthen Shield Totem
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help, nodead]Healing Wave;[@target, harm, nodead]Lava Burst;[@target, help, nodead][@player] Healing Wave
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help, nodead]Riptide; [@target, harm, nodead]Lightning Bolt;[@target, help, nodead][@player] Riptide
+END
+VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help, nodead]Purify Spirit; [@target, harm, nodead]Chain Lightning;[@target, help, nodead][@player] Purify Spirit
+END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, harm, nodead]Wind Shear; [@target, harm, nodead][@player] Wind Shear
+END
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, harm, nodead] Purge; [@target,harm, nodead][@player] Purge
+END
+VER 3 010000000000000F " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, harm, nodead] Feral Lunge; [@target,harm, nodead][@player] Feral Lunge
+END
+VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence reset=30  Flametongue,Frostbrand
+END
+VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] Earthbind Totem
+END
+VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] Rainfall
+END
+VER 3 0100000000000013 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] Earthgrab Totem
+END
+VER 3 0100000000000014 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] Wind Rush Totem
+END

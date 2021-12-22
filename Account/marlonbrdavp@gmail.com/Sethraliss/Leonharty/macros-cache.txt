@@ -1,0 +1,73 @@
+VER 3 010000000000001E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player,mod:Ctrl][@mouseover,help,nodead]Power Word: shield;[@mouseover,harm,nodead]Shadow Word: Pain;[@target,harm,nodead]Shadow Word: Pain;[@target,help,nodead][]power word: shield
+END
+VER 3 0100000000000020 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help, nodead]Plea; [@target, harm, nodead]Shadow Word: Pain;[@target, help, nodead][@player] Plea
+END
+VER 3 010000000000001B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help, nodead]Heal;[@mouseover,harm,nodead]Holy Fire;[@target,harm,nodead]Holy Fire;[@target,help,nodead][]Heal
+END
+VER 3 010000000000001A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help, nodead][]Renew
+END
+VER 3 0100000000000021 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player,mod:ctrl,talent:2/3][talent:2/3,@cursor]Angelic Feather
+END
+VER 3 0100000000000023 " " "135936"
+#showtooltip
+/cast [@mouseover,help,nodead][]Gift of the Naaru(Racial)
+/cast [@mouseover,help,nodead][]Pain Suppression
+END
+VER 3 0100000000000025 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player,mod:Ctrl][@mouseover, help, nodead]Purify;[@mouseover,harm,nodead]Dispel Magic;[@target, harm, nodead]Dispel Magic;[@target, help, nodead][]Purify;
+END
+VER 3 0100000000000026 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player,mod:ctrl][@mouseover, help, nodead]Purify Disease;[@target, harm, nodead]Dispel Magic;[@target, help, nodead][]Purify Disease
+END
+VER 3 0100000000000027 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player,mod:ctrl][@mouseover, help, nodead][]Shining Force;
+END
+VER 3 010000000000002C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help, nodead][@target,help]Holy Word: Serenity; [@mouseover,harm,nodead][@target,harm]Holy Word: Chastise; Holy Word: Serenity
+END
+VER 3 010000000000002E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence [@mouseover,exists][] reset=10 Circle of Healing,Prayer of Mending
+END
+VER 3 010000000000002F " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player,mod:Ctrl][@mouseover, help, nodead]Flash Heal; [@target, harm, nodead]Smite;[@target, help, nodead][@player] Flash Heal
+END
+VER 3 0100000000000030 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Power Word: Barrier
+END
+VER 3 0100000000000031 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:Ctrl]Evangelism;[][@player]power word: radiance
+END
+VER 3 0100000000000032 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Mass Dispel
+END
+VER 3 0100000000000033 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead,mod:ctrl][@player,mod:ctrl]power word: shield;Mind Blast
+END
+VER 3 0100000000000034 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl,talent:3/3]Dark Void;Mind Sear
+END
+VER 3 0100000000000035 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists][]penance
+END

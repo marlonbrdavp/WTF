@@ -1,0 +1,13 @@
+
+CorruptionTooltipsDB = {
+	["profileKeys"] = {
+		["Dennt - Warsong"] = "Dennt - Warsong",
+		["Yndark - Warsong"] = "Yndark - Warsong",
+	},
+	["profiles"] = {
+		["Dennt - Warsong"] = {
+		},
+		["Yndark - Warsong"] = {
+		},
+	},
+}

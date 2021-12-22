@@ -1,0 +1,2129 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 92,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "Chigbungus-Thrall receives loot: |cffa335ee|Hitem:152127::::::::50:64::6:4:3612:42:1475:3528:1:28:637:::|h[Bearmantle Headdress]|h|r.",
+					["serverTime"] = 1617806294,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						54, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157605.505,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [1]
+				{
+					["message"] = "Taybloodied-Bonechewer receives loot: |cffa335ee|Hitem:152018::::::::50:64::6:3:3612:1475:3528:1:28:637:::|h[Breastplate of Molten Rebirth]|h|r.",
+					["serverTime"] = 1617806295,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						74, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157605.605,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [2]
+				{
+					["message"] = "Magni Bronzebeard says: Ye did it! Aggramar's essence is free! He can stand beside his brethren once more.",
+					["serverTime"] = 1617806295,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157605.731,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [3]
+				{
+					["message"] = "Lauanna-Winterhoof receives loot: |cffa335ee|Hitem:152033::::::::50:64::6:3:3612:1475:3528:1:28:637:::|h[Sliver of Corruption]|h|r.",
+					["serverTime"] = 1617806295,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						48, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157606.067,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [4]
+				{
+					["message"] = "Krehisho-Medivh receives loot: |cffa335ee|Hitem:152033::::::::50:64::6:3:3612:1475:3528:1:28:637:::|h[Sliver of Corruption]|h|r.",
+					["serverTime"] = 1617806295,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						43, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157606.117,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [5]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Snarlpaw-Stormrage:595:RAID|h|cffd84e4e60|r:|cfffe7b09Snarlpaw|r-|cffc4955eSto|r|h|cffd8d8d8]|r: |cffa335ee|Hitem:152121::::::::60:103::6:3:3612:1475:3528:1:28:637:::|h[Felreaper Hood]|h|r",
+					["serverTime"] = 1617806299,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						57, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157610.205,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [6]
+				{
+					["message"] = "You loot 25 Gold, 9 Silver, 56 Copper",
+					["serverTime"] = 1617806300,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						46, -- [3]
+						47, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157611.339,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [7]
+				{
+					["message"] = "Illidan Stormrage says: Our victories mean nothing. So long as Sargeras has the soul of Argus to fuel his infinite army, Azeroth remains in grave peril.",
+					["serverTime"] = 1617806302,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157613.372,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [8]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Faing-Zul'jin:598:RAID|h|cffd84e4e60|r:|cffa22fc8Faing|r-|cffad92d1Zul|r|h|cffd8d8d8]|r: pass",
+					["serverTime"] = 1617806303,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						58, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157614.146,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [9]
+				{
+					["message"] = "Quest accepted: Antorus, the Burning Throne: The Heart of Argus",
+					["serverTime"] = 1617806313,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157624.363,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [10]
+				{
+					["message"] = "Magni Bronzebeard says: The titans can sever that connection... but not here. They need ta bring the soul o' Argus ta their place o' power... the Seat o' the Pantheon.",
+					["serverTime"] = 1617806316,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157626.899,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [11]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Deepdarkerx-Sargeras:602:RAID|h|cffd84e4e60|r:|cfff38bb9Deepdarkerx|r-|cff77c771Sar|r|h|cffd8d8d8]|r: now the fcking scyth",
+					["serverTime"] = 1617806324,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157634.671,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [12]
+				{
+					["message"] = "Magni Bronzebeard says: All right, everybody... Hold on!",
+					["serverTime"] = 1617806326,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157636.681,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [13]
+				{
+					["message"] = "Prophet Velen says: The very cradle of creation!",
+					["serverTime"] = 1617806327,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157638.419,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [14]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Snarlpaw-Stormrage:605:RAID|h|cffd84e4e60|r:|cfffe7b09Snarlpaw|r-|cffc4955eSto|r|h|cffd8d8d8]|r: scythe nad mount pls rng gods",
+					["serverTime"] = 1617806332,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						57, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157643.362,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [15]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Krehisho-Medivh:606:RAID|h|cffd84e4e60|r:|cffc31d39Krehisho|r-|cfffd8e2eMed|r:1|h|cffd8d8d8]|r: chest tay?",
+					["serverTime"] = 1617806334,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157645.099,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [16]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Cogswerth-Darrowmere:607:RAID|h|cffd8bc3f50|r:|cff8687edCogswerth|r-|cff84f09dDar|r:1|h|cffd8d8d8]|r: havent seen a mount in a long time",
+					["serverTime"] = 1617806346,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157657.161,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [17]
+				{
+					["message"] = "|cffa5a5a5Aarii|r-Saurfang has initiated a ready check.",
+					["serverTime"] = 1617806348,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157658.738,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [18]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Taybloodied-Bonechewer:609:RAID|h|cffd84e4e60|r:|cffc59a6cTaybloodied|r-|cffd9dd1cBon|r|h|cffd8d8d8]|r: wait what",
+					["serverTime"] = 1617806349,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						64, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157659.627,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [19]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Krehisho-Medivh:610:RAID|h|cffd84e4e60|r:|cffc31d39Krehisho|r-|cfffd8e2eMed|r:1|h|cffd8d8d8]|r: did u need the chest?",
+					["serverTime"] = 1617806356,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157666.62,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [20]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Taybloodied-Bonechewer:611:RAID|h|cffd84e4e60|r:|cffc59a6cTaybloodied|r-|cffd9dd1cBon|r|h|cffd8d8d8]|r: where did yall go",
+					["serverTime"] = 1617806361,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						64, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157671.783,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [21]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Faing-Zul'jin:612:RAID|h|cffd84e4e60|r:|cffa22fc8Faing|r-|cffad92d1Zul|r|h|cffd8d8d8]|r: talk to magni",
+					["serverTime"] = 1617806364,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						58, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157675.478,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [22]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Snarlpaw-Stormrage:613:RAID|h|cffd84e4e60|r:|cfffe7b09Snarlpaw|r-|cffc4955eSto|r|h|cffd8d8d8]|r: talk to magni",
+					["serverTime"] = 1617806366,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						57, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157677.332,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [23]
+				{
+					["message"] = "|Hchannel:RAID|h[RL] |h|cffd8d8d8[|r|Hplayer:Aarii-Saurfang:614:RAID|h|cffd84e4e60|r:|cffa9d271Aarii|r-|cff757827Sau|r:1|h|cffd8d8d8]|r: talk to magni dude",
+					["serverTime"] = 1617806367,
+					["r"] = 1,
+					["extraData"] = {
+						40, -- [1]
+						false, -- [2]
+						15, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157678.249,
+					["g"] = 0.2823529541492462,
+					["b"] = 0.03529411926865578,
+				}, -- [24]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Krehisho-Medivh:615:RAID|h|cffd84e4e60|r:|cffc31d39Krehisho|r-|cfffd8e2eMed|r:1|h|cffd8d8d8]|r: talk to mag",
+					["serverTime"] = 1617806367,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157678.513,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [25]
+				{
+					["message"] = "Argus the Unmaker yells: The master demands your doom!",
+					["serverTime"] = 1617806385,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157695.616,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [26]
+				{
+					["message"] = "|cffffaeaeDetails!:|r |cFFFFFF00First Hit|r: Corpo-a-Corpo from Argus the Unmaker |cFFFFBB00Boss First Target|r: Moopz    ",
+					["timestamp"] = 2157695.922,
+					["serverTime"] = 1617806385,
+				}, -- [27]
+				{
+					["message"] = "|TInterface\\Icons\\Sha_Ability_Rogue_BloodyEye_nightmare:20|t|cFFFF0000|Hspell:258068|h[Sargeras' Gaze]|h|r is cast upon the battle...",
+					["serverTime"] = 1617806393,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						35, -- [3]
+						36, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157703.869,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [28]
+				{
+					["message"] = "|TInterface\\Icons\\Shaman_PVP_RipplingWaters:20|tGolganneth begins to cast |cFFFF0000|Hspell:255594|h[Sky and Sea]|h|r!",
+					["serverTime"] = 1617806395,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						35, -- [3]
+						36, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157706.259,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [29]
+				{
+					["message"] = "Aman'Thul yells: The might of sea and sky must aid our champions, Golganneth!",
+					["serverTime"] = 1617806395,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157706.504,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [30]
+				{
+					["message"] = "Aman'Thul yells: Let the fury of the sea wash away this corruption!",
+					["serverTime"] = 1617806397,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157707.545,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [31]
+				{
+					["message"] = "You have earned the title 'Titanslayer |cff00ff00Nymmeriah|r'.",
+					["serverTime"] = 1617806412,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157722.671,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [32]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Cogswerth-Darrowmere:624:ACHIEVEMENT|h|cffd8bc3f50|r:|cff8687edCogswerth|r-|cff84f09dDar|r:1|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12002:Player-113-0A6C5AD0:1:4:7:21:4294967295:4294967295:4294967295:4294967295|h[Mythic: Argus the Unmaker]|h|r |cffffffff(|rCompleted 4/07/21|cffffffff)|r!",
+					["serverTime"] = 1617806412,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						37, -- [3]
+						51, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157722.671,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [33]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Cogswerth-Darrowmere:625:ACHIEVEMENT|h|cffd8bc3f50|r:|cff8687edCogswerth|r-|cff84f09dDar|r:1|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:11991:Player-113-0A6C5AD0:1:4:7:21:4294967295:4294967295:4294967295:4294967295|h[Seat of the Pantheon]|h|r |cffffffff(|rCompleted 10/01/18|cffffffff)|r!",
+					["serverTime"] = 1617806412,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						37, -- [3]
+						51, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157722.671,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [34]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Aleece-Quel'Thalas:626:ACHIEVEMENT|h|cffd84e4e60|r:|cffa9d271Aleece|r-|cffb3f031Que|r:2|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12002:Player-1428-0B20F86D:1:4:7:21:4294967295:4294967295:4294967295:4294967295|h[Mythic: Argus the Unmaker]|h|r |cffffffff(|rCompleted 4/07/21|cffffffff)|r!",
+					["serverTime"] = 1617806412,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						37, -- [3]
+						52, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157722.671,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [35]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Aleece-Quel'Thalas:627:ACHIEVEMENT|h|cffd84e4e60|r:|cffa9d271Aleece|r-|cffb3f031Que|r:2|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:11991:Player-1428-0B20F86D:1:4:7:21:4294967295:4294967295:4294967295:4294967295|h[Seat of the Pantheon]|h|r |cffffffff(|rCompleted 10/01/18|cffffffff)|r!",
+					["serverTime"] = 1617806412,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						37, -- [3]
+						52, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157722.671,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [36]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Lauanna-Winterhoof:628:ACHIEVEMENT|h|cffd8bc3f50|r:|cfff38bb9Lauanna|r-|cffafaacaWin|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12002:Player-4-0DED7124:1:4:7:21:4294967295:4294967295:4294967295:4294967295|h[Mythic: Argus the Unmaker]|h|r |cffffffff(|rCompleted 4/07/21|cffffffff)|r!",
+					["serverTime"] = 1617806412,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						37, -- [3]
+						53, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157722.671,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [37]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Koredren-MoonGuard:629:ACHIEVEMENT|h|cffd84e4e56|r:|cffc31d39Koredren|r-|cffc4bee7Moo|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12002:Player-3675-0A0883A1:1:4:7:21:4294967295:4294967295:4294967295:4294967295|h[Mythic: Argus the Unmaker]|h|r |cffffffff(|rCompleted 4/07/21|cffffffff)|r!",
+					["serverTime"] = 1617806412,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						37, -- [3]
+						67, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157722.671,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [38]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Koredren-MoonGuard:630:ACHIEVEMENT|h|cffd84e4e56|r:|cffc31d39Koredren|r-|cffc4bee7Moo|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:11991:Player-3675-0A0883A1:1:4:7:21:4294967295:4294967295:4294967295:4294967295|h[Seat of the Pantheon]|h|r |cffffffff(|rCompleted 10/01/18|cffffffff)|r!",
+					["serverTime"] = 1617806412,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						37, -- [3]
+						67, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157722.671,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [39]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Chigbungus-Thrall:631:ACHIEVEMENT|h|cffd84e4e60|r:|cffc59a6cChigbungus|r-|cff1dfd54Thr|r:2|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12002:Player-3678-0C1D0A3B:1:4:7:21:4294967295:4294967295:4294967295:4294967295|h[Mythic: Argus the Unmaker]|h|r |cffffffff(|rCompleted 4/07/21|cffffffff)|r!",
+					["serverTime"] = 1617806412,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						37, -- [3]
+						73, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157722.671,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [40]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Chigbungus-Thrall:632:ACHIEVEMENT|h|cffd84e4e60|r:|cffc59a6cChigbungus|r-|cff1dfd54Thr|r:2|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:11991:Player-3678-0C1D0A3B:1:4:7:21:4294967295:4294967295:4294967295:4294967295|h[Seat of the Pantheon]|h|r |cffffffff(|rCompleted 10/01/18|cffffffff)|r!",
+					["serverTime"] = 1617806412,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						37, -- [3]
+						73, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157722.671,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [41]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Aarii-Saurfang:633:ACHIEVEMENT|h|cffd84e4e60|r:|cffa9d271Aarii|r-|cff757827Sau|r:1|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12002:Player-3721-0BCBEA42:1:4:7:21:4294967295:4294967295:4294967295:4294967295|h[Mythic: Argus the Unmaker]|h|r |cffffffff(|rCompleted 4/07/21|cffffffff)|r!",
+					["serverTime"] = 1617806412,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						37, -- [3]
+						38, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157722.671,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [42]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Aarii-Saurfang:634:ACHIEVEMENT|h|cffd84e4e60|r:|cffa9d271Aarii|r-|cff757827Sau|r:1|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:11991:Player-3721-0BCBEA42:1:4:7:21:4294967295:4294967295:4294967295:4294967295|h[Seat of the Pantheon]|h|r |cffffffff(|rCompleted 10/01/18|cffffffff)|r!",
+					["serverTime"] = 1617806412,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						37, -- [3]
+						38, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157722.671,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [43]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Nymmeriah-Goldrinn:635:ACHIEVEMENT|h|cffd8bc3f50|r:|cff3ec6eaNymmeriah|r:1|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12002:Player-3207-0A62E47C:1:4:7:21:4294967295:4294967295:4294967295:4294967295|h[Mythic: Argus the Unmaker]|h|r |cffffffff(|rCompleted 4/07/21|cffffffff)|r!",
+					["serverTime"] = 1617806412,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						37, -- [3]
+						39, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157722.671,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [44]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Dårk-Aggramar:636:ACHIEVEMENT|h|cffd84e4e57|r:|cfffe7b09Dårk|r-|cffd64192Agg|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12002:Player-106-05D36E29:1:4:7:21:4294967295:4294967295:4294967295:4294967295|h[Mythic: Argus the Unmaker]|h|r |cffffffff(|rCompleted 4/07/21|cffffffff)|r!",
+					["serverTime"] = 1617806412,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						37, -- [3]
+						62, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157722.671,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [45]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Taybloodied-Bonechewer:637:ACHIEVEMENT|h|cffd84e4e60|r:|cffc59a6cTaybloodied|r-|cffd9dd1cBon|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12002:Player-1136-0864E9E9:1:4:7:21:4294967295:4294967295:4294967295:4294967295|h[Mythic: Argus the Unmaker]|h|r |cffffffff(|rCompleted 4/07/21|cffffffff)|r!",
+					["serverTime"] = 1617806412,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						37, -- [3]
+						68, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157722.671,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [46]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Taybloodied-Bonechewer:638:ACHIEVEMENT|h|cffd84e4e60|r:|cffc59a6cTaybloodied|r-|cffd9dd1cBon|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:11991:Player-1136-0864E9E9:1:4:7:21:4294967295:4294967295:4294967295:4294967295|h[Seat of the Pantheon]|h|r |cffffffff(|rCompleted 10/01/18|cffffffff)|r!",
+					["serverTime"] = 1617806412,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						37, -- [3]
+						68, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157722.671,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [47]
+				{
+					["message"] = "Seavmeng-Frostmourne receives item: |cffa335ee|Hitem:154176::::::::50:64::6:2:3983:3985::::|h[Khaz'goroth's Courage]|h|r.",
+					["serverTime"] = 1617806412,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						63, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157723.228,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [48]
+				{
+					["message"] = "Krehisho-Medivh receives item: |cffa335ee|Hitem:153115::::::::50:64::6:3:3612:1476:3528::::|h[Scythe of the Unmaker]|h|r.",
+					["serverTime"] = 1617806412,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						43, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157723.236,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [49]
+				{
+					["message"] = "Moopz-Dalaran receives item: |cffa335ee|Hitem:154173::::::::50:64::6:2:3983:3985::::|h[Aggramar's Conviction]|h|r.",
+					["serverTime"] = 1617806412,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						70, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157723.284,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [50]
+				{
+					["message"] = "Lauanna-Winterhoof receives item: |cffa335ee|Hitem:154175::::::::50:64::6:2:3983:3985::::|h[Eonar's Compassion]|h|r.",
+					["serverTime"] = 1617806412,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						48, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157723.294,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [51]
+				{
+					["message"] = "Deepdarkerx-Sargeras receives item: |cffa335ee|Hitem:154176::::::::50:64::6:2:3983:3985::::|h[Khaz'goroth's Courage]|h|r.",
+					["serverTime"] = 1617806412,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						78, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157723.315,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [52]
+				{
+					["message"] = "Wxinvinleous-Arthas receives item: |cffa335ee|Hitem:153115::::::::50:64::6:3:3612:1476:3528::::|h[Scythe of the Unmaker]|h|r.",
+					["serverTime"] = 1617806412,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						55, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157723.398,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [53]
+				{
+					["message"] = "Chigbungus-Thrall receives item: |cffa335ee|Hitem:154176::::::::50:64::6:2:3983:3984::::|h[Khaz'goroth's Courage]|h|r.",
+					["serverTime"] = 1617806412,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						54, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157723.426,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [54]
+				{
+					["message"] = "You receive currency: |cffffffff|Hcurrency:1533:0|h[Wakening Essence]|h|r x29.",
+					["serverTime"] = 1617806413,
+					["r"] = 0,
+					["extraData"] = {
+						59, -- [1]
+						false, -- [2]
+						40, -- [3]
+						41, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157724.038,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [55]
+				{
+					["message"] = "Dårk-Aggramar receives loot: |cffa335ee|Hitem:152423::::::::50:64::6:3:3612:1475:3528:1:28:477:::|h[Helm of the Awakened Soul]|h|r.",
+					["serverTime"] = 1617806418,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157728.714,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [56]
+				{
+					["message"] = "You loot 27 Gold, 33 Silver, 37 Copper",
+					["serverTime"] = 1617806419,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						46, -- [3]
+						47, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157730.421,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [57]
+				{
+					["message"] = "Moopz-Dalaran receives loot: |cffa335ee|Hitem:155851::::::::50:64::6:3:3612:1476:3528:1:28:477:::|h[Reorigination Spark]|h|r.",
+					["serverTime"] = 1617806422,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						70, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157732.519,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [58]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Krehisho-Medivh:650:RAID|h|cffd84e4e60|r:|cffc31d39Krehisho|r-|cfffd8e2eMed|r:1|h|cffd8d8d8]|r: lol i didnt even want scythe but its the only thing i got",
+					["serverTime"] = 1617806434,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157745.311,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [59]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Deepdarkerx-Sargeras:651:RAID|h|cffd84e4e60|r:|cfff38bb9Deepdarkerx|r-|cff77c771Sar|r|h|cffd8d8d8]|r: any dady do not need the scyth?",
+					["serverTime"] = 1617806437,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157747.554,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [60]
+				{
+					["message"] = "Seavmeng-Frostmourne receives loot: |cffa335ee|Hitem:155852::::::::50:64::6:3:3612:1476:3528:1:28:477:::|h[Volatile Soul Fragment]|h|r.",
+					["serverTime"] = 1617806438,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						63, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157748.901,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [61]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Cogswerth-Darrowmere:653:RAID|h|cffd8bc3f50|r:|cff8687edCogswerth|r-|cff84f09dDar|r:1|h|cffd8d8d8]|r: wow 2 scythes",
+					["serverTime"] = 1617806439,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157750.507,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [62]
+				{
+					["message"] = "|Hchannel:RAID|h[RL] |h|cffd8d8d8[|r|Hplayer:Aarii-Saurfang:654:RAID|h|cffd84e4e60|r:|cffa9d271Aarii|r-|cff757827Sau|r:1|h|cffd8d8d8]|r: i'll take it",
+					["serverTime"] = 1617806443,
+					["r"] = 1,
+					["extraData"] = {
+						40, -- [1]
+						false, -- [2]
+						15, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157753.933,
+					["g"] = 0.2823529541492462,
+					["b"] = 0.03529411926865578,
+				}, -- [63]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Snarlpaw-Stormrage:655:RAID|h|cffd84e4e60|r:|cfffe7b09Snarlpaw|r-|cffc4955eSto|r|h|cffd8d8d8]|r: nothig :Sob:",
+					["serverTime"] = 1617806448,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						57, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157758.691,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [64]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Cogswerth-Darrowmere:656:RAID|h|cffd8bc3f50|r:|cff8687edCogswerth|r-|cff84f09dDar|r:1|h|cffd8d8d8]|r: cant trade em",
+					["serverTime"] = 1617806450,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157761.319,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [65]
+				{
+					["message"] = "|Hchannel:RAID|h[RL] |h|cffd8d8d8[|r|Hplayer:Aarii-Saurfang:657:RAID|h|cffd84e4e60|r:|cffa9d271Aarii|r-|cff757827Sau|r:1|h|cffd8d8d8]|r: damn",
+					["serverTime"] = 1617806454,
+					["r"] = 1,
+					["extraData"] = {
+						40, -- [1]
+						false, -- [2]
+						15, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157765.474,
+					["g"] = 0.2823529541492462,
+					["b"] = 0.03529411926865578,
+				}, -- [66]
+				{
+					["message"] = "Wxinvinleous-Arthas receives loot: |cffa335ee|Hitem:155846::::::::50:64::6:3:3612:1476:3528:1:28:477:::|h[Miniaturized Cosmic Beacon]|h|r.",
+					["serverTime"] = 1617806455,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						55, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157765.962,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [67]
+				{
+					["message"] = "|cffa5a5a5Seavmeng|r-Frostmourne has left the raid group.",
+					["serverTime"] = 1617806455,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157766.004,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [68]
+				{
+					["message"] = "Cogswerth-Darrowmere receives loot: |cffa335ee|Hitem:152005::::::::50:64::6:3:3612:1475:3528:1:28:477:::|h[Pauldrons of Colossal Burden]|h|r.",
+					["serverTime"] = 1617806459,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157769.673,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [69]
+				{
+					["message"] = "|Hchannel:RAID|h[RL] |h|cffd8d8d8[|r|Hplayer:Aarii-Saurfang:661:RAID|h|cffd84e4e60|r:|cffa9d271Aarii|r-|cff757827Sau|r:1|h|cffd8d8d8]|r: can i get the head if no one needs it dark ?",
+					["serverTime"] = 1617806463,
+					["r"] = 1,
+					["extraData"] = {
+						40, -- [1]
+						false, -- [2]
+						15, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157773.841,
+					["g"] = 0.2823529541492462,
+					["b"] = 0.03529411926865578,
+				}, -- [70]
+				{
+					["message"] = "You cry.",
+					["serverTime"] = 1617806466,
+					["r"] = 1,
+					["extraData"] = {
+						12, -- [1]
+						false, -- [2]
+						80, -- [3]
+						81, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157776.575,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
+				}, -- [71]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Deepdarkerx-Sargeras:663:RAID|h|cffd84e4e60|r:|cfff38bb9Deepdarkerx|r-|cff77c771Sar|r|h|cffd8d8d8]|r: mage portal plz?",
+					["serverTime"] = 1617806467,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157777.927,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [72]
+				{
+					["message"] = "|cffa5a5a5Dårk|r-Aggramar has left the raid group.",
+					["serverTime"] = 1617806481,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157792.353,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [73]
+				{
+					["message"] = "|Hchannel:RAID|h[RL] |h|cffd8d8d8[|r|Hplayer:Aarii-Saurfang:665:RAID|h|cffd84e4e60|r:|cffa9d271Aarii|r-|cff757827Sau|r:1|h|cffd8d8d8]|r: also cog you need those shoulders ?",
+					["serverTime"] = 1617806483,
+					["r"] = 1,
+					["extraData"] = {
+						40, -- [1]
+						false, -- [2]
+						15, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157793.676,
+					["g"] = 0.2823529541492462,
+					["b"] = 0.03529411926865578,
+				}, -- [74]
+				{
+					["message"] = "|cffa5a5a5Chigbungus|r-Thrall has left the raid group.",
+					["serverTime"] = 1617806483,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157794.384,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [75]
+				{
+					["message"] = "|cffa5a5a5Deepdarkerx|r-Sargeras has left the raid group.",
+					["serverTime"] = 1617806489,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157799.658,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [76]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Snarlpaw-Stormrage:668:SAY|h|cffd84e4e60|r:|cfffe7b09Snarlpaw|r-|cffc4955eSto|r|h|cffd8d8d8]|r: ty 4 portal",
+					["serverTime"] = 1617806491,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						25, -- [3]
+						82, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157802.432,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [77]
+				{
+					["message"] = "|Hchannel:RAID|h[RL] |h|cffd8d8d8[|r|Hplayer:Aarii-Saurfang:669:RAID|h|cffd84e4e60|r:|cffa9d271Aarii|r-|cff757827Sau|r:1|h|cffd8d8d8]|r: awesome thanks guys",
+					["serverTime"] = 1617806503,
+					["r"] = 1,
+					["extraData"] = {
+						40, -- [1]
+						false, -- [2]
+						15, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157813.995,
+					["g"] = 0.2823529541492462,
+					["b"] = 0.03529411926865578,
+				}, -- [78]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Stormwind City]|h",
+					["serverTime"] = 1617806503,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157814.463,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [79]
+				{
+					["message"] = "|Hchannel:channel:2|h[2] |h Changed Channel: |Hchannel:CHANNEL:2|h[2. Trade - City]|h",
+					["serverTime"] = 1617806503,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157814.463,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [80]
+				{
+					["message"] = "|Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Stormwind City]|h",
+					["serverTime"] = 1617806503,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157814.463,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [81]
+				{
+					["message"] = "|cffa5a5a5Wxinvinleous|r-Arthas has left the raid group.",
+					["serverTime"] = 1617806504,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157814.925,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [82]
+				{
+					["message"] = "|cffa5a5a5Cogswerth|r-Darrowmere has left the raid group.",
+					["serverTime"] = 1617806507,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157818.023,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [83]
+				{
+					["message"] = "|cffa5a5a5Taybloodied|r-Bonechewer has left the raid group.",
+					["serverTime"] = 1617806508,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157818.769,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [84]
+				{
+					["message"] = "|cffa5a5a5Faing|r-Zul'jin has left the raid group.",
+					["serverTime"] = 1617806508,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157819.153,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [85]
+				{
+					["message"] = "|cffa5a5a5Koredren|r-MoonGuard has left the raid group.",
+					["serverTime"] = 1617806510,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157820.853,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [86]
+				{
+					["message"] = "|cffa5a5a5Lauanna|r-Winterhoof has left the raid group.",
+					["serverTime"] = 1617806514,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157824.894,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [87]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Aleece-Quel'Thalas:679:RAID|h|cffd84e4e60|r:|cffa9d271Aleece|r-|cffb3f031Que|r:2|h|cffd8d8d8]|r: i need the should for my shaman please",
+					["serverTime"] = 1617806519,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157829.764,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [88]
+				{
+					["message"] = "You leave the group.",
+					["serverTime"] = 1617806525,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157835.774,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [89]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h Left Channel: |Hchannel:CHANNEL:1|h[1. General - Stormwind City]|h",
+					["serverTime"] = 1617806528,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157839.213,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [90]
+				{
+					["message"] = "|Hchannel:channel:2|h[2] |h Left Channel: |Hchannel:CHANNEL:2|h[2. Trade - City]|h",
+					["serverTime"] = 1617806528,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157839.213,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [91]
+				{
+					["message"] = "|Hchannel:channel:3|h[3] |h Left Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Stormwind City]|h",
+					["serverTime"] = 1617806528,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157839.213,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [92]
+				{
+					["message"] = "Krehisho-Medivh receives loot: |cffa335ee|Hitem:152123::::::::50:64::6:3:3612:1475:3528:1:28:637:::|h[Felreaper Spaulders]|h|r.",
+					["serverTime"] = 1617806131,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						43, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157441.998,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [93]
+				{
+					["message"] = "Chigbungus-Thrall receives loot: |cffa335ee|Hitem:152123::::::::50:64::6:3:3612:1475:3528:1:28:637:::|h[Felreaper Spaulders]|h|r.",
+					["serverTime"] = 1617806131,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						54, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157442.142,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [94]
+				{
+					["message"] = "Aarii-Saurfang receives loot: |cffa335ee|Hitem:151971::::::::50:64::6:3:3612:1475:3528:1:28:637:::|h[Sheath of Asara]|h|r.",
+					["serverTime"] = 1617806131,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157442.228,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [95]
+				{
+					["message"] = "Magni Bronzebeard says: The souls of the Pantheon are free, but they endured so much sufferin'. Let me bide with 'em fer a time. Offer a bit o' comfort.",
+					["serverTime"] = 1617806132,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157443.367,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [96]
+				{
+					["message"] = "Moopz-Dalaran receives loot: |cffa335ee|Hitem:151946::::::::50:64::6:4:3612:41:1475:3528:1:28:637:::|h[Fervent Twilight Legwraps]|h|r.",
+					["serverTime"] = 1617806133,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						70, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157443.85,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [97]
+				{
+					["message"] = "Deepdarkerx-Sargeras receives loot: |cffa335ee|Hitem:151971::::::::50:64::6:3:3612:1475:3528:1:28:637:::|h[Sheath of Asara]|h|r.",
+					["serverTime"] = 1617806133,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						78, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157443.872,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [98]
+				{
+					["message"] = "You loot 27 Gold, 30 Silver, 78 Copper",
+					["serverTime"] = 1617806134,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						46, -- [3]
+						47, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157444.704,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [99]
+				{
+					["message"] = "Prophet Velen says: Remain here, Magni. The rest of us will go on.",
+					["serverTime"] = 1617806142,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157453.127,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [100]
+				{
+					["message"] = "Illidan Stormrage says: So close now to the end...",
+					["serverTime"] = 1617806147,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157458.161,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [101]
+				{
+					["message"] = "Prophet Velen says: This may be the one place in the universe sacred to the Legion. Demons would pluck out their eyes sooner than gaze upon it.",
+					["serverTime"] = 1617806152,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157462.679,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [102]
+				{
+					["message"] = "Snarlpaw-Stormrage receives loot: |cff9d9d9d|Hitem:132199::::::::50:64:::::::|h[Congealed Felblood]|h|r.",
+					["serverTime"] = 1617806153,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						69, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157463.729,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [103]
+				{
+					["message"] = "Illidan Stormrage says: Who could ever imagine such a sacrifice?",
+					["serverTime"] = 1617806161,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157472.099,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [104]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Deepdarkerx-Sargeras:567:RAID|h|cffd84e4e60|r:|cfff38bb9Deepdarkerx|r-|cff77c771Sar|r|h|cffd8d8d8]|r: now give me the fcking sword",
+					["serverTime"] = 1617806166,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157477.361,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [105]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Krehisho-Medivh:568:RAID|h|cffd84e4e60|r:|cffc31d39Krehisho|r-|cfffd8e2eMed|r:1|h|cffd8d8d8]|r: |cffa335ee|Hitem:152123::::::::60:252::6:3:3612:1475:3528:1:28:637:::|h[Felreaper Spaulders]|h|r fang?",
+					["serverTime"] = 1617806168,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157479.077,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [106]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Dårk-Aggramar:569:RAID|h|cffd84e4e57|r:|cfffe7b09Dårk|r-|cffd64192Agg|r|h|cffd8d8d8]|r: focus adds",
+					["serverTime"] = 1617806177,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						31, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157487.563,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [107]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Faing-Zul'jin:570:RAID|h|cffd84e4e60|r:|cffa22fc8Faing|r-|cffad92d1Zul|r|h|cffd8d8d8]|r: ty and i'm good on those",
+					["serverTime"] = 1617806181,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						58, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157491.597,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [108]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Faing-Zul'jin:571:RAID|h|cffd84e4e60|r:|cffa22fc8Faing|r-|cffad92d1Zul|r|h|cffd8d8d8]|r: the chest was the last piece i needed",
+					["serverTime"] = 1617806184,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						58, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157495.33,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [109]
+				{
+					["message"] = "|Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Koredren-MoonGuard:572:RAID|h|cffd84e4e56|r:|cffc31d39Koredren|r-|cffc4bee7Moo|r|h|cffd8d8d8]|r: juggernaut legplates",
+					["serverTime"] = 1617806204,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						15, -- [3]
+						79, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157515.29,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [110]
+				{
+					["message"] = "|cffa5a5a5Aarii|r-Saurfang has initiated a ready check.",
+					["serverTime"] = 1617806213,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157524.241,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [111]
+				{
+					["message"] = "Aggramar yells: You will burn!",
+					["serverTime"] = 1617806232,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157542.554,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [112]
+				{
+					["message"] = "|cffffaeaeDetails!:|r |cFFFFBB00First Hit|r: *?* |cFFFFBB00Boss First Target|r: Deepdarkerx    ",
+					["timestamp"] = 2157543.047,
+					["serverTime"] = 1617806232,
+				}, -- [113]
+				{
+					["message"] = "Aggramar yells: Taeshalach's power is unleashed!",
+					["serverTime"] = 1617806242,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157552.61,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [114]
+				{
+					["message"] = "Aggramar yells: You may have withstood the flames, but you will not withstand my fury.",
+					["serverTime"] = 1617806254,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157565.144,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [115]
+				{
+					["message"] = "Aggramar yells: There is no escape.",
+					["serverTime"] = 1617806261,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157571.536,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [116]
+				{
+					["message"] = "Aggramar yells: The power of Taeshalach will consume you!",
+					["serverTime"] = 1617806265,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157575.692,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [117]
+				{
+					["message"] = "Aggramar yells: Your modicum of skill will be insufficient to save you.",
+					["serverTime"] = 1617806284,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157595.174,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [118]
+				{
+					["message"] = "Aggramar yells: The flames will consume you!",
+					["serverTime"] = 1617806291,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157601.885,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [119]
+				{
+					["message"] = "Aggramar yells: It may be... too late to stop him...",
+					["serverTime"] = 1617806291,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157602.284,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [120]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Koredren-MoonGuard:582:ACHIEVEMENT|h|cffd84e4e56|r:|cffc31d39Koredren|r-|cffc4bee7Moo|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12001:Player-3675-0A0883A1:1:4:7:21:4294967295:4294967295:4294967295:4294967295|h[Mythic: Aggramar]|h|r |cffffffff(|rCompleted 4/07/21|cffffffff)|r!",
+					["serverTime"] = 1617806292,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						37, -- [3]
+						67, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157603.004,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [121]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Nymmeriah-Goldrinn:583:ACHIEVEMENT|h|cffd8bc3f50|r:|cff3ec6eaNymmeriah|r:1|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12001:Player-3207-0A62E47C:1:4:7:21:4294967295:4294967295:4294967295:4294967295|h[Mythic: Aggramar]|h|r |cffffffff(|rCompleted 4/07/21|cffffffff)|r!",
+					["serverTime"] = 1617806292,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						37, -- [3]
+						39, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157603.161,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [122]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Dårk-Aggramar:584:ACHIEVEMENT|h|cffd84e4e57|r:|cfffe7b09Dårk|r-|cffd64192Agg|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12001:Player-106-05D36E29:1:4:7:21:4294967295:4294967295:4294967295:4294967295|h[Mythic: Aggramar]|h|r |cffffffff(|rCompleted 4/07/21|cffffffff)|r!",
+					["serverTime"] = 1617806292,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						37, -- [3]
+						62, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157603.161,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [123]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Taybloodied-Bonechewer:585:ACHIEVEMENT|h|cffd84e4e60|r:|cffc59a6cTaybloodied|r-|cffd9dd1cBon|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12001:Player-1136-0864E9E9:1:4:7:21:4294967295:4294967295:4294967295:4294967295|h[Mythic: Aggramar]|h|r |cffffffff(|rCompleted 4/07/21|cffffffff)|r!",
+					["serverTime"] = 1617806292,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						37, -- [3]
+						68, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157603.161,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [124]
+				{
+					["message"] = "You receive currency: |cffffffff|Hcurrency:1533:0|h[Wakening Essence]|h|r x22.",
+					["serverTime"] = 1617806293,
+					["r"] = 0,
+					["extraData"] = {
+						59, -- [1]
+						false, -- [2]
+						40, -- [3]
+						41, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157603.797,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [125]
+				{
+					["message"] = "Krehisho-Medivh receives loot: |cffa335ee|Hitem:152910::::::::50:64:::::::|h[Sigil of the Dark Titan]|h|r.",
+					["serverTime"] = 1617806294,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						43, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157605.036,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [126]
+				{
+					["message"] = "Moopz-Dalaran receives loot: |cffa335ee|Hitem:152910::::::::50:64:::::::|h[Sigil of the Dark Titan]|h|r.",
+					["serverTime"] = 1617806294,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						70, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157605.141,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [127]
+				{
+					["message"] = "Snarlpaw-Stormrage receives loot: |cffa335ee|Hitem:152121::::::::50:64::6:3:3612:1475:3528:1:28:637:::|h[Felreaper Hood]|h|r.",
+					["serverTime"] = 1617806294,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						32, -- [3]
+						69, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2157605.407,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [128]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

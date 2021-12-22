@@ -1,0 +1,32 @@
+
+OneRing_Config = {
+	["CenterActions"] = {
+		["OPieTracking"] = "OPieBundleTracker14",
+		["OPieAutoQuest"] = "OPieBundleQuest179921",
+	},
+	["CharProfiles"] = {
+	},
+	["_GameVersion"] = "9.1.5",
+	["_OPieVersion"] = "Xe 6 (3.106)",
+	["ProfileStorage"] = {
+		["default"] = {
+			["CenterAction"] = true,
+			["Bindings"] = {
+				["OPieAutoQuest"] = "ALT-BUTTON3",
+				["SpecMenu"] = "SHIFT-SPACE",
+			},
+			["RotationTokens"] = {
+				["OPCTAt"] = "OPCHSh",
+			},
+		},
+	},
+	["PersistentStorage"] = {
+		["RingKeeper"] = {
+			["OPieFlagStore"] = {
+				["StoreVersion"] = 2,
+			},
+		},
+	},
+	["_GameLocale"] = "enUS",
+}
+OPie_SavedData = nil

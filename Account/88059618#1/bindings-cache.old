@@ -1,0 +1,56 @@
+bind BUTTON3 TOGGLEAUTORUN
+bind Q CLICK BT4Button13:LeftButton
+bind E CLICK BT4Button14:LeftButton
+bind X CLICK BT4Button18:LeftButton
+bind Z CLICK BT4Button37:LeftButton
+bind NUMLOCK NONE
+bind R CLICK BT4Button15:LeftButton
+bind SHIFT-R CLICK BT4Button21:LeftButton
+bind 0 CLICK BT4Button61:LeftButton
+bind - CLICK BT4Button63:LeftButton
+bind CTRL-1 NONE
+bind CTRL-2 NONE
+bind CTRL-3 NONE
+bind CTRL-4 NONE
+bind CTRL-5 NONE
+bind CTRL-6 NONE
+bind CTRL-0 TOGGLECURRENCY
+bind F1 TOGGLESHEATH
+bind F2 NAMEPLATES
+bind F3 FRIENDNAMEPLATES
+bind F4 ALLNAMEPLATES
+bind G CLICK BT4Button38:LeftButton
+bind V CLICK BT4Button16:LeftButton
+bind SHIFT-V CLICK BT4Button22:LeftButton
+bind CTRL-V NONE
+bind C CLICK BT4Button17:LeftButton
+bind NUMPADPLUS CLICK BT4Button49:LeftButton
+bind CTRL-S NONE
+bind CTRL-R NONE
+bind CTRL-Q NONE
+bind CTRL-W NONE
+bind CTRL-E NONE
+bind SHIFT-G CLICK BT4Button40:LeftButton
+bind SHIFT-C CLICK BT4Button23:LeftButton
+bind T TOGGLECHARACTER0
+bind ' CLICK BT4Button62:LeftButton
+bind SHIFT-' CLICK BT4Button64:LeftButton
+bind BUTTON5 NONE
+bind SHIFT-Q CLICK BT4Button19:LeftButton
+bind SHIFT-E CLICK BT4Button20:LeftButton
+bind SHIFT-X CLICK BT4Button24:LeftButton
+bind SHIFT-Z CLICK BT4Button39:LeftButton
+bind SHIFT-BUTTON5 NONE
+bind SHIFT-0 ACTIONBUTTON10
+bind SHIFT-- ACTIONBUTTON11
+bind SHIFT-1 ACTIONBUTTON7
+bind SHIFT-2 ACTIONBUTTON8
+bind SHIFT-3 ACTIONBUTTON9
+bind SHIFT-F ACTIONBUTTON12
+bind SHIFT-BUTTON1 ACTIONBUTTON6
+bind \ CLICK BT4Button64:LeftButton
+bind SHIFT-BUTTON3 EXTRAACTIONBUTTON1
+bind [ PAWN_COMPARE_LEFT
+bind ] PAWN_COMPARE_RIGHT
+bind ` CLICK BT4Button62:LeftButton
+modifiedclick CTRL SELFCAST

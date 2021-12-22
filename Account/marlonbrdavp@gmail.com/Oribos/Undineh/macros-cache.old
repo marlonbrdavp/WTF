@@ -1,0 +1,42 @@
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead,mod:ctrl][mod:ctrl]purge;[spec:2]Lava lash;[@mouseover,help,nodead,spec:3][@target,help,nodead,spec:3]Purify Spirit;[spec:3]Chain Lightning
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead,mod:ctrl][mod:ctrl]Wind Shear;[spec:2]Stormstrike;[@mouseover,help,nodead,spec:3][@target,help,nodead,spec:3]Riptide;[spec:3]Lava Burst
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:Ctrl]Chain Lightning;Crash lightning
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player]Capacitor Totem
+END
+VER 3 0100000000000010 " " "451167"
+#showtooltip
+/cast Astral Shift
+/cast [@player]Gift of the Naaru(Racial)
+END
+VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player,mod:ctrl,spec:3][@mouseover,help,nodead,spec:3][@target,help,nodead,spec:3]Healing Wave;[mod:ctrl,spec:2]WindFury Totem;Frost shock
+END
+VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/focus [@mousover,exists][]
+/cast [@mouseover,harm,nodead,mod:ctrl][]Hex
+END
+VER 3 0100000000000013 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Healing Rain
+END
+VER 3 0100000000000014 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:crtl]Healing Stream Totem;[@target,harm,nodead,spec:3]Lightning Bolt;[]Healing Stream Totem
+END
+VER 3 0100000000000015 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead,spec:3][@target,help,nodead,spec:3]Chain Heal;[@target,harm,nodead,spec:3]Flame Shock;[]Chain Heal
+END

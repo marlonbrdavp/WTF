@@ -1,0 +1,71 @@
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][]Heroic Throw
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor,mod:ctrl,talent:7/3]Ravager;[@mouseover,harm,nodead][]Light's Judgment(Racial)
+END
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists][]Charge;
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Heroic Leap
+END
+VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Dragon Roar
+/y RESETING NECROTIC
+END
+VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl,spec:3]Demoralizing Shout;[mod:Ctrl,spec:1]Hamstring;[mod:Ctrl,spec:2]Piercing Howl;[spec:3]ignore pain;[spec:1]Execute;[spec:2]Execute
+END
+VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [spec:1,mod:ctrl,talent:1/3]Skullsplitter;[spec:3,mod:ctrl]Victory RUsh;[spec:3]Devastate;[spec:1]OverPower;[spec:2]Rampage
+END
+VER 3 0100000000000013 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl,spec:3]Spell Reflection;[spec:1,mod:ctrl]Cleave;[spec:3]shield block;[spec:1]Whirlwind
+END
+VER 3 0100000000000014 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Bladestorm;[spec:1]Colossus Smash;[spec:2]SiegeBreaker
+END
+VER 3 0100000000000015 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:Ctrl,talent:5/3]Reaping Flames;mortal strike
+END
+VER 3 0100000000000017 " " "132352"
+#showtooltip
+/y Take the AGRO PULL
+/w Nazghulian +
+END
+VER 3 0100000000000018 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Remote Guidance Device;Ritual Feather of Unng Ak
+END
+VER 3 0100000000000019 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Rallying Cry
+/charge
+END
+VER 3 010000000000001B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player]Razdunk's Big Red Button
+END
+VER 3 010000000000001C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Shockwave;Thunder Clap
+END
+VER 3 010000000000001D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Revenge;Shield Slam
+END
+VER 3 010000000000001E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Victory Rush;[spec:1]Slam;[spec:2]Raging Blow
+END

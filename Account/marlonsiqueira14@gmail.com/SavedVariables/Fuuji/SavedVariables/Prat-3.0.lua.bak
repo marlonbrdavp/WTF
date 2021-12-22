@@ -1,0 +1,1718 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 104,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Lightforce-Nemesis:81:SAY|h|cffd8bc3f60|r:|cfff38bb9Lightforce|r|h|cffd8d8d8]|r: Destino Sinistro em |cfff38bb9Lightforce|r",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086346,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						18, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+				}, -- [1]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Lightforce-Nemesis:82:SAY|h|cffd8bc3f60|r:|cfff38bb9Lightforce|r|h|cffd8d8d8]|r: 3",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086347,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						18, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+				}, -- [2]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Lightforce-Nemesis:83:SAY|h|cffd8bc3f60|r:|cfff38bb9Lightforce|r|h|cffd8d8d8]|r: 2",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086348,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						18, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+				}, -- [3]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Lightforce-Nemesis:84:SAY|h|cffd8bc3f60|r:|cfff38bb9Lightforce|r|h|cffd8d8d8]|r: 1",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086349,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						18, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+				}, -- [4]
+				{
+					["message"] = "|cff71d5ff|Hdeath:2|h[You died.]|h",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086398,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [5]
+				{
+					["message"] = "|cff006fdcCornel|r has died.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086403,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [6]
+				{
+					["message"] = "|cff00fe97Esscannor|r has died.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086409,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [7]
+				{
+					["message"] = "|cff00fe97Boratsu|r has died.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086418,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [8]
+				{
+					["message"] = "|cfff38bb9Lightforce|r has died.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086421,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [9]
+				{
+					["message"] = "Sire Denathrius whispers: You think yourself exceptional. Gifted. But you will learn humility.",
+					["b"] = 0.9215686917304993,
+					["r"] = 1,
+					["g"] = 0.7098039388656616,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086621,
+					["extraData"] = {
+						16, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+				}, -- [10]
+				{
+					["message"] = "|cff00fe97Boratsu|r has died.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086635,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [11]
+				{
+					["message"] = "|cfff38bb9Lightforce|r has died.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086638,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [12]
+				{
+					["message"] = "|cff71d5ff|Hdeath:3|h[You died.]|h",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086643,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [13]
+				{
+					["message"] = "|cff00fe97Esscannor|r has died.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086653,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [14]
+				{
+					["message"] = "|cff006fdcCornel|r has died.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086673,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [15]
+				{
+					["message"] = "|cfff38bb9Lightforce|r has died.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086703,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [16]
+				{
+					["message"] = "Xandria says: You will be brought to justice!",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086775,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [17]
+				{
+					["message"] = "Xandria says: You dare... deny me the sky? Then I... shall answer in kind!",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086781,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [18]
+				{
+					["message"] = "Amarth says: Foolish paragon. There is nothing you can do to stop us!",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086791,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [19]
+				{
+					["message"] = "Amarth yells: No matter! My minions are endless!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086800,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+				}, -- [20]
+				{
+					["message"] = "Amarth yells: My soldiers rise once more!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086808,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+				}, -- [21]
+				{
+					["message"] = "Amarth yells: Wither and decay!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086830,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+				}, -- [22]
+				{
+					["message"] = "|TINTERFACE\\ICONS\\Spell_Necro_InevitableEnd.blp:20|t Bonefang inhales deeply for its |cFFFF0404|Hspell:333493|h[Necrotic Breath]|h|r!",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 0.8666667342185974,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086830,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						23, -- [3]
+						24, -- [4]
+						["n"] = 4,
+					},
+				}, -- [23]
+				{
+					["message"] = "|TINTERFACE\\ICONS\\Spell_Necro_DeathlyEcho.blp:20|t Amarth begins to consume his minions with |cFFFF0404|Hspell:321247|h[Final Harvest]|h|r!",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 0.8666667342185974,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086843,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						23, -- [3]
+						24, -- [4]
+						["n"] = 4,
+					},
+				}, -- [24]
+				{
+					["message"] = "Amarth yells: One final act of service!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086843,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+				}, -- [25]
+				{
+					["message"] = "Amarth yells: The fallen shall serve me again!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086860,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+				}, -- [26]
+				{
+					["message"] = "Amarth yells: He will... use us.. all...",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086872,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+				}, -- [27]
+				{
+					["message"] = "Xandria says: Your arrival proved timely, yet the battle rages on. We cannot rest until these invaders are purged from our skies.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086878,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [28]
+				{
+					["message"] = "Xandria says: I will lead the effort here while my disciples bring you to the necropolis. Let us end this atrocity.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086891,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [29]
+				{
+					["message"] = "Nalthor the Rimebinder says: We have all the corpses we need, Stitchflesh. Prepare to strike at the next temple.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620086971,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [30]
+				{
+					["message"] = "|cff00fe97Esscannor|r has died.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087013,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [31]
+				{
+					["message"] = "Sire Denathrius whispers: Meddle all you like, mortals. You only delay the inevitable.",
+					["b"] = 0.9215686917304993,
+					["r"] = 1,
+					["g"] = 0.7098039388656616,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087106,
+					["extraData"] = {
+						16, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+				}, -- [32]
+				{
+					["message"] = "Surgeon Stitchflesh says: Come, my assistants! These raw materials are in need of processing!",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087238,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [33]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Lightforce-Nemesis:194:SAY|h|cffd8bc3f60|r:|cfff38bb9Lightforce|r|h|cffd8d8d8]|r: Arremessar Cutelo em |cfff38bb9Lightforce|r",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087252,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						18, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+				}, -- [34]
+				{
+					["message"] = "|cfff38bb9Lightforce|r has died.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087269,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [35]
+				{
+					["message"] = "|cff00fe97Esscannor|r has died.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087297,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [36]
+				{
+					["message"] = "Surgeon Stitchflesh says: Incompetent oafs! Goregrind! Try not to damage those limbs whilst you tear them off.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087319,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [37]
+				{
+					["message"] = "Surgeon Stitchflesh says: How vexing. Rotspew! Get to work, and don't fail me like your predecessor!",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087377,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [38]
+				{
+					["message"] = "Sire Denathrius whispers: You think yourself exceptional. Gifted. But you will learn humility.",
+					["b"] = 0.9215686917304993,
+					["r"] = 1,
+					["g"] = 0.7098039388656616,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087377,
+					["extraData"] = {
+						16, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+				}, -- [39]
+				{
+					["message"] = "|TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:<BNET REMOVED>:5:0:BN_INLINE_TOAST_ALERT:0|h[<BNET REMOVED>] (|TInterface\\ChatFrame\\UI-ChatIcon-Battlenet:14:14:0:0|tBrunoSR)|h has come online.",
+					["b"] = 1,
+					["r"] = 0.5098039507865906,
+					["g"] = 0.7725490927696228,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087441,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+				}, -- [40]
+				{
+					["message"] = "Surgeon Stitchflesh says: No! Now I have to rebuild those two from scratch! It seems I must take matters into my own hands.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087444,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [41]
+				{
+					["message"] = "Surgeon Stitchflesh yells: I can't wait to put your corpse to use.",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087448,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+				}, -- [42]
+				{
+					["message"] = "Surgeon Stitchflesh yells: I'll have you in stitches!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087451,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+				}, -- [43]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Boratsu-Nemesis:210:SAY|h|cffd8bc3f60|r:|cff00fe97Boratsu|r|h|cffd8d8d8]|r: Linfa Embalsamadora em |cff00fe97Boratsu|r!",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087459,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						18, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+				}, -- [44]
+				{
+					["message"] = "|TINTERFACE\\ICONS\\inv_misc_hook_01.blp:20|t Stitchflesh's Creation targets you with |cFFFF0404|Hspell:322681|h[Meat Hook]|h|r!",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 0.8666667342185974,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087459,
+					["extraData"] = {
+						43, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+				}, -- [45]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Fuuji-Nemesis:212:SAY|h|cffd8bc3f60|r:|cfffefefeFuuji|r|h|cffd8d8d8]|r: Meat Hook on |cff00ff00Fuuji|r",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087459,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						18, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+				}, -- [46]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Fuuji-Nemesis:213:SAY|h|cffd8bc3f60|r:|cfffefefeFuuji|r|h|cffd8d8d8]|r: 3",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087460,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						18, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+				}, -- [47]
+				{
+					["message"] = "Surgeon Stitchflesh yells: I must preserve your parts for later!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087460,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+				}, -- [48]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Fuuji-Nemesis:215:SAY|h|cffd8bc3f60|r:|cfffefefeFuuji|r|h|cffd8d8d8]|r: 2",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087461,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						18, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+				}, -- [49]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Fuuji-Nemesis:216:SAY|h|cffd8bc3f60|r:|cfffefefeFuuji|r|h|cffd8d8d8]|r: 1",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087462,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						18, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+				}, -- [50]
+				{
+					["message"] = "Surgeon Stitchflesh yells: Imbecile! I'm the one who made you!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087467,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+				}, -- [51]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Cornel-Nemesis:218:SAY|h|cffd8bc3f60|r:|cff006fdcCornel|r|h|cffd8d8d8]|r: Meat Hook on |cff006fdcCornel|r",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087478,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						18, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+				}, -- [52]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Cornel-Nemesis:219:SAY|h|cffd8bc3f60|r:|cff006fdcCornel|r|h|cffd8d8d8]|r: 3",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087479,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						18, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+				}, -- [53]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Cornel-Nemesis:220:SAY|h|cffd8bc3f60|r:|cff006fdcCornel|r|h|cffd8d8d8]|r: 2",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087479,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						18, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+				}, -- [54]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Cornel-Nemesis:221:SAY|h|cffd8bc3f60|r:|cff006fdcCornel|r|h|cffd8d8d8]|r: 1",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087480,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						18, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+				}, -- [55]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Lightforce-Nemesis:222:SAY|h|cffd8bc3f60|r:|cfff38bb9Lightforce|r|h|cffd8d8d8]|r: Fixação Mórbida em |cfff38bb9Lightforce|r",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087483,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						18, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+				}, -- [56]
+				{
+					["message"] = "Surgeon Stitchflesh yells: Tendrils and tails. Ooh, I can use those.",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087484,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+				}, -- [57]
+				{
+					["message"] = "Surgeon Stitchflesh yells: My greatest... was yet... to come....",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087494,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+				}, -- [58]
+				{
+					["message"] = "|TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:<BNET REMOVED>:5:0:BN_INLINE_TOAST_ALERT:0|h[<BNET REMOVED>]|h has gone offline.",
+					["b"] = 1,
+					["r"] = 0.5098039507865906,
+					["g"] = 0.7725490927696228,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087503,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+				}, -- [59]
+				{
+					["message"] = "Nalthor the Rimebinder yells: Bastion shall be laid to waste!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087512,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+				}, -- [60]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Fuuji-Nemesis:229:SAY|h|cffd8bc3f60|r:|cfffefefeFuuji|r|h|cffd8d8d8]|r: Frozen Binds on |cff00ff00Fuuji|r",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087522,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						18, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+				}, -- [61]
+				{
+					["message"] = "Nalthor the Rimebinder yells: None can escape the storm.",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087530,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+				}, -- [62]
+				{
+					["message"] = "Nalthor the Rimebinder yells: I have had enough of you!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087537,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+				}, -- [63]
+				{
+					["message"] = "Nalthor the Rimebinder yells: None can escape the storm.",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087556,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+				}, -- [64]
+				{
+					["message"] = "Nalthor the Rimebinder yells: I have had enough of you!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087574,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+				}, -- [65]
+				{
+					["message"] = "Nalthor the Rimebinder yells: None can escape the storm.",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087581,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+				}, -- [66]
+				{
+					["message"] = "[S] |cffd8d8d8[|r|Hplayer:Fuuji-Nemesis:238:SAY|h|cffd8bc3f60|r:|cfffefefeFuuji|r|h|cffd8d8d8]|r: Frozen Binds on |cff00ff00Fuuji|r",
+					["b"] = 1,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087598,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						18, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+				}, -- [67]
+				{
+					["message"] = "Nalthor the Rimebinder yells: None can escape the storm.",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087606,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+				}, -- [68]
+				{
+					["message"] = "Nalthor the Rimebinder yells: A fleeting victory... against a fraction of our forces...",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087610,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+				}, -- [69]
+				{
+					["message"] = "Sire Denathrius whispers: Impressive, I suppose. Still, I do look forward to ending your existence.",
+					["b"] = 0.9215686917304993,
+					["r"] = 1,
+					["g"] = 0.7098039388656616,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087611,
+					["extraData"] = {
+						16, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+				}, -- [70]
+				{
+					["message"] = "|TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:<BNET REMOVED>:5:0:BN_INLINE_TOAST_ALERT:0|h[<BNET REMOVED>] (|TInterface\\ChatFrame\\UI-ChatIcon-WOW:14:14:0:0|tKarnov)|h has come online.",
+					["b"] = 1,
+					["r"] = 0.5098039507865906,
+					["g"] = 0.7725490927696228,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087638,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+				}, -- [71]
+				{
+					["message"] = "Loot Specialization set to: Discipline",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087658,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [72]
+				{
+					["message"] = "|cffFFFFFFRaider.IO|r: Combat logging disabled.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087658,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [73]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Sinfall]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087658,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						10, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [74]
+				{
+					["message"] = "|Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Sinfall]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087658,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+				}, -- [75]
+				{
+					["message"] = "Nandor says: Charmed, I'm sure.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087659,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [76]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h Left Channel: |Hchannel:CHANNEL:1|h[1. General - Sinfall]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087660,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						10, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [77]
+				{
+					["message"] = "|Hchannel:channel:3|h[3] |h Left Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Sinfall]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 254693.343,
+					["serverTime"] = 1620087660,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+				}, -- [78]
+				{
+					["message"] = "0 |4day:days;, 21 |4hour:hours;, 54 |4minute:minutes;, 53 |4second:seconds;",
+					["timestamp"] = 254693.343,
+				}, -- [79]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 254693.343,
+				}, -- [80]
+				{
+					["message"] = "Guild Message of the Day: \"SEMPRE ACOMPANHEM O CANAL #AVISOS DO DISCORD..  Links: https://discord.gg/ynF8RQG  https://chat.whatsapp.com/B84TZIX04zCEk4G7d5braT   \"",
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 254692.876,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [81]
+				{
+					["message"] = "|cffFFFFFFRaiderIO|r is using expired data. Please update now to see the most accurate data: |cffFFFFFFhttps://rio.gg/addon|r",
+					["r"] = 1,
+					["serverTime"] = 1620166553,
+					["timestamp"] = 254693.343,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [82]
+				{
+					["message"] = "Loot Specialization set to: Discipline",
+					["serverTime"] = 1620166554,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 254693.343,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [83]
+				{
+					["message"] = "The quest Return Lost Souls has been removed from your quest log",
+					["serverTime"] = 1620166561,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 254702.197,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [84]
+				{
+					["message"] = "Nandor says: Hello my friend, I am prepared to train at your side today. Let us cleanse these fields of our enemies.",
+					["serverTime"] = 1620166562,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 254702.363,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [85]
+				{
+					["message"] = "Loot Specialization set to: Discipline",
+					["serverTime"] = 1620166624,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 254764.37,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [86]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Dalaran]|h",
+					["serverTime"] = 1620166624,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 254764.926,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [87]
+				{
+					["message"] = "|Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Dalaran]|h",
+					["serverTime"] = 1620166624,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 254764.926,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [88]
+				{
+					["message"] = "Loot Specialization set to: Discipline",
+					["serverTime"] = 1620166643,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 254783.919,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [89]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Stormwind City]|h",
+					["serverTime"] = 1620166644,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 254783.919,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [90]
+				{
+					["message"] = "|Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Stormwind City]|h",
+					["serverTime"] = 1620166644,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 254783.919,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [91]
+				{
+					["message"] = "Loot Specialization set to: Discipline",
+					["serverTime"] = 1620166658,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 254798.907,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [92]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Oribos]|h",
+					["serverTime"] = 1620166659,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 254799.428,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [93]
+				{
+					["message"] = "|Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Oribos]|h",
+					["serverTime"] = 1620166659,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 254799.428,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [94]
+				{
+					["message"] = "Quest accepted: Observing Teamwork",
+					["serverTime"] = 1620166674,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 254814.593,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [95]
+				{
+					["message"] = "Quest accepted: Observing Skirmishes",
+					["serverTime"] = 1620166675,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 254815.431,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [96]
+				{
+					["message"] = "Quest accepted: Against Overwhelming Odds",
+					["serverTime"] = 1620166676,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 254817.039,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [97]
+				{
+					["message"] = "|cffffff00Added missing appearances of: |cffff7fff|Htransmogset-extra:50046|h[Erudite Scholar Armor]|h|r",
+					["timestamp"] = 254911.565,
+					["serverTime"] = 1620166771,
+				}, -- [98]
+				{
+					["message"] = "|cffff80ff|Htransmogappearance:111481|h[Depraved Physician's Mask]|h|r has been added to your appearance collection.",
+					["serverTime"] = 1620166771,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 254911.565,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [99]
+				{
+					["message"] = "Quest accepted: A Call to Battle",
+					["serverTime"] = 1620166774,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 254914.443,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [100]
+				{
+					["message"] = "|cffffd700<LFGSpamFilter>|r |cff808080(v0.3.2 by romdeau23)|r |cff47bbff/lsf for help|r",
+					["timestamp"] = 254962.352,
+					["serverTime"] = 1620166822,
+				}, -- [101]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h Left Channel: |Hchannel:CHANNEL:1|h[1. General - Oribos]|h",
+					["serverTime"] = 1620166833,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 254973.657,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [102]
+				{
+					["message"] = "|Hchannel:channel:2|h[2] |h Left Channel: |Hchannel:CHANNEL:2|h[2. Trade - City]|h",
+					["serverTime"] = 1620166833,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 254973.657,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [103]
+				{
+					["message"] = "|Hchannel:channel:3|h[3] |h Left Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Oribos]|h",
+					["serverTime"] = 1620166833,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 254973.657,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [104]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

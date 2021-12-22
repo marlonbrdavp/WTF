@@ -1,0 +1,76 @@
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@player,mod:ctrl]Power Word: Shield;[@mouseover,nodead,harm]Shadow Word: Pain;[@mouseover,nodead,help][help]Power Word: Shield;[@target,harm]Shadow Word: Pain;[]Power Word: Shield
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [mod:ctrl,talent:1/3]Schism;[@mouseover,help,nodead]Leap of Faith;[@mouseover,nodead,harm]Mind Blast;[@target,help,nodead]Leap of Faith;[]Mind Blast
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [spec:1,@player,mod:ctrl]Purify;[spec:1,@mouseover,nodead,help][spec:1,help]Purify;[spec:3,@player,mod:alt]Purify Disease;[spec:3,@mouseover,nodead,help][spec:3,help]Purify Disease;[@mouseover,nodead,harm][]Dispel Magic
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player,nodead,help,mod:ctrl]Shadow Mend;[@mouseover,nodead,help]Shadow Mend;[@target,nodead,harm]Smite;[@target,nodead,help][]Shadow Mend
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl,talent:6/2]Divine Star;[@mouseover,exists][]Penance
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player,mod:ctrl]Angelic Feather;[@cursor]Angelic Feather
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,help,spec:1][spec:1]Pain Suppression
+/cast [spec:3]Desperate Prayer
+/cast [@mouseover,nodead,help][]Gift of the Naaru(Racial)
+END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Mass Dispel
+END
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead]Shadow word: death;[@mouseover,nodead,help,spec:1][@target,help,nodead,spec:1]Shining force;[]Shadow word: death
+END
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl,talent:6/3]Halo;[mod:ctrl,talent:5/3]Shadow Covenant;[@player]Power Word: Radiance
+END
+VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Door of Shadows
+END
+VER 3 0100000000000013 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Mindgames;[@mouseover,harm,nodead][]Shadow Word: Pain
+END
+VER 3 0100000000000015 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@player,mod:ctrl]Power Word: Shield;[@mouseover,nodead,harm]Silence;[@mouseover,nodead,help][help]Power Word: Shield;[@target,harm]Silence;[]Power Word: Shield
+END
+VER 3 0100000000000016 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][@target,help,nodead]Shining Force;[@player,mod:ctrl]Shining Force;[]Holy Nova
+END
+VER 3 0100000000000017 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]MindGames;[@mouseover,exists]Mind Sear;[talent:3/3]Power Word: Solace;[talent:3/2]Mind Sear
+END
+VER 3 0100000000000018 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead,mod:ctrl][mod:ctrl]Searing Nightmare;[@mouseover,exists][@target,exists][@focus,exists][]mind sear
+END
+VER 3 0100000000000019 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Dispersion
+/cast Dispersion
+END
+VER 3 010000000000001A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,exists,nodead] [] 13
+/cast [@mouseover,help,nodead] [] Shadowfiend
+END

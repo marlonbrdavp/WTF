@@ -1,0 +1,751 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 4,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["serverTime"] = 1637606592,
+					["r"] = 1,
+					["b"] = 0,
+					["timestamp"] = 408553.723,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 1,
+				}, -- [1]
+				{
+					["message"] = "0 |4day:days;, 0 |4hour:hours;, 0 |4minute:minutes;, 0 |4second:seconds;",
+					["timestamp"] = 408553.723,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 408553.723,
+				}, -- [3]
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 408533.627,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [4]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 46,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "Welcome to our Shadowlands Open Be",
+					["serverTime"] = 1637606592,
+					["r"] = 1,
+					["b"] = 0,
+					["timestamp"] = 408553.723,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 1,
+				}, -- [1]
+				{
+					["message"] = "Your actual experience rate is 1.",
+					["serverTime"] = 1637606592,
+					["r"] = 1,
+					["b"] = 0,
+					["timestamp"] = 408553.723,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 1,
+				}, -- [2]
+				{
+					["message"] = "Quest accepted: For the Alliance",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 408553.723,
+					["serverTime"] = 1637606315,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [3]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Stormwind City]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 408553.723,
+					["serverTime"] = 1637606354,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [4]
+				{
+					["message"] = "|Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Stormwind City]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 408553.723,
+					["serverTime"] = 1637606354,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+				}, -- [5]
+				{
+					["message"] = "Discovered Stormwind Embassy: 4 experience gained",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 408553.723,
+					["serverTime"] = 1637606354,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [6]
+				{
+					["message"] = "0 |4day:days;, 0 |4hour:hours;, 3 |4minute:minutes;, 58 |4second:seconds;",
+					["timestamp"] = 408553.723,
+				}, -- [7]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 408553.723,
+				}, -- [8]
+				{
+					["message"] = "|cffffff00You seem to be running !BugGrabber with no display addon to go along with it. Although a slash command is provided for accessing error reports, a display can help you manage these errors in a more convenient way.|r",
+					["timestamp"] = 408533.627,
+				}, -- [9]
+				{
+					["message"] = "|cffffff00The standard display is called BugSack, and can probably be found on the same site where you found !BugGrabber.|r",
+					["timestamp"] = 408533.627,
+				}, -- [10]
+				{
+					["message"] = "|cffffff00If you don't want to be reminded about this again, run /stopnag.|r",
+					["timestamp"] = 408533.627,
+				}, -- [11]
+				{
+					["message"] = "Welcome to our Shadowlands Open Be",
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 408553.723,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [12]
+				{
+					["message"] = "Your actual experience rate is 1.",
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 408553.723,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [13]
+				{
+					["message"] = "Discovered Olivia's Pond: 4 experience gained",
+					["serverTime"] = 1637606606,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408567.962,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [14]
+				{
+					["message"] = "Discovered Stormwind City: 4 experience gained",
+					["serverTime"] = 1637606610,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408571.947,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [15]
+				{
+					["message"] = "Discovered Dwarven District: 4 experience gained",
+					["serverTime"] = 1637606611,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408573.904,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [16]
+				{
+					["message"] = "Darnassian Refugee says: I cannot believe the World Tree is... gone...",
+					["serverTime"] = 1637606616,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408578.54,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [17]
+				{
+					["message"] = "Darnassian Refugee says: The smoke was so thick. We would have been lost in it, if not for Queen Greymane.",
+					["serverTime"] = 1637606618,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408580.064,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [18]
+				{
+					["message"] = "Darnassian Refugee says: We barely made it out alive.",
+					["serverTime"] = 1637606618,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408580.064,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [19]
+				{
+					["message"] = "|Hbuggrabber:Hanjih:000001B5E8347600:|h|cffff0000[Error 000001B5E8347600]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 408581.945,
+					["serverTime"] = 1637606620,
+				}, -- [20]
+				{
+					["message"] = "|Hbuggrabber:Hanjih:000001B5E8347600:|h|cffff0000[Error 000001B5E8347600]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 408583.399,
+					["serverTime"] = 1637606621,
+				}, -- [21]
+				{
+					["message"] = "|Hbuggrabber:Hanjih:000001B5E8347600:|h|cffff0000[Error 000001B5E8347600]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 408584.184,
+					["serverTime"] = 1637606622,
+				}, -- [22]
+				{
+					["message"] = "|Hbuggrabber:Hanjih:000001B5E8347600:|h|cffff0000[Error 000001B5E8347600]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 408584.418,
+					["serverTime"] = 1637606622,
+				}, -- [23]
+				{
+					["message"] = "Darnassian Refugee says: We barely made it out alive.",
+					["serverTime"] = 1637606624,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408585.998,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [24]
+				{
+					["message"] = "Darnassian Refugee says: Why would they do this?",
+					["serverTime"] = 1637606624,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408585.998,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [25]
+				{
+					["message"] = "Discovered The Canals: 4 experience gained",
+					["serverTime"] = 1637606637,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408599.058,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [26]
+				{
+					["message"] = "Discovered Trade District: 4 experience gained",
+					["serverTime"] = 1637606670,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408632.723,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [27]
+				{
+					["message"] = "Topper McNabb says: Alms for the poor?",
+					["serverTime"] = 1637606672,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408634.849,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [28]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Hanjih:1874:SYSTEM|h|cffd8bc3f10|r:|cfff38bb9Hanjih|r|h|cffd8d8d8]|rYou have changed your leveling rate to x3.",
+					["serverTime"] = 1637606680,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408642.025,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [29]
+				{
+					["message"] = "You gained: |cffffffff60,000|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t|r",
+					["serverTime"] = 1637606683,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 408645.676,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [30]
+				{
+					["message"] = "",
+					["timestamp"] = 408656.704,
+					["serverTime"] = 1637606694,
+				}, -- [31]
+				{
+					["message"] = "",
+					["timestamp"] = 408659.902,
+					["serverTime"] = 1637606697,
+				}, -- [32]
+				{
+					["message"] = "",
+					["timestamp"] = 408663.385,
+					["serverTime"] = 1637606701,
+				}, -- [33]
+				{
+					["message"] = "Discovered Cathedral Square: 12 experience gained",
+					["serverTime"] = 1637606783,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408745.533,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [34]
+				{
+					["message"] = "You are now queued in the Dungeon Finder.",
+					["serverTime"] = 1637606792,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408754.484,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [35]
+				{
+					["message"] = "|Hbuggrabber:Hanjih:000001B5E8347600:|h|cffff0000[Error 000001B5E8347600]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 408762.636,
+					["serverTime"] = 1637606800,
+				}, -- [36]
+				{
+					["message"] = "|Hbuggrabber:Hanjih:000001B5E8347600:|h|cffff0000[Error 000001B5E8347600]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 408764.657,
+					["serverTime"] = 1637606802,
+				}, -- [37]
+				{
+					["message"] = "|Hbuggrabber:Hanjih:000001B6CE3A4500:|h|cffff0000[Error 000001B6CE3A4500]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 408891.386,
+					["serverTime"] = 1637606929,
+				}, -- [38]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200DBM|r|cffff7d0a>|r Loaded 'Brawlers' mods. For more options such as custom alert sounds and personalized warning notes, type /dbm.",
+					["r"] = 0.41,
+					["serverTime"] = 1637606930,
+					["timestamp"] = 408892.389,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [39]
+				{
+					["message"] = "Discovered Deeprun Tram: 12 experience gained",
+					["serverTime"] = 1637606930,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408892.868,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [40]
+				{
+					["message"] = "|Hbuggrabber:Hanjih:000001B5E8347600:|h|cffff0000[Error 000001B5E8347600]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 408934.981,
+					["serverTime"] = 1637606973,
+				}, -- [41]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Ironforge]|h",
+					["serverTime"] = 1637607012,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408974.258,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [42]
+				{
+					["message"] = "|Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Ironforge]|h",
+					["serverTime"] = 1637607012,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408974.258,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [43]
+				{
+					["message"] = "Discovered Ironforge: 12 experience gained",
+					["serverTime"] = 1637607013,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408975.915,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [44]
+				{
+					["message"] = "Discovered Hall of Explorers: 12 experience gained",
+					["serverTime"] = 1637607124,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 409086.037,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [45]
+				{
+					["message"] = "",
+					["timestamp"] = 409101.613,
+					["serverTime"] = 1637607139,
+				}, -- [46]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

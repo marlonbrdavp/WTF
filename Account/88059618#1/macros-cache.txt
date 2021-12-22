@@ -1,0 +1,28 @@
+VER 3 0000000000000012 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:7/2]Spirit Shell
+/cast [@mouseover,help,nodead,talent:7/1]Rapture;[talent:7/1]Rapture
+/cast [talent:3/2]Mindbender
+/cast Power Word: Radiance
+END
+VER 3 0000000000000015 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Infernal Strike 
+END
+VER 3 0000000000000016 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor,mod:ctrl,talent:5/3]Shadow Crash;[@mouseover,nodead,harm,talent:6/3,mod:ctrl][mod:Ctrl,talent:6/3]Void Torrent;[@mouseover,harm,nodead][]Devouring Plague
+END
+VER 3 0000000000000014 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][]Power infusion
+/cast [spec:3]Vampiric Embrace
+END
+VER 3 0000000000000013 " " "253400"
+#showtooltip
+/cast [@cursor]Power Word: Barrier
+END
+VER 3 0000000000000005 " " "132171"
+/clearfocus
+/focus
+END

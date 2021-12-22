@@ -1,0 +1,2935 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 69,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:32:25]|h|r wow-freakz.com | For more info please check our forum forum.wow-freakz.com",
+					["serverTime"] = 1637241266,
+					["r"] = 1,
+					["b"] = 0,
+					["timestamp"] = 43223.109,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 1,
+				}, -- [1]
+				{
+					["message"] = "0 |4day:days;, 0 |4hour:hours;, 0 |4minute:minutes;, 0 |4second:seconds;",
+					["timestamp"] = 43223.109,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 43223.109,
+				}, -- [3]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:14:23]|h|r wow-freakz.com | For more info please check our forum forum.wow-freakz.com",
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 43223.109,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [4]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:14:27]|h|r Your current language is: |cFF00FF00English|r. To change it use the |cFF00FF00.language|r command",
+					["serverTime"] = 1637241270,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43227.884,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [5]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:14:32]|h|r |Hplayer:Pirralha:342|hPirralha|h has come online.",
+					["serverTime"] = 1637241275,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43232.595,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [6]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:14:37]|h|r - |TInterface\\Icons\\Trade_Engineering.blp:16|t |cFF00FFFFShadow Shock CPM|r",
+					["serverTime"] = 1637241280,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43237.894,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:14:37]|h|r - |TInterface\\Icons\\Trade_Engineering.blp:16|t |cFF00FFFFCutwater Harpooner|r",
+					["serverTime"] = 1637241280,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43237.894,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:14:37]|h|r - |TInterface\\Icons\\Trade_Engineering.blp:16|t |cFF00FFFFGrim Batol|r",
+					["serverTime"] = 1637241280,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43237.894,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:14:37]|h|r - |TInterface\\Icons\\Trade_Engineering.blp:16|t |cFF00FFFFCoin-Operated Crowd Pummeler|r",
+					["serverTime"] = 1637241280,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43237.894,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:14:37]|h|r - |TInterface\\Icons\\Trade_Engineering.blp:16|t |cFF00FFFFGushing Wound|r",
+					["serverTime"] = 1637241280,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43237.894,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:14:37]|h|r - |TInterface\\Icons\\Trade_Engineering.blp:16|t |cFF00FFFFBlacktooth Knuckleduster|r",
+					["serverTime"] = 1637241280,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43237.894,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:14:37]|h|r - |TInterface\\Icons\\Trade_Engineering.blp:16|t |cFF00FFFFSeason 4 Affix: Awakened VS Combat|r",
+					["serverTime"] = 1637241280,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43237.894,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:14:37]|h|r - |TInterface\\Icons\\Trade_Engineering.blp:16|t |cFF00FFFFLiving Waste - Missing NPC|r",
+					["serverTime"] = 1637241280,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43237.894,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:14:37]|h|r - |TInterface\\Icons\\ClassIcon_Shaman.blp:16|t |cFF00FFFFGrounding totem|r",
+					["serverTime"] = 1637241280,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43237.894,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:14:37]|h|r - |TInterface\\Icons\\Trade_Engineering.blp:16|t |cFF00FFFFAvatar of Sethraliss vs Healing|r",
+					["serverTime"] = 1637241280,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43237.894,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:14:37]|h|r |cFF00FF00Above are the latest fixes (|r|cFF00FFFF1597|r|cFF00FF00 total), some might be live only after restart (*). Check site for full list.|r",
+					["serverTime"] = 1637241280,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43237.894,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:14:40]|h|r |cffffff00[|c0000FF00ARENA ANNOUNCER|cffffff00] |cFF00FFFFCurrently there are |cFFFF00000 |cFF00FFFFteams in 2v2 queue and |cFF00FF000 |cFF00FFFFteams in 3v3 queue",
+					["serverTime"] = 1637241283,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43240.332,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:15:46]|h|r You have joined the queue for Random Battleground.",
+					["serverTime"] = 1637241348,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43306.712,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:15:50]|h|r Party converted to Raid",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43310.088,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:15:50]|h|r You have unlearned |cff71d5ff|Hspell:6562:0|h[Heroic Presence]|h|r.",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43310.651,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:15:50]|h|r You have unlearned |cff71d5ff|Hspell:28875:0|h[Gemcutting]|h|r.",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43310.651,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:15:50]|h|r You have unlearned |cff71d5ff|Hspell:59221:0|h[Shadow Resistance]|h|r.",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43310.651,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:15:50]|h|r You have unlearned |cff71d5ff|Hspell:59547:0|h[Gift of the Naaru]|h|r.",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43310.651,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:15:50]|h|r You have unlearned |cff71d5ff|Hspell:79741:0|h[Languages]|h|r.",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43310.651,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:15:50]|h|r You have learned a new ability: |cff71d5ff|Hspell:20549:0|h[War Stomp]|h|r.",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43310.651,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:15:50]|h|r You have learned a new passive effect: |cff71d5ff|Hspell:20550:0|h[Endurance]|h|r.",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43310.651,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [27]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:15:50]|h|r You have learned a new passive effect: |cff71d5ff|Hspell:20551:0|h[Nature Resistance]|h|r.",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43310.651,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [28]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:15:50]|h|r You have learned a new passive effect: |cff71d5ff|Hspell:20552:0|h[Cultivation]|h|r.",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43310.651,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:15:50]|h|r You have learned a new passive effect: |cff71d5ff|Hspell:79746:0|h[Languages]|h|r.",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43310.651,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:15:50]|h|r You have learned a new passive effect: |cff71d5ff|Hspell:154743:0|h[Brawn]|h|r.",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43310.651,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:15:51]|h|r Hexenbanxd has joined the instance group.",
+					["serverTime"] = 1637241353,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43311.315,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:16:00]|h|r |cffc31d39Phury|r has died.",
+					["serverTime"] = 1637241362,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43320.835,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [33]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:16:12]|h|r Huntoog has joined the instance group.",
+					["serverTime"] = 1637241374,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43332.816,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [34]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:16:14]|h|r |cfff38bb9Himekho|r has died.",
+					["serverTime"] = 1637241376,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43334.91,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [35]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:16:41]|h|r |cffc31d39Xnoom|r has died.",
+					["serverTime"] = 1637241403,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43361.949,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [36]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:17:00]|h|r |cffc31d39Phury|r has died.",
+					["serverTime"] = 1637241422,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43380.666,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [37]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:17:27]|h|r |Hplayer:Absolutionx:425|hAbsolutionx|h has joined the battle.",
+					["serverTime"] = 1637241449,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43407.153,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [38]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:17:27]|h|r Absolutionx has joined the instance group.",
+					["serverTime"] = 1637241449,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43407.153,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [39]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:17:34]|h|r |cfffe7b09Transphormer|r has died.",
+					["serverTime"] = 1637241456,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43414.817,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [40]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:17:35]|h|r |cff71d5ff|Hdeath:1|h[You died.]|h",
+					["serverTime"] = 1637241457,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43415.501,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [41]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:17:36]|h|r |cfff38bb9Himekho|r has died.",
+					["serverTime"] = 1637241458,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43416.861,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [42]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:18:12]|h|r |cffc31d39Xnoom|r has died.",
+					["serverTime"] = 1637241494,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43452.358,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [43]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:18:39]|h|r |cffc31d39Phury|r has died.",
+					["serverTime"] = 1637241521,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43479.757,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [44]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:18:45]|h|r |cff71d5ff|Hdeath:2|h[You died.]|h",
+					["serverTime"] = 1637241527,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43485.685,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [45]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:18:46]|h|r |cfffe7b09Transphormer|r has died.",
+					["serverTime"] = 1637241528,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43486.534,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [46]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:19:19]|h|r |cff71d5ff|Hdeath:3|h[You died.]|h",
+					["serverTime"] = 1637241561,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43520.002,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [47]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:19:22]|h|r |cfffe7b09Transphormer|r has died.",
+					["serverTime"] = 1637241564,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43522.295,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [48]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:19:27]|h|r |cffc31d39Xnoom|r has died.",
+					["serverTime"] = 1637241569,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43527.775,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [49]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:19:35]|h|r |cfff38bb9Himekho|r has died.",
+					["serverTime"] = 1637241577,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43535.805,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [50]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:19:41]|h|r |cffc31d39Phury|r has died.",
+					["serverTime"] = 1637241583,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43541.319,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [51]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:20:11]|h|r |cfff38bb9Himekho|r has left the battle",
+					["serverTime"] = 1637241613,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43571.407,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [52]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:20:11]|h|r |cfff38bb9Himekho|r has left the instance group.",
+					["serverTime"] = 1637241613,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43571.407,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [53]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:20:18]|h|r |cff71d5ff|Hdeath:4|h[You died.]|h",
+					["serverTime"] = 1637241620,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43578.248,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [54]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:20:18]|h|r |Hplayer:Baltria:481|hBaltria|h has joined the battle.",
+					["serverTime"] = 1637241620,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43578.508,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [55]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:20:18]|h|r Baltria has joined the instance group.",
+					["serverTime"] = 1637241620,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43578.508,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [56]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:20:29]|h|r |cffc31d39Xnoom|r has died.",
+					["serverTime"] = 1637241631,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43590.036,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [57]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:20:35]|h|r |cfffe7b09Transphormer|r has died.",
+					["serverTime"] = 1637241637,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43595.446,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [58]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:20:52]|h|r |cffc31d39Phury|r has died.",
+					["serverTime"] = 1637241654,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43612.682,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [59]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:21:11]|h|r |cff71d5ff|Hdeath:5|h[You died.]|h",
+					["serverTime"] = 1637241673,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43631.458,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [60]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:21:25]|h|r |cffc59a6cHexenbanxd|r has left the battle",
+					["serverTime"] = 1637241687,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43645.692,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [61]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:21:25]|h|r |cffc59a6cHexenbanxd|r has left the instance group.",
+					["serverTime"] = 1637241687,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43645.7,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [62]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:21:37]|h|r |cfffe7b09Transphormer|r has died.",
+					["serverTime"] = 1637241699,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43657.709,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [63]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:21:40]|h|r |cffc31d39Xnoom|r has died.",
+					["serverTime"] = 1637241702,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43660.82,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [64]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:21:55]|h|r Baltria has died.",
+					["serverTime"] = 1637241717,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43675.207,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [65]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:21:55]|h|r |cffc31d39Phury|r has died.",
+					["serverTime"] = 1637241717,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43675.207,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [66]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:22:20]|h|r |cffc59a6cStylewarrior|r has left the instance group.",
+					["serverTime"] = 1637241742,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43700.747,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [67]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:22:20]|h|r |cffc59a6cStylewarrior|r has left the battle",
+					["serverTime"] = 1637241742,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43700.747,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [68]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:22:22]|h|r |cff71d5ff|Hdeath:6|h[You died.]|h",
+					["serverTime"] = 1637241744,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43703.066,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [69]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 117,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "Guild Message of the Day: \"Bem Vindo  Acessem nosso Grupo do discord para participar de votações e conteúdos da Guild sem  excessões. \"",
+					["serverTime"] = 1637241266,
+					["r"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+					["timestamp"] = 43223.109,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 1,
+				}, -- [1]
+				{
+					["message"] = "wow-freakz.com | For more info please check our forum forum.wow-freakz.com",
+					["serverTime"] = 1637241266,
+					["r"] = 1,
+					["b"] = 0,
+					["timestamp"] = 43223.109,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 1,
+				}, -- [2]
+				{
+					["message"] = "",
+					["serverTime"] = 1637241266,
+					["r"] = 1,
+					["b"] = 0,
+					["timestamp"] = 43223.109,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 1,
+				}, -- [3]
+				{
+					["message"] = "0 |4day:days;, 0 |4hour:hours;, 0 |4minute:minutes;, 0 |4second:seconds;",
+					["timestamp"] = 43223.109,
+				}, -- [4]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 43223.109,
+				}, -- [5]
+				{
+					["message"] = "Guild Message of the Day: \"Bem Vindo  Acessem nosso Grupo do discord para participar de votações e conteúdos da Guild sem  excessões. https://discord.gg/By\"",
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 43222.914,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [6]
+				{
+					["message"] = "wow-freakz.com | For more info please check our forum forum.wow-freakz.com",
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 43223.109,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [7]
+				{
+					["message"] = "",
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 43223.109,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [8]
+				{
+					["message"] = "Loot Specialization set to: Enhancement",
+					["serverTime"] = 1637241266,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 43223.109,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [9]
+				{
+					["message"] = "Hunter Akana says: Ori and Odari were last seen near Dragon's Teeth Basin. We should make haste.",
+					["serverTime"] = 1637241268,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43225.099,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [10]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h Changed Channel: |Hchannel:CHANNEL:4|h[4. global_en]|h",
+					["serverTime"] = 1637241268,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43225.48,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [11]
+				{
+					["message"] = "Your current language is: |cFF00FF00English|r. To change it use the |cFF00FF00.language|r command",
+					["serverTime"] = 1637241270,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43227.884,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [12]
+				{
+					["message"] = "|Hplayer:Pirralha:342|hPirralha|h has come online.",
+					["serverTime"] = 1637241275,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43232.595,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [13]
+				{
+					["message"] = "For romanian global channel join global_ro, for international join global_en, for spanish join global_es",
+					["serverTime"] = 1637241275,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43232.894,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [14]
+				{
+					["message"] = "- |TInterface\\Icons\\Trade_Engineering.blp:16|t |cFF00FFFFShadow Shock CPM|r",
+					["serverTime"] = 1637241280,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43237.894,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [15]
+				{
+					["message"] = "- |TInterface\\Icons\\Trade_Engineering.blp:16|t |cFF00FFFFCutwater Harpooner|r",
+					["serverTime"] = 1637241280,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43237.894,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [16]
+				{
+					["message"] = "- |TInterface\\Icons\\Trade_Engineering.blp:16|t |cFF00FFFFGrim Batol|r",
+					["serverTime"] = 1637241280,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43237.894,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [17]
+				{
+					["message"] = "- |TInterface\\Icons\\Trade_Engineering.blp:16|t |cFF00FFFFCoin-Operated Crowd Pummeler|r",
+					["serverTime"] = 1637241280,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43237.894,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [18]
+				{
+					["message"] = "- |TInterface\\Icons\\Trade_Engineering.blp:16|t |cFF00FFFFGushing Wound|r",
+					["serverTime"] = 1637241280,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43237.894,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [19]
+				{
+					["message"] = "- |TInterface\\Icons\\Trade_Engineering.blp:16|t |cFF00FFFFBlacktooth Knuckleduster|r",
+					["serverTime"] = 1637241280,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43237.894,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [20]
+				{
+					["message"] = "- |TInterface\\Icons\\Trade_Engineering.blp:16|t |cFF00FFFFSeason 4 Affix: Awakened VS Combat|r",
+					["serverTime"] = 1637241280,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43237.894,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [21]
+				{
+					["message"] = "- |TInterface\\Icons\\Trade_Engineering.blp:16|t |cFF00FFFFLiving Waste - Missing NPC|r",
+					["serverTime"] = 1637241280,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43237.894,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [22]
+				{
+					["message"] = "- |TInterface\\Icons\\ClassIcon_Shaman.blp:16|t |cFF00FFFFGrounding totem|r",
+					["serverTime"] = 1637241280,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43237.894,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [23]
+				{
+					["message"] = "- |TInterface\\Icons\\Trade_Engineering.blp:16|t |cFF00FFFFAvatar of Sethraliss vs Healing|r",
+					["serverTime"] = 1637241280,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43237.894,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [24]
+				{
+					["message"] = "|cFF00FF00Above are the latest fixes (|r|cFF00FFFF1597|r|cFF00FF00 total), some might be live only after restart (*). Check site for full list.|r",
+					["serverTime"] = 1637241280,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43237.894,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [25]
+				{
+					["message"] = "|cffffff00[|c0000FF00ARENA ANNOUNCER|cffffff00] |cFF00FFFFCurrently there are |cFFFF00000 |cFF00FFFFteams in 2v2 queue and |cFF00FF000 |cFF00FFFFteams in 3v3 queue",
+					["serverTime"] = 1637241283,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43240.332,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [26]
+				{
+					["message"] = "You have joined the queue for Random Battleground.",
+					["serverTime"] = 1637241348,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43306.712,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [27]
+				{
+					["message"] = "Party converted to Raid",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43310.088,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [28]
+				{
+					["message"] = "Loot Specialization set to: Enhancement",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 43310.088,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [29]
+				{
+					["message"] = "You have unlearned |cff71d5ff|Hspell:6562:0|h[Heroic Presence]|h|r.",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43310.651,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [30]
+				{
+					["message"] = "You have unlearned |cff71d5ff|Hspell:28875:0|h[Gemcutting]|h|r.",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43310.651,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [31]
+				{
+					["message"] = "You have unlearned |cff71d5ff|Hspell:59221:0|h[Shadow Resistance]|h|r.",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43310.651,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [32]
+				{
+					["message"] = "You have unlearned |cff71d5ff|Hspell:59547:0|h[Gift of the Naaru]|h|r.",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43310.651,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [33]
+				{
+					["message"] = "You have unlearned |cff71d5ff|Hspell:79741:0|h[Languages]|h|r.",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43310.651,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [34]
+				{
+					["message"] = "You have learned a new ability: |cff71d5ff|Hspell:20549:0|h[War Stomp]|h|r.",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43310.651,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [35]
+				{
+					["message"] = "You have learned a new passive effect: |cff71d5ff|Hspell:20550:0|h[Endurance]|h|r.",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43310.651,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [36]
+				{
+					["message"] = "You have learned a new passive effect: |cff71d5ff|Hspell:20551:0|h[Nature Resistance]|h|r.",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43310.651,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [37]
+				{
+					["message"] = "You have learned a new passive effect: |cff71d5ff|Hspell:20552:0|h[Cultivation]|h|r.",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43310.651,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [38]
+				{
+					["message"] = "You have learned a new passive effect: |cff71d5ff|Hspell:79746:0|h[Languages]|h|r.",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43310.651,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [39]
+				{
+					["message"] = "You have learned a new passive effect: |cff71d5ff|Hspell:154743:0|h[Brawn]|h|r.",
+					["serverTime"] = 1637241352,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43310.651,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [40]
+				{
+					["message"] = "Hexenbanxd has joined the instance group.",
+					["serverTime"] = 1637241353,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43311.315,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [41]
+				{
+					["message"] = "|cffc31d39Phury|r has died.",
+					["serverTime"] = 1637241362,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43320.835,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [42]
+				{
+					["message"] = "Huntoog has joined the instance group.",
+					["serverTime"] = 1637241374,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43332.816,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [43]
+				{
+					["message"] = "The Alliance Flag was dropped by Himekho-Warsong!",
+					["serverTime"] = 1637241376,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						10, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43334.844,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [44]
+				{
+					["message"] = "|cfff38bb9Himekho|r has died.",
+					["serverTime"] = 1637241376,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43334.91,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [45]
+				{
+					["message"] = "The Alliance Flag was returned to its base by Iburstyouqq-Warsong!",
+					["serverTime"] = 1637241377,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						10, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43335.326,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [46]
+				{
+					["message"] = "2 players have joined the battle: Hexenbanxd, Huntoog",
+					["serverTime"] = 1637241380,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 43338.766,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [47]
+				{
+					["message"] = "|Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Phury:414:INSTANCE_CHAT|h|cffd8bc3f120|r:|cffc31d39Phury|r:1|h|cffd8d8d8]|r: focus shammy",
+					["serverTime"] = 1637241382,
+					["r"] = 1,
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43340.24,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [48]
+				{
+					["message"] = "|cffc31d39Xnoom|r has died.",
+					["serverTime"] = 1637241403,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43361.949,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [49]
+				{
+					["message"] = "|cffc31d39Phury|r has died.",
+					["serverTime"] = 1637241422,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43380.666,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [50]
+				{
+					["message"] = "|Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Phury:417:INSTANCE_CHAT|h|cffd8bc3f120|r:|cffc31d39Phury|r:1|h|cffd8d8d8]|r: focus shammy",
+					["serverTime"] = 1637241431,
+					["r"] = 1,
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43389.179,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [51]
+				{
+					["message"] = "The Alliance Flag was picked up by Himekho-Warsong!",
+					["serverTime"] = 1637241432,
+					["r"] = 1,
+					["extraData"] = {
+						39, -- [1]
+						false, -- [2]
+						15, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43390.58,
+					["g"] = 0,
+					["b"] = 0,
+				}, -- [52]
+				{
+					["message"] = "|Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Phury:419:INSTANCE_CHAT|h|cffd8bc3f120|r:|cffc31d39Phury|r:1|h|cffd8d8d8]|r: focus shammy",
+					["serverTime"] = 1637241435,
+					["r"] = 1,
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43393.98,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [53]
+				{
+					["message"] = "|Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Phury:420:INSTANCE_CHAT|h|cffd8bc3f120|r:|cffc31d39Phury|r:1|h|cffd8d8d8]|r: focus shammy",
+					["serverTime"] = 1637241437,
+					["r"] = 1,
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43395.274,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [54]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Transphormer:421:ACHIEVEMENT|h|cffd8bc3f120|r:|cfffe7b09Transphormer|r:1|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:238:Player-5-0038FA32:1:11:18:21:4294967295:4294967295:4294967295:4294967295|h[An Honorable Kill]|h|r |cffffffff(|rCompleted 10/03/21|cffffffff)|r!",
+					["serverTime"] = 1637241441,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43399.79,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [55]
+				{
+					["message"] = "The Horde Flag was dropped by Naturerage-Warsong!",
+					["serverTime"] = 1637241441,
+					["r"] = 1,
+					["extraData"] = {
+						39, -- [1]
+						false, -- [2]
+						15, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43399.799,
+					["g"] = 0,
+					["b"] = 0,
+				}, -- [56]
+				{
+					["message"] = "Interface action failed because of an AddOn",
+					["serverTime"] = 1637241441,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 43399.877,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [57]
+				{
+					["message"] = "You have been awarded 4 Honor.",
+					["serverTime"] = 1637241442,
+					["r"] = 0.8784314393997192,
+					["extraData"] = {
+						35, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43400.807,
+					["g"] = 0.7921569347381592,
+					["b"] = 0.03921568766236305,
+				}, -- [58]
+				{
+					["message"] = "The Horde Flag was returned to its base by Hexenbanxd-Warsong!",
+					["serverTime"] = 1637241443,
+					["r"] = 1,
+					["extraData"] = {
+						39, -- [1]
+						false, -- [2]
+						15, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43401.29,
+					["g"] = 0,
+					["b"] = 0,
+				}, -- [59]
+				{
+					["message"] = "|Hplayer:Absolutionx:425|hAbsolutionx|h has joined the battle.",
+					["serverTime"] = 1637241449,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43407.153,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [60]
+				{
+					["message"] = "Absolutionx has joined the instance group.",
+					["serverTime"] = 1637241449,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43407.153,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [61]
+				{
+					["message"] = "|cfffe7b09Transphormer|r has died.",
+					["serverTime"] = 1637241456,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43414.817,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [62]
+				{
+					["message"] = "|cff71d5ff|Hdeath:1|h[You died.]|h",
+					["serverTime"] = 1637241457,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43415.501,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [63]
+				{
+					["message"] = "The Alliance Flag was dropped by Himekho-Warsong!",
+					["serverTime"] = 1637241458,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						10, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43416.795,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [64]
+				{
+					["message"] = "|cfff38bb9Himekho|r has died.",
+					["serverTime"] = 1637241458,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43416.861,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [65]
+				{
+					["message"] = "The Alliance Flag was returned to its base by Iburstyouqq-Warsong!",
+					["serverTime"] = 1637241459,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						10, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43417.378,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [66]
+				{
+					["message"] = "The Alliance Flag was picked up by Phury-Warsong!",
+					["serverTime"] = 1637241478,
+					["r"] = 1,
+					["extraData"] = {
+						39, -- [1]
+						false, -- [2]
+						15, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43436.979,
+					["g"] = 0,
+					["b"] = 0,
+				}, -- [67]
+				{
+					["message"] = "|cffc31d39Xnoom|r has died.",
+					["serverTime"] = 1637241494,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43452.358,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [68]
+				{
+					["message"] = "The Horde Flag was picked up by Naturerage-Warsong!",
+					["serverTime"] = 1637241519,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						10, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43477.493,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [69]
+				{
+					["message"] = "|Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Absolutionx:446:INSTANCE_CHAT|h|cffd8bc3f120|r:|cfff38bb9Absolutionx|r:2|h|cffd8d8d8]|r: omg...",
+					["serverTime"] = 1637241520,
+					["r"] = 1,
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						13, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43478.284,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [70]
+				{
+					["message"] = "|Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Wicth:447:INSTANCE_CHAT|h|cffd8bc3f120|r:|cfff38bb9Wicth|r:2|h|cffd8d8d8]|r: param kardan:D",
+					["serverTime"] = 1637241520,
+					["r"] = 1,
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						13, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43478.783,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [71]
+				{
+					["message"] = "The Alliance Flag was dropped by Phury-Warsong!",
+					["serverTime"] = 1637241521,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						10, -- [3]
+						24, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43479.713,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [72]
+				{
+					["message"] = "|cffc31d39Phury|r has died.",
+					["serverTime"] = 1637241521,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43479.757,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [73]
+				{
+					["message"] = "The Alliance Flag was returned to its base by Iburstyouqq-Warsong!",
+					["serverTime"] = 1637241522,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						10, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43480.586,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [74]
+				{
+					["message"] = "|Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Absolutionx:451:INSTANCE_CHAT|h|cffd8bc3f120|r:|cfff38bb9Absolutionx|r:2|h|cffd8d8d8]|r: nice fear in texture",
+					["serverTime"] = 1637241526,
+					["r"] = 1,
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						13, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43484.189,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [75]
+				{
+					["message"] = "|cff71d5ff|Hdeath:2|h[You died.]|h",
+					["serverTime"] = 1637241527,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43485.685,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [76]
+				{
+					["message"] = "|cfffe7b09Transphormer|r has died.",
+					["serverTime"] = 1637241528,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43486.534,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [77]
+				{
+					["message"] = "|cff71d5ff|Hdeath:3|h[You died.]|h",
+					["serverTime"] = 1637241561,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43520.002,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [78]
+				{
+					["message"] = "|cfffe7b09Transphormer|r has died.",
+					["serverTime"] = 1637241564,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43522.295,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [79]
+				{
+					["message"] = "|Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Wicth:460:INSTANCE_CHAT|h|cffd8bc3f120|r:|cfff38bb9Wicth|r:2|h|cffd8d8d8]|r: lol",
+					["serverTime"] = 1637241568,
+					["r"] = 1,
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						13, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43526.129,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [80]
+				{
+					["message"] = "The Alliance Flag was picked up by Absolutionx-Warsong!",
+					["serverTime"] = 1637241568,
+					["r"] = 1,
+					["extraData"] = {
+						39, -- [1]
+						false, -- [2]
+						15, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43526.217,
+					["g"] = 0,
+					["b"] = 0,
+				}, -- [81]
+				{
+					["message"] = "|cffc31d39Xnoom|r has died.",
+					["serverTime"] = 1637241569,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43527.775,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [82]
+				{
+					["message"] = "|cfff38bb9Himekho|r has died.",
+					["serverTime"] = 1637241577,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43535.805,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [83]
+				{
+					["message"] = "|cffc31d39Phury|r has died.",
+					["serverTime"] = 1637241583,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43541.319,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [84]
+				{
+					["message"] = "|Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Phury:465:INSTANCE_CHAT|h|cffd8bc3f120|r:|cffc31d39Phury|r:1|h|cffd8d8d8]|r: focus shammy u fuking retards",
+					["serverTime"] = 1637241595,
+					["r"] = 1,
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43553.343,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [85]
+				{
+					["message"] = "|Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Phury:466:INSTANCE_CHAT|h|cffd8bc3f120|r:|cffc31d39Phury|r:1|h|cffd8d8d8]|r: focus shammy u fuking retards",
+					["serverTime"] = 1637241596,
+					["r"] = 1,
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43554.375,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [86]
+				{
+					["message"] = "|Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Phury:467:INSTANCE_CHAT|h|cffd8bc3f120|r:|cffc31d39Phury|r:1|h|cffd8d8d8]|r: focus shammy u fuking retards",
+					["serverTime"] = 1637241597,
+					["r"] = 1,
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43555.37,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [87]
+				{
+					["message"] = "|Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Phury:468:INSTANCE_CHAT|h|cffd8bc3f120|r:|cffc31d39Phury|r:1|h|cffd8d8d8]|r: focus shammy u fuking retards",
+					["serverTime"] = 1637241598,
+					["r"] = 1,
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43556.492,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [88]
+				{
+					["message"] = "|Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Phury:469:INSTANCE_CHAT|h|cffd8bc3f120|r:|cffc31d39Phury|r:1|h|cffd8d8d8]|r: focus shammy u fuking retards3",
+					["serverTime"] = 1637241599,
+					["r"] = 1,
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43557.479,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [89]
+				{
+					["message"] = "The Alliance Flag was dropped by Absolutionx-Warsong!",
+					["serverTime"] = 1637241606,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						10, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43565.008,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [90]
+				{
+					["message"] = "The Alliance Flag was returned to its base by Iburstyouqq-Warsong!",
+					["serverTime"] = 1637241607,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						10, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43565.688,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [91]
+				{
+					["message"] = "|cfff38bb9Himekho|r has left the battle",
+					["serverTime"] = 1637241613,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43571.407,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [92]
+				{
+					["message"] = "|cfff38bb9Himekho|r has left the instance group.",
+					["serverTime"] = 1637241613,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43571.407,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [93]
+				{
+					["message"] = "|cff71d5ff|Hdeath:4|h[You died.]|h",
+					["serverTime"] = 1637241620,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43578.248,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [94]
+				{
+					["message"] = "|Hplayer:Baltria:481|hBaltria|h has joined the battle.",
+					["serverTime"] = 1637241620,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43578.508,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [95]
+				{
+					["message"] = "Baltria has joined the instance group.",
+					["serverTime"] = 1637241620,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43578.508,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [96]
+				{
+					["message"] = "The Alliance Flag was picked up by Phury-Warsong!",
+					["serverTime"] = 1637241631,
+					["r"] = 1,
+					["extraData"] = {
+						39, -- [1]
+						false, -- [2]
+						15, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43589.594,
+					["g"] = 0,
+					["b"] = 0,
+				}, -- [97]
+				{
+					["message"] = "|cffc31d39Xnoom|r has died.",
+					["serverTime"] = 1637241631,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43590.036,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [98]
+				{
+					["message"] = "|cfffe7b09Transphormer|r has died.",
+					["serverTime"] = 1637241637,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43595.446,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [99]
+				{
+					["message"] = "The Alliance Flag was dropped by Phury-Warsong!",
+					["serverTime"] = 1637241654,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						10, -- [3]
+						24, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43612.627,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [100]
+				{
+					["message"] = "|cffc31d39Phury|r has died.",
+					["serverTime"] = 1637241654,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43612.682,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [101]
+				{
+					["message"] = "The Alliance Flag was returned to its base by Hatemost-Warsong!",
+					["serverTime"] = 1637241655,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						10, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43613.507,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [102]
+				{
+					["message"] = "Naturerage-Warsong captured the Horde Flag!",
+					["serverTime"] = 1637241658,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						10, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43616.317,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [103]
+				{
+					["message"] = "|Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Phury:504:INSTANCE_CHAT|h|cffd8bc3f120|r:|cffc31d39Phury|r:1|h|cffd8d8d8]|r: focus shammy u fuking retards",
+					["serverTime"] = 1637241662,
+					["r"] = 1,
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43620.404,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [104]
+				{
+					["message"] = "|Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Phury:505:INSTANCE_CHAT|h|cffd8bc3f120|r:|cffc31d39Phury|r:1|h|cffd8d8d8]|r: focus shammy u fuking retards",
+					["serverTime"] = 1637241663,
+					["r"] = 1,
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43621.612,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [105]
+				{
+					["message"] = "|Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Phury:506:INSTANCE_CHAT|h|cffd8bc3f120|r:|cffc31d39Phury|r:1|h|cffd8d8d8]|r: focus shammy u fuking retards",
+					["serverTime"] = 1637241664,
+					["r"] = 1,
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43623.008,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [106]
+				{
+					["message"] = "|cff71d5ff|Hdeath:5|h[You died.]|h",
+					["serverTime"] = 1637241673,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43631.458,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [107]
+				{
+					["message"] = "The flags are now placed at their bases.",
+					["serverTime"] = 1637241681,
+					["r"] = 1,
+					["extraData"] = {
+						37, -- [1]
+						false, -- [2]
+						27, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43639.224,
+					["g"] = 0.4705882668495178,
+					["b"] = 0.03921568766236305,
+				}, -- [108]
+				{
+					["message"] = "|cffc59a6cHexenbanxd|r has left the battle",
+					["serverTime"] = 1637241687,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43645.692,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [109]
+				{
+					["message"] = "|cffc59a6cHexenbanxd|r has left the instance group.",
+					["serverTime"] = 1637241687,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43645.7,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [110]
+				{
+					["message"] = "|cfffe7b09Transphormer|r has died.",
+					["serverTime"] = 1637241699,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43657.709,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [111]
+				{
+					["message"] = "|cffc31d39Xnoom|r has died.",
+					["serverTime"] = 1637241702,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43660.82,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [112]
+				{
+					["message"] = "Baltria has died.",
+					["serverTime"] = 1637241717,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43675.207,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [113]
+				{
+					["message"] = "|cffc31d39Phury|r has died.",
+					["serverTime"] = 1637241717,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43675.207,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [114]
+				{
+					["message"] = "|cffc59a6cStylewarrior|r has left the instance group.",
+					["serverTime"] = 1637241742,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43700.747,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [115]
+				{
+					["message"] = "|cffc59a6cStylewarrior|r has left the battle",
+					["serverTime"] = 1637241742,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43700.747,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [116]
+				{
+					["message"] = "|cff71d5ff|Hdeath:6|h[You died.]|h",
+					["serverTime"] = 1637241744,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 43703.066,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [117]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

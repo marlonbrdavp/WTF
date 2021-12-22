@@ -1,0 +1,92 @@
+
+BetterWardrobe_Options = {
+	["profileKeys"] = {
+		["Dennt - Warsong"] = "Default",
+		["Yndark - Warsong"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["DR_StartUndressed"] = false,
+		},
+	},
+}
+BetterWardrobe_CharacterData = {
+	["profileKeys"] = {
+		["Dennt - Warsong"] = "Dennt - Warsong",
+		["Yndark - Warsong"] = "Yndark - Warsong",
+	},
+	["profiles"] = {
+		["Dennt - Warsong"] = {
+			["lastTransmogOutfitIDSpec"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+			},
+		},
+		["Yndark - Warsong"] = {
+		},
+	},
+}
+BetterWardrobe_SavedSetData = {
+	["profileKeys"] = {
+		["Dennt - Warsong"] = "Dennt - Warsong",
+		["Yndark - Warsong"] = "Yndark - Warsong",
+	},
+	["global"] = {
+		["sets"] = {
+			["Dennt - Warsong"] = {
+				{
+					["name"] = "ClearLeaf",
+					["type"] = "Saved",
+					["description"] = "",
+					["label"] = "Saved Set",
+					["icon"] = 1360261,
+					["limitedTimeSet"] = false,
+					["uiOrder"] = 100,
+					["hiddenUtilCollected"] = false,
+					["items"] = {
+					},
+					["sources"] = {
+						77344, -- [1]
+						0, -- [2]
+						76863, -- [3]
+						0, -- [4]
+						38884, -- [5]
+						70630, -- [6]
+						64628, -- [7]
+						70633, -- [8]
+						78769, -- [9]
+						80453, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						82855, -- [15]
+						24846, -- [16]
+						25373, -- [17]
+						0, -- [18]
+						0, -- [19]
+					},
+					["isClass"] = true,
+					["setID"] = 5000,
+					["patchID"] = "",
+					["collected"] = true,
+					["favorite"] = false,
+					["expansionID"] = 1,
+				}, -- [1]
+			},
+			["Yndark - Warsong"] = {
+			},
+		},
+	},
+}
+BetterWardrobe_SubstituteItemData = {
+	["profileKeys"] = {
+		["Dennt - Warsong"] = "Default",
+		["Yndark - Warsong"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

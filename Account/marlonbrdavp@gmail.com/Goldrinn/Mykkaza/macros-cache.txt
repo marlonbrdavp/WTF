@@ -1,0 +1,54 @@
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence reset=30 Frostbrand,Flametongue
+END
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Water Walking
+/cast Garn Nighthowl
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,help][nodead,help]Riptide; [@mouseover,harm,nodead,nomodifier][harm,nodead,nomodifier]Chain lightning; [@player,nodead][] Riptide
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,help][nodead,help]Healing Wave; [@mouseover,harm,nodead,nomodifier][harm,nodead,nomodifier]Lava Burst; [@player,nodead][] Healing Wave
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,help][nodead,help]Chain Heal; [@mouseover,harm,nodead,nomodifier][harm,nodead,nomodifier]Flame Shock; [@player,nodead][] Chain Heal;
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,help][nodead,help]Healing Surge; [@mouseover,harm,nodead,nomodifier][harm,nodead,nomodifier]Lightning Bolt; [@player,nodead][] Healing Surge
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,help][nodead,help]Purify Spirit; [@mouseover,harm,nodead,nomodifier][harm,nodead,nomodifier]Purge; [@player,nodead][] Purify Spirit
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Astral Shift
+/cast [@player]Gift of the Naaru(Racial)
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,harm][nodead,harm]Wind Shear; [@target,nodead][] Wind Shear
+END
+VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player]Earthgrab Totem
+END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player]Earthbind Totem
+END
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,help][nodead,help]Cleanse Spirit; [@mouseover,harm,nodead,nomodifier][harm,nodead,nomodifier]Purge; [@player,nodead][] Cleanse Spirit
+END
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,harm][nodead,harm]Hex; [@target,nodead][] Hex
+END

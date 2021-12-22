@@ -1,0 +1,74 @@
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Wild Growth;Maim
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead,mod:Ctrl]soothe;[@mouseover,help,nodead,mod:ctrl][@player,mod:ctrl]Remove Corruption;[stance:1]ironfur;[stance:2]Rip;[]remove corruption
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player,mod:ctrl]Rejuvenation;[@mouseover,help,nodead][@target,help,nodead]Rejuvenation;[@target,harm,nodead,stance:2]Rake;[@target,harm,nodead]Moonfire(Lunar);[]Rejuvenation
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player,mod:ctrl]Lifebloom;[@mouseover,help,nodead][@target,help,nodead]Lifebloom;[@target,harm,nodead]Sunfire(Solar);[]Lifebloom
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player,mod:ctrl]Regrowth;[@mouseover,help,nodead][@target,help,nodead]Regrowth;[@target,harm,nodead]Solar Wrath(Solar);[]regrowth
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor,mod:ctrl]Efflorescence;[@cursor,stance:0]Efflorescence;[stance:4,talent:3/1]Lunar Strike
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]travel form;[talent:2/1]Tiger Dash;dash
+END
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nocombat,mod:ctrl]Prowl;[@player,mod:ctrl]Swiftmend;[stance:1,spec:3]Maul;[stance:1,spec:2]Enraged Maul;[stance:2]Ferocious bite;[@mouseover,help,nodead]Swiftmend;[@target,harm,nodead,stance:4]Starsurge;[]Swiftmend
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player,mod:ctrl]Swiftmend;thrash
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead,mod:ctrl][@player,mod:ctrl]Lifebloom;Shred
+END
+VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl,spec:3]cat form;[spec:3]bear form;[mod:ctrl,spec:4]cat Form;[mod:ctrl]bear form;[spec:4,talent:3/1]Moonkin Form;cat form
+END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player,mod:ctrl]Nature's Cure;[@mouseover,harm,nodead]soothe;[@mouseover,help,nodead]Nature's Cure;[@target,harm,nodead]soothe;[@target,help,nodead][]Nature's Cure
+END
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Ursol's Vortex
+END
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Survival Instincts
+/use Corrupted Aspirant's Medallion
+END
+VER 3 010000000000000F " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead,mod:ctrl][mod:ctrl]Tiger's Fury;Primal Wrath
+END
+VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,help][]Ironbark
+/cast [@mouseover,nodead,help][]Overgrowth(PvP Talent)
+END
+VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player,mod:ctrl]Wild Growth;Frenzied Regeneration
+END
+VER 3 0100000000000013 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player]wild Growth
+END

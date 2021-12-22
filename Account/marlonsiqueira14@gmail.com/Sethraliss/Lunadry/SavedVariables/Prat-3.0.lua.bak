@@ -1,0 +1,2134 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 56,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "Reputation with Gadgetzan increased by 1.",
+					["serverTime"] = 1632341595,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631577.436,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [1]
+				{
+					["message"] = "Reputation with Everlook increased by 1.",
+					["serverTime"] = 1632341595,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631577.436,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [2]
+				{
+					["message"] = "Southsea Privateer attempts to run away in fear!",
+					["serverTime"] = 1632341598,
+					["r"] = 1,
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						92, -- [3]
+						93, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631580.912,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
+				}, -- [3]
+				{
+					["message"] = "Reputation with Ratchet increased by 2.",
+					["serverTime"] = 1632341599,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631581.426,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [4]
+				{
+					["message"] = "Reputation with Booty Bay increased by 1.",
+					["serverTime"] = 1632341599,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631581.426,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [5]
+				{
+					["message"] = "Reputation with Gadgetzan increased by 1.",
+					["serverTime"] = 1632341599,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631581.426,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [6]
+				{
+					["message"] = "Reputation with Everlook increased by 1.",
+					["serverTime"] = 1632341599,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631581.426,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [7]
+				{
+					["message"] = "You receive loot: |cffffffff|Hitem:2592::::::::26:254:512:::23:::|h[Wool Cloth]|h|r.",
+					["serverTime"] = 1632341601,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631583.008,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [8]
+				{
+					["message"] = "You receive loot: |cffffffff|Hitem:46834::::::::26:254::::::|h[Glomp's Booty]|h|r.",
+					["serverTime"] = 1632341601,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631583.023,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [9]
+				{
+					["message"] = "You receive loot: |cffffffff|Hitem:2589::::::::26:254:512:::22:::|h[Linen Cloth]|h|r.",
+					["serverTime"] = 1632341601,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631583.023,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [10]
+				{
+					["message"] = "You receive loot: |cffffffff|Hitem:2589::::::::26:254:512:::22:::|h[Linen Cloth]|h|r.",
+					["serverTime"] = 1632341601,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631583.023,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [11]
+				{
+					["message"] = "You receive loot: |cffffffff|Hitem:955::::::::26:254:512:::26:::|h[Scroll of Intellect]|h|r.",
+					["serverTime"] = 1632341601,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631583.023,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [12]
+				{
+					["message"] = "You loot 4 Silver, 6 Copper",
+					["serverTime"] = 1632341602,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						70, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631584.012,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [13]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Agyla:764:CHANNEL:4|h|cff006fdcAgyla|r|h|cffd8d8d8]|r: yes :D",
+					["serverTime"] = 1632341602,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						5, -- [3]
+						142, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631584.892,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [14]
+				{
+					["message"] = "Congratulations, you have reached |cffFF4E00|Hlevelup:27:LEVEL_UP_TYPE_CHARACTER|h[Level 27]|h|r!",
+					["serverTime"] = 1632341609,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1631591.122,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [15]
+				{
+					["message"] = "Glomp is Sitting On It completed.",
+					["serverTime"] = 1632341609,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631591.122,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [16]
+				{
+					["message"] = "Experience gained: 62400.",
+					["serverTime"] = 1632341609,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631591.122,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [17]
+				{
+					["message"] = "Received 45 Silver.",
+					["serverTime"] = 1632341609,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631591.122,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [18]
+				{
+					["message"] = "Your skill in All Classes has increased to 135.",
+					["serverTime"] = 1632341609,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						86, -- [3]
+						87, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631591.122,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [19]
+				{
+					["message"] = "Quest accepted: Guns. We Need Guns.",
+					["serverTime"] = 1632341610,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631592.239,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [20]
+				{
+					["message"] = "Reputation with Ratchet increased by 2.",
+					["serverTime"] = 1632341627,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631609.52,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [21]
+				{
+					["message"] = "Reputation with Booty Bay increased by 1.",
+					["serverTime"] = 1632341627,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631609.52,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [22]
+				{
+					["message"] = "Reputation with Gadgetzan increased by 1.",
+					["serverTime"] = 1632341627,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631609.52,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [23]
+				{
+					["message"] = "Reputation with Everlook increased by 1.",
+					["serverTime"] = 1632341627,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631609.52,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [24]
+				{
+					["message"] = "Reputation with Ratchet increased by 2.",
+					["serverTime"] = 1632341636,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631619.003,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [25]
+				{
+					["message"] = "Reputation with Booty Bay increased by 1.",
+					["serverTime"] = 1632341636,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631619.003,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [26]
+				{
+					["message"] = "Reputation with Gadgetzan increased by 1.",
+					["serverTime"] = 1632341636,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631619.003,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [27]
+				{
+					["message"] = "Reputation with Everlook increased by 1.",
+					["serverTime"] = 1632341636,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631619.003,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [28]
+				{
+					["message"] = "Reputation with Ratchet increased by 2.",
+					["serverTime"] = 1632341637,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631619.016,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [29]
+				{
+					["message"] = "Reputation with Booty Bay increased by 1.",
+					["serverTime"] = 1632341637,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631619.016,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [30]
+				{
+					["message"] = "Reputation with Gadgetzan increased by 1.",
+					["serverTime"] = 1632341637,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631619.016,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [31]
+				{
+					["message"] = "Reputation with Everlook increased by 1.",
+					["serverTime"] = 1632341637,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631619.016,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [32]
+				{
+					["message"] = "Reputation with Ratchet increased by 2.",
+					["serverTime"] = 1632341640,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631622.689,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [33]
+				{
+					["message"] = "Reputation with Booty Bay increased by 1.",
+					["serverTime"] = 1632341640,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631622.689,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [34]
+				{
+					["message"] = "Reputation with Gadgetzan increased by 1.",
+					["serverTime"] = 1632341640,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631622.689,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [35]
+				{
+					["message"] = "Reputation with Everlook increased by 1.",
+					["serverTime"] = 1632341640,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631622.689,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [36]
+				{
+					["message"] = "Southsea Privateer attempts to run away in fear!",
+					["serverTime"] = 1632341648,
+					["r"] = 1,
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						92, -- [3]
+						93, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631630.141,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
+				}, -- [37]
+				{
+					["message"] = "Reputation with Ratchet increased by 2.",
+					["serverTime"] = 1632341649,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631631.33,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [38]
+				{
+					["message"] = "Reputation with Booty Bay increased by 1.",
+					["serverTime"] = 1632341649,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631631.33,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [39]
+				{
+					["message"] = "Reputation with Gadgetzan increased by 1.",
+					["serverTime"] = 1632341649,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631631.33,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [40]
+				{
+					["message"] = "Reputation with Everlook increased by 1.",
+					["serverTime"] = 1632341649,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631631.33,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [41]
+				{
+					["message"] = "You receive loot: |cffffffff|Hitem:2589::::::::27:254:512:::22:::|h[Linen Cloth]|h|rx2.",
+					["serverTime"] = 1632341650,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631632.614,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [42]
+				{
+					["message"] = "You receive loot: |cffffffff|Hitem:2589::::::::27:254:512:::22:::|h[Linen Cloth]|h|rx3.",
+					["serverTime"] = 1632341650,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631632.614,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [43]
+				{
+					["message"] = "You receive loot: |cffffffff|Hitem:414::::::::27:254:512:::24:::|h[Dalaran Sharp]|h|r.",
+					["serverTime"] = 1632341650,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631632.614,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [44]
+				{
+					["message"] = "You receive loot: |cff1eff00|Hitem:9764::::::::27:254:512::2:1695:3861:27:::|h[Cadet Shield of the Fireflash]|h|r.",
+					["serverTime"] = 1632341650,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631632.656,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [45]
+				{
+					["message"] = "You loot 6 Silver, 47 Copper",
+					["serverTime"] = 1632341651,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						70, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631633.616,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [46]
+				{
+					["message"] = "|Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Lunadry:804:PARTY|h|cffd8bc3f27|r:|cffa9d271Lunadry|r|h|cffd8d8d8]|r: vou tomar cafe mano",
+					["serverTime"] = 1632341667,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						118, -- [3]
+						123, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631649.458,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [47]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Hardoak:805:CHANNEL:4|h|cfffe7b09Hardoak|r|h|cffd8d8d8]|r: need heal for [The Underrot] m13",
+					["serverTime"] = 1632341667,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						5, -- [3]
+						110, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631649.758,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [48]
+				{
+					["message"] = "Southsea Privateer attempts to run away in fear!",
+					["serverTime"] = 1632341672,
+					["r"] = 1,
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						92, -- [3]
+						93, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631654.442,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
+				}, -- [49]
+				{
+					["message"] = "Reputation with Ratchet increased by 2.",
+					["serverTime"] = 1632341673,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631655.72,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [50]
+				{
+					["message"] = "Reputation with Booty Bay increased by 1.",
+					["serverTime"] = 1632341673,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631655.72,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [51]
+				{
+					["message"] = "Reputation with Gadgetzan increased by 1.",
+					["serverTime"] = 1632341673,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631655.72,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [52]
+				{
+					["message"] = "Reputation with Everlook increased by 1.",
+					["serverTime"] = 1632341673,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631655.72,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [53]
+				{
+					["message"] = "|Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Fludiazepam:812:PARTY|h|cffd8bc3f26|r:|cff00fe95Fludiazepam|r|h|cffd8d8d8]|r: ja é",
+					["serverTime"] = 1632341675,
+					["r"] = 0.4627451300621033,
+					["extraData"] = {
+						50, -- [1]
+						false, -- [2]
+						118, -- [3]
+						119, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631657.706,
+					["g"] = 0.7843137979507446,
+					["b"] = 1,
+				}, -- [54]
+				{
+					["message"] = "|Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Lunadry:813:PARTY|h|cffd8bc3f27|r:|cffa9d271Lunadry|r|h|cffd8d8d8]|r: flw ae",
+					["serverTime"] = 1632341676,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						118, -- [3]
+						123, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631658.011,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [55]
+				{
+					["message"] = "|Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Fludiazepam:814:PARTY|h|cffd8bc3f26|r:|cff00fe95Fludiazepam|r|h|cffd8d8d8]|r: tmj",
+					["serverTime"] = 1632341679,
+					["r"] = 0.4627451300621033,
+					["extraData"] = {
+						50, -- [1]
+						false, -- [2]
+						118, -- [3]
+						119, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631661.178,
+					["g"] = 0.7843137979507446,
+					["b"] = 1,
+				}, -- [56]
+				{
+					["message"] = "Southsea Privateer attempts to run away in fear!",
+					["serverTime"] = 1632341454,
+					["r"] = 1,
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						92, -- [3]
+						93, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631436.317,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
+				}, -- [57]
+				{
+					["message"] = "Reputation with Ratchet increased by 2.",
+					["serverTime"] = 1632341455,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631437.311,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [58]
+				{
+					["message"] = "Reputation with Booty Bay increased by 1.",
+					["serverTime"] = 1632341455,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631437.311,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [59]
+				{
+					["message"] = "Reputation with Gadgetzan increased by 1.",
+					["serverTime"] = 1632341455,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631437.311,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [60]
+				{
+					["message"] = "Reputation with Everlook increased by 1.",
+					["serverTime"] = 1632341455,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631437.311,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [61]
+				{
+					["message"] = "You receive loot: |cffffffff|Hitem:414::::::::24:254:512:::24:::|h[Dalaran Sharp]|h|r.",
+					["serverTime"] = 1632341456,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631438.895,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [62]
+				{
+					["message"] = "You receive loot: |cffffffff|Hitem:2589::::::::24:254:512:::22:::|h[Linen Cloth]|h|rx2.",
+					["serverTime"] = 1632341456,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631438.895,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [63]
+				{
+					["message"] = "You receive loot: |cffffffff|Hitem:2589::::::::24:254:512:::22:::|h[Linen Cloth]|h|rx3.",
+					["serverTime"] = 1632341456,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631438.895,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [64]
+				{
+					["message"] = "You receive loot: |cff1eff00|Hitem:9753::::::::24:254:512::2:1695:3861:24:::|h[Gypsy Buckler of the Fireflash]|h|r.",
+					["serverTime"] = 1632341456,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631438.908,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [65]
+				{
+					["message"] = "You loot 3 Silver, 24 Copper",
+					["serverTime"] = 1632341457,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						70, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631439.901,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [66]
+				{
+					["message"] = "Reputation with Ratchet increased by 2.",
+					["serverTime"] = 1632341464,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631446.899,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [67]
+				{
+					["message"] = "Reputation with Booty Bay increased by 1.",
+					["serverTime"] = 1632341464,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631446.899,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [68]
+				{
+					["message"] = "Reputation with Gadgetzan increased by 1.",
+					["serverTime"] = 1632341464,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631446.899,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [69]
+				{
+					["message"] = "Reputation with Everlook increased by 1.",
+					["serverTime"] = 1632341464,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631446.899,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [70]
+				{
+					["message"] = "Reputation with Ratchet increased by 2.",
+					["serverTime"] = 1632341465,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631447.49,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [71]
+				{
+					["message"] = "Reputation with Booty Bay increased by 1.",
+					["serverTime"] = 1632341465,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631447.49,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [72]
+				{
+					["message"] = "Reputation with Gadgetzan increased by 1.",
+					["serverTime"] = 1632341465,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631447.49,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [73]
+				{
+					["message"] = "Reputation with Everlook increased by 1.",
+					["serverTime"] = 1632341465,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631447.49,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [74]
+				{
+					["message"] = "You loot 2 Silver, 5 Copper",
+					["serverTime"] = 1632341468,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						70, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631450.116,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [75]
+				{
+					["message"] = "|cffff80ff|Htransmogappearance:1070|h[Heavy Shortbow]|h|r has been added to your appearance collection.",
+					["serverTime"] = 1632341471,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631453.361,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [76]
+				{
+					["message"] = "Congratulations, you have reached |cffFF4E00|Hlevelup:25:LEVEL_UP_TYPE_CHARACTER|h[Level 25]|h|r!",
+					["serverTime"] = 1632341486,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1631468.577,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [77]
+				{
+					["message"] = "Reputation with Ratchet increased by 2.",
+					["serverTime"] = 1632341486,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631468.577,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [78]
+				{
+					["message"] = "Reputation with Booty Bay increased by 1.",
+					["serverTime"] = 1632341486,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631468.577,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [79]
+				{
+					["message"] = "Reputation with Gadgetzan increased by 1.",
+					["serverTime"] = 1632341486,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631468.577,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [80]
+				{
+					["message"] = "Reputation with Everlook increased by 1.",
+					["serverTime"] = 1632341486,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631468.577,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [81]
+				{
+					["message"] = "Cat has reached |cffFF4E00|Hlevelup:25:LEVEL_UP_TYPE_PET:Cat|h[Level 25]|h|r!",
+					["serverTime"] = 1632341486,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1631468.577,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [82]
+				{
+					["message"] = "Your skill in All Classes has increased to 125.",
+					["serverTime"] = 1632341486,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						86, -- [3]
+						87, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631468.577,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [83]
+				{
+					["message"] = "You loot 1 Silver, 26 Copper",
+					["serverTime"] = 1632341490,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						70, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631472.735,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [84]
+				{
+					["message"] = "Reputation with Ratchet increased by 2.",
+					["serverTime"] = 1632341493,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631475.213,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [85]
+				{
+					["message"] = "Reputation with Booty Bay increased by 1.",
+					["serverTime"] = 1632341493,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631475.213,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [86]
+				{
+					["message"] = "Reputation with Gadgetzan increased by 1.",
+					["serverTime"] = 1632341493,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631475.213,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [87]
+				{
+					["message"] = "Reputation with Everlook increased by 1.",
+					["serverTime"] = 1632341493,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631475.213,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [88]
+				{
+					["message"] = "You receive loot: |cffffffff|Hitem:414::::::::25:254:512:::24:::|h[Dalaran Sharp]|h|r.",
+					["serverTime"] = 1632341494,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631476.637,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [89]
+				{
+					["message"] = "You receive loot: |cffffffff|Hitem:14110::::::::25:254:512::1:3832:25:::|h[Native Sandals]|h|r.",
+					["serverTime"] = 1632341494,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631476.637,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [90]
+				{
+					["message"] = "You loot 51 Copper",
+					["serverTime"] = 1632341495,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						70, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631477.604,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [91]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Unknownlolz:704:CHANNEL:4|h|cfffef367Unknownlolz|r|h|cffd8d8d8]|r: |cff66bbff|Hjournal:0:1030:23|h[Храм Сетралисс]|h|rm12 Up tank heal",
+					["serverTime"] = 1632341511,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						5, -- [3]
+						88, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631493.121,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [92]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Allamyr:705:CHANNEL:4|h|cfff38bb9Allamyr|r|h|cffd8d8d8]|r: que 2v2",
+					["serverTime"] = 1632341512,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						5, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631494.031,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [93]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Unknownlolz:709:CHANNEL:4|h|cfffef367Unknownlolz|r|h|cffd8d8d8]|r: |cff66bbff|Hjournal:0:1030:23|h[Храм Сетралисс]|h|rm12 Up tank",
+					["serverTime"] = 1632341518,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						5, -- [3]
+						88, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631500.578,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [94]
+				{
+					["message"] = "You receive loot: |cffffffff|Hitem:5084::::::::25:254::::::|h[Cap'n Garvey's Head]|h|r.",
+					["serverTime"] = 1632341518,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631500.974,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [95]
+				{
+					["message"] = "You receive loot: |cffffffff|Hitem:2589::::::::25:254:512:::22:::|h[Linen Cloth]|h|r.",
+					["serverTime"] = 1632341518,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631500.974,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [96]
+				{
+					["message"] = "You receive loot: |cffffffff|Hitem:2589::::::::25:254:512:::22:::|h[Linen Cloth]|h|r.",
+					["serverTime"] = 1632341518,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631500.974,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [97]
+				{
+					["message"] = "You receive loot: |cff9d9d9d|Hitem:1516::::::::25:254:512::1:3883:25:::|h[Worn Hatchet]|h|r.",
+					["serverTime"] = 1632341518,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631500.974,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [98]
+				{
+					["message"] = "You receive loot: |cffffffff|Hitem:858::::::::25:254:512:::25:::|h[Lesser Healing Potion]|h|r.",
+					["serverTime"] = 1632341518,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631500.974,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [99]
+				{
+					["message"] = "You loot 1 Silver, 46 Copper",
+					["serverTime"] = 1632341519,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						70, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631501.978,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [100]
+				{
+					["message"] = "Fludiazepam receives loot: |cffffffff|Hitem:5084::::::::25:254::::::|h[Cap'n Garvey's Head]|h|r.",
+					["serverTime"] = 1632341521,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						25, -- [3]
+						122, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631503.065,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [101]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Nanasshy:717:CHANNEL:4|h|cfff38bb9Nanasshy|r|h|cffd8d8d8]|r: this server is dead no any gm answer ticket",
+					["serverTime"] = 1632341526,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						5, -- [3]
+						132, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631508.539,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [102]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Brza:719:CHANNEL:4|h|cffa9d271Brza|r|h|cffd8d8d8]|r: Nanasshy STAF CHANEL",
+					["serverTime"] = 1632341535,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						5, -- [3]
+						134, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631517.921,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [103]
+				{
+					["message"] = "You receive loot: |cffffffff|Hitem:2589::::::::25:254:512:::22:::|h[Linen Cloth]|h|rx3.",
+					["serverTime"] = 1632341536,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631518.88,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [104]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Brza:721:CHANNEL:4|h|cffa9d271Brza|r|h|cffd8d8d8]|r: sory cpas",
+					["serverTime"] = 1632341538,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						5, -- [3]
+						134, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631520.903,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [105]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Passepartôüt:722:CHANNEL:4|h|cffa22fc8Passepartôüt|r|h|cffd8d8d8]|r: 2k dh (2k4 exp) lf healer 2s",
+					["serverTime"] = 1632341539,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						5, -- [3]
+						128, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631521.847,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [106]
+				{
+					["message"] = "Southsea Privateer attempts to run away in fear!",
+					["serverTime"] = 1632341549,
+					["r"] = 1,
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						92, -- [3]
+						93, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631531.81,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
+				}, -- [107]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Thón:724:CHANNEL:4|h|cffa22fc8Thón|r|h|cffd8d8d8]|r: Berserk be like: :(",
+					["serverTime"] = 1632341551,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						5, -- [3]
+						136, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631533.06,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [108]
+				{
+					["message"] = "Reputation with Ratchet increased by 2.",
+					["serverTime"] = 1632341551,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631533.562,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [109]
+				{
+					["message"] = "Reputation with Booty Bay increased by 1.",
+					["serverTime"] = 1632341551,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631533.562,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [110]
+				{
+					["message"] = "Reputation with Gadgetzan increased by 1.",
+					["serverTime"] = 1632341551,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631533.562,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [111]
+				{
+					["message"] = "Reputation with Everlook increased by 1.",
+					["serverTime"] = 1632341551,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631533.562,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [112]
+				{
+					["message"] = "Congratulations, you have reached |cffFF4E00|Hlevelup:26:LEVEL_UP_TYPE_CHARACTER|h[Level 26]|h|r!",
+					["serverTime"] = 1632341558,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1631540.787,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [113]
+				{
+					["message"] = "New dungeon unlocked: |cff66bbff|Hjournal:0:311:1|h[Scarlet Halls]|h|r",
+					["serverTime"] = 1632341558,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1631540.787,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [114]
+				{
+					["message"] = "Take it up with Tony completed.",
+					["serverTime"] = 1632341558,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631540.833,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [115]
+				{
+					["message"] = "Experience gained: 45500.",
+					["serverTime"] = 1632341558,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631540.833,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [116]
+				{
+					["message"] = "Your skill in All Classes has increased to 130.",
+					["serverTime"] = 1632341558,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						86, -- [3]
+						87, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631540.833,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [117]
+				{
+					["message"] = "Quest accepted: Glomp is Sitting On It",
+					["serverTime"] = 1632341559,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631541.887,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [118]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Healzen:737:CHANNEL:4|h|cfffefefeHealzen|r|h|cffd8d8d8]|r: go on another server , with 450 connected",
+					["serverTime"] = 1632341579,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						5, -- [3]
+						138, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631561.16,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [119]
+				{
+					["message"] = "Fludiazepam receives loot: |cffffffff|Hitem:46834::::::::26:254::::::|h[Glomp's Booty]|h|r.",
+					["serverTime"] = 1632341585,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						25, -- [3]
+						122, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631567.177,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [120]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Korwidziej:740:CHANNEL:4|h|cff3ec5e9Korwidziej|r|h|cffd8d8d8]|r: |cffffff00|Hquest:13628:-1:15:60:0|h[Got Wood?]|h|r bugged?",
+					["serverTime"] = 1632341587,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						5, -- [3]
+						140, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631569.47,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [121]
+				{
+					["message"] = "|Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Brza:741:CHANNEL:4|h|cffa9d271Brza|r|h|cffd8d8d8]|r: or 100",
+					["serverTime"] = 1632341587,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						5, -- [3]
+						134, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631569.532,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [122]
+				{
+					["message"] = "Reputation with Ratchet increased by 2.",
+					["serverTime"] = 1632341588,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631570.261,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [123]
+				{
+					["message"] = "Reputation with Booty Bay increased by 1.",
+					["serverTime"] = 1632341588,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631570.261,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [124]
+				{
+					["message"] = "Reputation with Gadgetzan increased by 1.",
+					["serverTime"] = 1632341588,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631570.261,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [125]
+				{
+					["message"] = "Reputation with Everlook increased by 1.",
+					["serverTime"] = 1632341588,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631570.261,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [126]
+				{
+					["message"] = "Reputation with Ratchet increased by 2.",
+					["serverTime"] = 1632341595,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631577.436,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [127]
+				{
+					["message"] = "Reputation with Booty Bay increased by 1.",
+					["serverTime"] = 1632341595,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						84, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1631577.436,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [128]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

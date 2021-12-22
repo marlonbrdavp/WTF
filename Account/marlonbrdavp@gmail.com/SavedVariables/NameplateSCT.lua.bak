@@ -1,0 +1,47 @@
+
+NameplateSCTDB = {
+	["profileKeys"] = {
+		["Undineh - Oribos"] = "Default",
+		["Hanjih - Shadowlands OBTR"] = "Default",
+		["Arckerman - Sethraliss"] = "Default",
+		["Arckerman - Shadowlands OBTR"] = "Default",
+		["Hanjy - Shadowlands OBTR"] = "Default",
+		["Mithsuya - Sethraliss"] = "Default",
+		["Sylfy - Sethraliss"] = "Default",
+		["Arckerman - Oribos"] = "Default",
+		["Linaell - Sethraliss"] = "Default",
+		["Ynlight - Sethraliss"] = "Default",
+		["Hanj - Oribos"] = "Default",
+		["Leonharty - Sethraliss"] = "Default",
+	},
+	["global"] = {
+		["useOffTarget"] = false,
+		["animations"] = {
+			["autoattack"] = "verticalUp",
+			["animationspeed"] = 2,
+		},
+		["personal"] = true,
+		["yOffset"] = 30,
+		["formatting"] = {
+			["size"] = 15,
+		},
+		["damageColorPersonal"] = true,
+		["offTargetFormatting"] = {
+			["alpha"] = 1,
+			["size"] = 14,
+		},
+		["animationsPersonal"] = {
+			["normal"] = "fountain",
+			["crit"] = "verticalDown",
+			["miss"] = "disabled",
+		},
+		["font"] = "Bazooka",
+		["yOffsetPersonal"] = -185,
+		["sizing"] = {
+			["missScale"] = 1,
+			["smallHitsHide"] = true,
+			["critsScale"] = 1.1,
+			["smallHitsScale"] = 0.33,
+		},
+	},
+}

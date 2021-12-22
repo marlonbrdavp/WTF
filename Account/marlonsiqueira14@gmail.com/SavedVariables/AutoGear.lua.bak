@@ -1,0 +1,20 @@
+
+AutoGearDB = {
+	["AutoAcceptQuests"] = false,
+	["OverrideSpec"] = "Warlock: None",
+	["AutoRepair"] = true,
+	["AllowedVerbosity"] = 2,
+	["ScoreInTooltips"] = true,
+	["AutoConfirmBinding"] = true,
+	["OverridePawnScale"] = true,
+	["Enabled"] = true,
+	["Override"] = false,
+	["AutoAcceptPartyInvitations"] = true,
+	["PawnScale"] = "",
+	["ReasonsInTooltips"] = false,
+	["AlwaysCompareGear"] = false,
+	["AutoSellGreys"] = true,
+	["UsePawn"] = false,
+	["RollOnNonGearLoot"] = true,
+	["AutoLootRoll"] = true,
+}

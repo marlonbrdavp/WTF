@@ -1,0 +1,321 @@
+
+WQTrackerDB = {
+	["profileKeys"] = {
+		["Alunary - Sethraliss"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["TutorialTaxyMap"] = true,
+			["groupfinder"] = {
+				["enabled"] = false,
+			},
+			["history"] = {
+				["period"] = {
+					["global"] = {
+						["211004"] = {
+							["quest"] = 1,
+						},
+					},
+					["character"] = {
+						["Player-10-006FB6AD"] = {
+							["211004"] = {
+								["quest"] = 1,
+							},
+						},
+					},
+				},
+				["quest"] = {
+					["global"] = {
+						[55897] = 1,
+						["total"] = 1,
+					},
+					["character"] = {
+						["Player-10-006FB6AD"] = {
+							[55897] = 1,
+							["total"] = 1,
+						},
+					},
+				},
+				["reward"] = {
+					["character"] = {
+						["Player-10-006FB6AD"] = {
+						},
+					},
+				},
+			},
+			["TutorialPopupID"] = 5,
+			["is_BFA_version"] = true,
+			["anchor_options"] = {
+				[863] = {
+					["Enabled"] = true,
+					["YOffset"] = 0,
+					["Alpha"] = 1,
+					["ScaleOffset"] = 0,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+				},
+				[895] = {
+					["Enabled"] = true,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
+				},
+				[1355] = {
+					["Enabled"] = true,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
+				},
+				[875] = {
+					["Enabled"] = true,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
+				},
+				[1165] = {
+					["Enabled"] = true,
+					["YOffset"] = 0,
+					["Alpha"] = 1,
+					["ScaleOffset"] = 0,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+				},
+				[62] = {
+					["Enabled"] = true,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
+				},
+				[896] = {
+					["Enabled"] = true,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
+				},
+				[942] = {
+					["Enabled"] = true,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
+				},
+				[862] = {
+					["Enabled"] = true,
+					["YOffset"] = 0,
+					["Alpha"] = 1,
+					["ScaleOffset"] = 0,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+				},
+				[876] = {
+					["Enabled"] = true,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
+				},
+				[864] = {
+					["Enabled"] = true,
+					["YOffset"] = 0,
+					["Alpha"] = 1,
+					["ScaleOffset"] = 0,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+				},
+			},
+			["quests_tracked"] = {
+				["Player-10-006FB6AD"] = {
+				},
+			},
+			["quests_all_characters"] = {
+				["Player-10-006FB6AD"] = {
+					[50483] = {
+						["expireAt"] = 1633572052,
+						["rewardAmount"] = 302,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51625] = {
+						["expireAt"] = 1633615253,
+						["rewardAmount"] = 152,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51627] = {
+						["expireAt"] = 1633572041,
+						["rewardAmount"] = 180,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[52328] = {
+						["expireAt"] = 1633572041,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Belt_15",
+					},
+					[51084] = {
+						["expireAt"] = 1633572052,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Sword_39",
+					},
+					[51909] = {
+						["expireAt"] = 1633615253,
+						["rewardAmount"] = 254,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[41327] = {
+						["expireAt"] = 1633572046,
+						["rewardAmount"] = "3",
+						["rewardTexture"] = 1417744,
+					},
+					[51411] = {
+						["expireAt"] = 1633615252,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = 2201832,
+					},
+					[55894] = {
+						["expireAt"] = 1633615268,
+						["rewardAmount"] = 478,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[43426] = {
+						["expireAt"] = 1633572046,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Bracer_07",
+					},
+					[51250] = {
+						["expireAt"] = 1633572052,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Sword_39",
+					},
+					[46261] = {
+						["expireAt"] = 1633543185,
+						["rewardAmount"] = "",
+						["rewardTexture"] = 894556,
+					},
+					[44884] = {
+						["expireAt"] = 1633543185,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Helmet_29",
+					},
+					[45804] = {
+						["expireAt"] = 1633543185,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Boots_Cloth_03",
+					},
+					[52454] = {
+						["expireAt"] = 1633572052,
+						["rewardAmount"] = 450,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[55973] = {
+						["expireAt"] = 1633572068,
+						["rewardAmount"] = 386,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[41288] = {
+						["expireAt"] = 1633572046,
+						["rewardAmount"] = "3",
+						["rewardTexture"] = 1417744,
+					},
+					[41315] = {
+						["expireAt"] = 1633572046,
+						["rewardAmount"] = "3",
+						["rewardTexture"] = 1417744,
+					},
+					[51105] = {
+						["expireAt"] = 1633615252,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
+					},
+					[52871] = {
+						["expireAt"] = 1633615241,
+						["rewardAmount"] = 252,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[50857] = {
+						["expireAt"] = 1633615252,
+						["rewardAmount"] = 173,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51615] = {
+						["expireAt"] = 1633572053,
+						["rewardAmount"] = 255,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51180] = {
+						["expireAt"] = 1633615252,
+						["rewardAmount"] = 164,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+				},
+			},
+			["player_names"] = {
+				["Player-10-006FB6AD"] = {
+					["class"] = "WARLOCK",
+					["name"] = "Alunary",
+					["realm"] = "Sethraliss",
+				},
+			},
+			["rarescan"] = {
+				["recently_killed"] = {
+					["Player-10-006FB6AD"] = {
+					},
+				},
+				["search_group"] = false,
+			},
+		},
+	},
+}

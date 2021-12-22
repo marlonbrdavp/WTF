@@ -1,0 +1,51 @@
+
+XLootADB = {
+	["namespaces"] = {
+		["Group"] = {
+			["profiles"] = {
+				["Default"] = {
+					["alert_anchor"] = {
+						["visible"] = false,
+					},
+					["roll_anchor"] = {
+						["y"] = 292.9999389648438,
+						["x"] = 1392.000122070313,
+						["visible"] = false,
+					},
+				},
+			},
+		},
+		["Frame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["autoloots"] = {
+						["all"] = "always",
+					},
+				},
+			},
+		},
+		["Master"] = {
+		},
+		["Monitor"] = {
+			["profiles"] = {
+				["Default"] = {
+					["anchor"] = {
+						["visible"] = false,
+						["y"] = 316.9999389648438,
+						["x"] = 0,
+					},
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Linestry - Sethraliss"] = "Default",
+		["Lunadry - Sethraliss"] = "Default",
+		["Alunary - Sethraliss"] = "Default",
+		["Alyardy - Sethraliss"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

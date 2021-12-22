@@ -1,0 +1,49 @@
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Summon Infernal(Guardian)
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [pet:Voidwalker]Consuming Shadows(Basic Attack)
+/cast [pet:Imp]Flee(Special Ability)
+/cast [pet:Succubus]Whiplash(Special Ability)
+/cast [pet:Felhunter]Devour Magic(Special Ability)
+END
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,harm][]Immolate
+/petattack
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,harm][]Fear
+END
+VER 3 0100000000000008 " " "460695"
+#showtooltip
+/cast [@cursor]Bane of Havoc
+/cast [@mouseover,nodead,harm][]Havoc
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Demonic Gateway
+END
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor,talent:4/3]Cataclysm;[@cursor,talent:4/2]rain of fire
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Shadowfury
+END
+VER 3 010000000000000F " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists,mod:ctrl,pet:Felhunter][mod:ctrl,pet:Felhunter]Devour Magic;[@player,mod:ctrl,pet:imp]Singe Magic[@mouseover,help,nodead,pet:imp]Singe Magic[@mouseover,exists,mod:ctrl,pet:succubus]Whiplash;Conflagrate
+END
+VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Summon imp; summon felhunter
+END
+VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Summon succubus; summon VoidWalker
+END

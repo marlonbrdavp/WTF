@@ -1,0 +1,44 @@
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Slice and Dice;Eviscerate
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Kidney Shot;[spec:1]Fan of Knives;[spec:3]Shuriken Storm
+END
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Grappling Hook
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus]Tricks of the trade;Tricks of the trade
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Ambush;Mutilate
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Shadow Dance; Symbols of Death
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists][]Shadowstep
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Stealth;[spec:1]Rupture;[spec:2]Pistol Shot;[spec:3]Rupture
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl,spec:1]Vendetta;[mod:ctrl,spec:2]adrenaline rush;Sepsis
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Shiv;Blade Rush
+END
+VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:Ctrl]Between the eyes;Blade Flurry
+END

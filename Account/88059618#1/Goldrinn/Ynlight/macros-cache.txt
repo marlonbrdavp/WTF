@@ -1,0 +1,77 @@
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,harm,mod:ctrl][mod:ctrl]Tranquilizing Shot;Rapid Fire
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Freezing Trap
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltipz
+/use [pet:Aninha]Ravage
+/use [pet:Marcelinho]Furious Bite
+/use [pet:Leopoldinho]Savage Rend
+/use [pet:Renatinho]Acid Bite
+/use [pet:Mailinha]Froststorm Breath(Exotic Ability)
+/use [pet:Carlinhos]Thick Fur
+/use [pet:Rafinha]Talon Rend
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Tar Trap;[@player,mod:ctrl]Tar Trap
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/stopcasting
+/cast [@mouseover,harm,nodead,mod:ctrl]Growl;[@mouseover,harm,nodead][]Kill Shot
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus,help,nodead] Misdirection;[@pet,help,nodead]Misdirection;[@target]Misdirection
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player,mod:ctrl]Binding Shot;[@cursor]Binding Shot
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor,mod:ctrl,talent:7/3]Volley;[@mouseover,harm,nodead][]Multi-Shot
+END
+VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura
+/cast Aspect of the Turtle
+END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player,mod:ctrl]Flare;[@cursor]Flare
+END
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Light's Judgment(Racial)
+/castsequence [@cursor]reset=30 Wild Spirits(Night Fae),Light's Judgment
+END
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Bestial Wrath
+/cast Aspect of the Wild
+/use Inscrutable Quantum Device
+END
+VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][]Counter Shot
+END
+VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:6/3]Double Tap
+/cast Trueshot
+END
+VER 3 0100000000000014 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Concussive Shot;Arcane Shot
+END
+VER 3 0100000000000016 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,talent:2/3,mod:ctrl,harm,nodead][talent:2/3,mod:ctrl]Explosive Shot;steady shot
+END

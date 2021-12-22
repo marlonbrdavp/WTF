@@ -1,0 +1,613 @@
+
+WQTrackerDB = {
+	["profileKeys"] = {
+		["Mithsuya - Sethraliss"] = "Default",
+		["Sylfy - Sethraliss"] = "Default",
+		["Alunary - Sethraliss"] = "Default",
+		["Arckerman - Sethraliss"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["TutorialTaxyMap"] = true,
+			["TutorialTracker"] = 2,
+			["groupfinder"] = {
+				["enabled"] = false,
+			},
+			["rarescan"] = {
+				["recently_killed"] = {
+					["Player-10-006FB618"] = {
+					},
+				},
+				["search_group"] = false,
+			},
+			["TutorialPopupID"] = 5,
+			["is_BFA_version"] = true,
+			["anchor_options"] = {
+				[1355] = {
+					["Enabled"] = true,
+					["YOffset"] = 0,
+					["Alpha"] = 1,
+					["ScaleOffset"] = 0,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+				},
+				[942] = {
+					["Enabled"] = true,
+					["YOffset"] = 0,
+					["Alpha"] = 1,
+					["ScaleOffset"] = 0,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+				},
+				[896] = {
+					["Enabled"] = true,
+					["YOffset"] = 0,
+					["Alpha"] = 1,
+					["ScaleOffset"] = 0,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+				},
+				[680] = {
+					["Enabled"] = true,
+					["ScaleOffset"] = 0,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+					["Alpha"] = 1,
+					["YOffset"] = 0,
+				},
+				[634] = {
+					["Enabled"] = true,
+					["ScaleOffset"] = 0,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+					["Alpha"] = 1,
+					["YOffset"] = 0,
+				},
+				[650] = {
+					["Enabled"] = true,
+					["ScaleOffset"] = 0,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+					["Alpha"] = 1,
+					["YOffset"] = 0,
+				},
+				[641] = {
+					["Enabled"] = true,
+					["ScaleOffset"] = 0,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+					["Alpha"] = 1,
+					["YOffset"] = 0,
+				},
+				[875] = {
+					["Enabled"] = true,
+					["YOffset"] = 0,
+					["Alpha"] = 1,
+					["ScaleOffset"] = 0,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+				},
+				[1161] = {
+					["Enabled"] = true,
+					["YOffset"] = 0,
+					["Alpha"] = 1,
+					["ScaleOffset"] = 0,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+				},
+				[876] = {
+					["Enabled"] = true,
+					["YOffset"] = 0,
+					["Alpha"] = 1,
+					["ScaleOffset"] = 0,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+				},
+				[864] = {
+					["Enabled"] = true,
+					["ScaleOffset"] = 0,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+					["Alpha"] = 1,
+					["YOffset"] = 0,
+				},
+				[895] = {
+					["Enabled"] = true,
+					["YOffset"] = 0,
+					["Alpha"] = 1,
+					["ScaleOffset"] = 0,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+				},
+				[1165] = {
+					["Enabled"] = true,
+					["ScaleOffset"] = 0,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+					["Alpha"] = 1,
+					["YOffset"] = 0,
+				},
+				[630] = {
+					["Enabled"] = true,
+					["ScaleOffset"] = 0,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+					["Alpha"] = 1,
+					["YOffset"] = 0,
+				},
+				[863] = {
+					["Enabled"] = true,
+					["ScaleOffset"] = 0,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+					["Alpha"] = 1,
+					["YOffset"] = 0,
+				},
+				[862] = {
+					["Enabled"] = true,
+					["ScaleOffset"] = 0,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+					["Alpha"] = 1,
+					["YOffset"] = 0,
+				},
+				[62] = {
+					["Enabled"] = true,
+					["YOffset"] = 0,
+					["Alpha"] = 1,
+					["ScaleOffset"] = 0,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+				},
+			},
+			["quests_tracked"] = {
+				["Player-10-006FB6AD"] = {
+				},
+				["Player-10-006E7FB2"] = {
+				},
+				["Player-10-00459579"] = {
+				},
+				["Player-10-006FB618"] = {
+					{
+						["mapID"] = 895,
+						["index"] = 1,
+						["timeFraction"] = 196846.353,
+						["questID"] = 51626,
+						["mapIDSynthetic"] = 0,
+						["questType"] = 8,
+						["expireAt"] = 1633615267,
+						["timeAdded"] = 1633548187,
+						["LastDistance"] = 0,
+						["numObjectives"] = 1,
+						["rewardAmount"] = 175,
+						["timeLeft"] = 1118,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					}, -- [1]
+					{
+						["mapID"] = 1527,
+						["index"] = 0,
+						["timeFraction"] = 179608.611,
+						["questID"] = 55466,
+						["mapIDSynthetic"] = 0,
+						["questType"] = 1,
+						["expireAt"] = 1634090451,
+						["timeAdded"] = 1633530951,
+						["LastDistance"] = 0.8090617108383448,
+						["numObjectives"] = 1,
+						["rewardAmount"] = 344,
+						["timeLeft"] = 9325,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_gold",
+					}, -- [2]
+				},
+			},
+			["quests_all_characters"] = {
+				["Player-10-006FB618"] = {
+					[50483] = {
+						["expireAt"] = 1633572026,
+						["rewardAmount"] = 295,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[41980] = {
+						["expireAt"] = 1633615278,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Pants_08",
+					},
+					[54143] = {
+						["expireAt"] = 1633615259,
+						["rewardAmount"] = 244,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51625] = {
+						["expireAt"] = 1633615225,
+						["rewardAmount"] = 190,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51123] = {
+						["expireAt"] = 1633615226,
+						["rewardAmount"] = 174,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51125] = {
+						["expireAt"] = 1633701626,
+						["rewardAmount"] = 168,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[52328] = {
+						["expireAt"] = 1633572025,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Belt_15",
+					},
+					[50570] = {
+						["expireAt"] = 1633615226,
+						["rewardAmount"] = 159,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51122] = {
+						["expireAt"] = 1633615226,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Boots_Cloth_03",
+					},
+					[41315] = {
+						["expireAt"] = 1633572078,
+						["rewardAmount"] = "3",
+						["rewardTexture"] = 1417744,
+					},
+					[41317] = {
+						["expireAt"] = 1633572047,
+						["rewardAmount"] = "3",
+						["rewardTexture"] = 1417744,
+					},
+					[42861] = {
+						["expireAt"] = 1633615247,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
+					},
+					[43624] = {
+						["expireAt"] = 1633572047,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
+					},
+					[42798] = {
+						["expireAt"] = 1633615247,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Boots_Cloth_03",
+					},
+					[51972] = {
+						["expireAt"] = 1633658425,
+						["rewardAmount"] = 265,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[41327] = {
+						["expireAt"] = 1633572078,
+						["rewardAmount"] = "3",
+						["rewardTexture"] = 1417744,
+					},
+					[42274] = {
+						["expireAt"] = 1633615278,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
+					},
+					[51411] = {
+						["expireAt"] = 1633615226,
+						["rewardAmount"] = 260,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[52862] = {
+						["expireAt"] = 1633615225,
+						["rewardAmount"] = 256,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[41838] = {
+						["expireAt"] = 1633615278,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Necklace_07",
+					},
+					[41696] = {
+						["expireAt"] = 1633658478,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Shoulder_25",
+					},
+					[41339] = {
+						["expireAt"] = 1633572078,
+						["rewardAmount"] = "3",
+						["rewardTexture"] = 1417744,
+					},
+					[44121] = {
+						["expireAt"] = 1633701678,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Pants_08",
+					},
+					[41091] = {
+						["expireAt"] = 1633615278,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
+					},
+					[41127] = {
+						["expireAt"] = 1633572078,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Boots_Cloth_03",
+					},
+					[51112] = {
+						["expireAt"] = 1633572026,
+						["rewardAmount"] = 197,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[43428] = {
+						["expireAt"] = 1633572078,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
+					},
+					[41288] = {
+						["expireAt"] = 1633572078,
+						["rewardAmount"] = "3",
+						["rewardTexture"] = 1417744,
+					},
+					[41293] = {
+						["expireAt"] = 1633615278,
+						["rewardAmount"] = "3",
+						["rewardTexture"] = 1417744,
+					},
+					[50868] = {
+						["expireAt"] = 1633572026,
+						["rewardAmount"] = 194,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51626] = {
+						["expireAt"] = 1633615225,
+						["rewardAmount"] = 175,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51124] = {
+						["expireAt"] = 1633615226,
+						["rewardAmount"] = 163,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[41819] = {
+						["expireAt"] = 1633658478,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = 1122332,
+					},
+					[51317] = {
+						["expireAt"] = 1633615225,
+						["rewardAmount"] = 233,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[41237] = {
+						["expireAt"] = 1633615278,
+						["rewardAmount"] = "3",
+						["rewardTexture"] = 1417744,
+					},
+					[54471] = {
+						["expireAt"] = 1633572059,
+						["rewardAmount"] = 250,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[55893] = {
+						["expireAt"] = 1633658466,
+						["rewardAmount"] = 516,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[42080] = {
+						["expireAt"] = 1633658478,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
+					},
+					[51642] = {
+						["expireAt"] = 1633701626,
+						["rewardAmount"] = 184,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[41316] = {
+						["expireAt"] = 1633658478,
+						["rewardAmount"] = "3",
+						["rewardTexture"] = 1417744,
+					},
+					[39424] = {
+						["expireAt"] = 1633572078,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
+					},
+					[51081] = {
+						["expireAt"] = 1633615226,
+						["rewardAmount"] = 175,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51461] = {
+						["expireAt"] = 1633658425,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
+					},
+					[44029] = {
+						["expireAt"] = 1633701678,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
+					},
+					[41826] = {
+						["expireAt"] = 1633572078,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Pants_08",
+					},
+					[50459] = {
+						["expireAt"] = 1633615226,
+						["rewardAmount"] = 313,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[44024] = {
+						["expireAt"] = 1633658478,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Misc_Cape_19",
+					},
+					[42112] = {
+						["expireAt"] = 1633658478,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
+					},
+					[51909] = {
+						["expireAt"] = 1633615225,
+						["rewardAmount"] = 263,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51627] = {
+						["expireAt"] = 1633572025,
+						["rewardAmount"] = 179,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[57336] = {
+						["expireAt"] = 1633572068,
+						["rewardAmount"] = 309,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[54650] = {
+						["expireAt"] = 1633658459,
+						["rewardAmount"] = 359,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[44299] = {
+						["expireAt"] = 1633572078,
+						["rewardAmount"] = "|cff2292FF161",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Belt_15",
+					},
+					[51105] = {
+						["expireAt"] = 1633615226,
+						["rewardAmount"] = 177,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[50855] = {
+						["expireAt"] = 1633701626,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Pants_08",
+					},
+					[51098] = {
+						["expireAt"] = 1633615226,
+						["rewardAmount"] = 151,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51615] = {
+						["expireAt"] = 1633572025,
+						["rewardAmount"] = 241,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[50507] = {
+						["expireAt"] = 1633701626,
+						["rewardAmount"] = 155,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+				},
+			},
+			["player_names"] = {
+				["Player-10-006FB618"] = {
+					["class"] = "WARRIOR",
+					["name"] = "Arckerman",
+					["realm"] = "Sethraliss",
+				},
+				["Player-10-006E7FB2"] = {
+					["class"] = "SHAMAN",
+					["name"] = "Mithsuya",
+					["realm"] = "Sethraliss",
+				},
+			},
+			["history"] = {
+				["quest"] = {
+					["global"] = {
+						[55894] = 1,
+						["total"] = 1,
+					},
+					["character"] = {
+						["Player-10-006FB618"] = {
+							[55894] = 1,
+							["total"] = 1,
+						},
+					},
+				},
+				["period"] = {
+					["global"] = {
+						["211006"] = {
+							["quest"] = 1,
+						},
+					},
+					["character"] = {
+						["Player-10-006FB618"] = {
+							["211006"] = {
+								["quest"] = 1,
+							},
+						},
+					},
+				},
+				["reward"] = {
+					["character"] = {
+						["Player-10-006FB618"] = {
+						},
+					},
+				},
+			},
+		},
+	},
+}

@@ -1,0 +1,4 @@
+OPie_Classic: disabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+XPerl_TeamSpeak: disabled

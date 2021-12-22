@@ -1,0 +1,20 @@
+
+AutoGearDB = {
+	["AutoAcceptQuests"] = true,
+	["OverrideSpec"] = "Paladina: None",
+	["AutoRepair"] = true,
+	["AllowedVerbosity"] = 0,
+	["ScoreInTooltips"] = false,
+	["AutoConfirmBinding"] = true,
+	["OverridePawnScale"] = false,
+	["Enabled"] = false,
+	["Override"] = false,
+	["AutoAcceptPartyInvitations"] = false,
+	["PawnScale"] = "",
+	["ReasonsInTooltips"] = false,
+	["AlwaysCompareGear"] = false,
+	["AutoLootRoll"] = false,
+	["RollOnNonGearLoot"] = false,
+	["UsePawn"] = true,
+	["AutoSellGreys"] = true,
+}

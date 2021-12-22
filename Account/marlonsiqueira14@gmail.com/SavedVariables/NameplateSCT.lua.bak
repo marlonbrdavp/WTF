@@ -1,0 +1,32 @@
+
+NameplateSCTDB = {
+	["profileKeys"] = {
+		["Alunary - Sethraliss"] = "Default",
+		["Linestry - Sethraliss"] = "Default",
+	},
+	["global"] = {
+		["personal"] = true,
+		["yOffset"] = 50,
+		["animations"] = {
+			["miss"] = "disabled",
+			["animationspeed"] = 2,
+		},
+		["formatting"] = {
+			["size"] = 15,
+		},
+		["damageColorPersonal"] = true,
+		["offTargetFormatting"] = {
+			["alpha"] = 0.8,
+		},
+		["animationsPersonal"] = {
+			["normal"] = "fountain",
+			["miss"] = "disabled",
+		},
+		["font"] = "Bazooka",
+		["yOffsetPersonal"] = -2,
+		["sizing"] = {
+			["critsScale"] = 1.25,
+			["smallHitsHide"] = true,
+		},
+	},
+}

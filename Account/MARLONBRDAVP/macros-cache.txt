@@ -1,0 +1,49 @@
+VER 3 0000000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help, nodead] Hand of the Protector; [@target, help, nodead][@player] Hand of the Protector
+END
+VER 3 0000000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help, nodead]Holy Light; [@target, harm, nodead]Judgment;[@target, help, nodead][@player] Holy Light
+END
+VER 3 0000000000000007 " " "136124"
+/y Sanguine Move!
+END
+VER 3 0000000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, harm, nodead] Hand of Reckoning; [@target, harm, nodead][@player]Hand of Reckoning
+END
+VER 3 0000000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Avenging Wrath
+/use Archimonde's Hatred Reborn
+/charge
+END
+VER 3 0000000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Eye of Tyr(Artifact)
+/use Archimonde's Hatred Reborn
+END
+VER 3 000000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Berserk
+/cast Tiger's Fury
+END
+VER 3 000000000000000B " " "136103"
+/target party1
+/cast Heal
+/party Healed %t
+END
+VER 3 000000000000000C " " "132278"
+/run for k, v in pairs({DreamwayAvailable=44326,FeralasActive=44327,HinterlandsActive=44328,DuskwoodActive=44329}) do print(format("%s: %s",k, IsQuestFlaggedCompleted(v) and "\124cFF00FF00True\124r" or "\124cFFFF0000Not True\124r")) end
+END
+VER 3 0000000000000005 " Taunt" "INV_CHEST_PLATE15"
+/y Taunt Tage Agro!!!
+END
+VER 3 0000000000000001 "Focus" "ACHIEVEMENT_GUILDPERK_QUICK AND DEAD"
+/clearfocus
+/focus
+END
+VER 3 0000000000000006 "RcK" "INV_MISC_NOTE_05"
+/readycheck
+END

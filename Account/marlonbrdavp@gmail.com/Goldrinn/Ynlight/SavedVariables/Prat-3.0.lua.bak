@@ -1,0 +1,856 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 4,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[11:36:27]|h|r Guild Message of the Day: \"Sejam bem-vindos(as)!!! Raid Heróica de terça à quinta das 20:45 às 23 horas (Ilvl Mínimo 200 com lendário). Frasco, comida, etc. Falar com líderes.  Dúvidas Pat, Irethia, Morph ou Mojunior.  Disc https://discord.gg/Bc8CUkF\"",
+					["serverTime"] = 1619357452,
+					["r"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+					["timestamp"] = 684005.841,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 1,
+				}, -- [1]
+				{
+					["message"] = "0 |4day:days;, 0 |4hour:hours;, 0 |4minute:minutes;, 0 |4second:seconds;",
+					["timestamp"] = 684005.841,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 684005.841,
+				}, -- [3]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:30:51]|h|r Guild Message of the Day: \"Sejam bem vindos!!!! Estamos reestruturando nosso core HC 7/9. entre em contato conosco para participar. Dia 23/04 Core RBG 22horas. MorphNEF, Paty, Thor e Mojunior. Estamos no NEMESIS também. Se junte a nós lá também. DISC: https://discord.gg/jBjaWyt\"",
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 684005.65,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [4]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 46,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "Guild Message of the Day: \"Sejam bem-vindos(as)!!! Raid Heróica de terça à quinta das 20:45 às 23 horas (Ilvl Mínimo 200 com lendário). Frasco, comida, etc. Falar com líderes.  Dúvidas Pat, Irethia, Morph ou Mojunior.  Disc https://discord.gg/Bc8CUkF\"",
+					["serverTime"] = 1619357452,
+					["r"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+					["timestamp"] = 684005.841,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 1,
+				}, -- [1]
+				{
+					["message"] = "0 |4day:days;, 0 |4hour:hours;, 0 |4minute:minutes;, 0 |4second:seconds;",
+					["timestamp"] = 684005.841,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 684005.841,
+				}, -- [3]
+				{
+					["message"] = "Guild Message of the Day: \"Sejam bem vindos!!!! Estamos reestruturando nosso core HC 7/9. entre em contato conosco para participar. Dia 23/04 Core RBG 22horas. MorphNEF, Paty, Thor e Mojunior. Estamos no NEMESIS também. Se junte a nós lá também. DISC: https://discord.gg/jBjaWyt\"",
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 684005.65,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [4]
+				{
+					["message"] = "Loot Specialization set to: Marksmanship",
+					["serverTime"] = 1619357453,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 684005.841,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [5]
+				{
+					["message"] = "The quest Return Lost Souls has been removed from your quest log",
+					["serverTime"] = 1619357460,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684014.166,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [6]
+				{
+					["message"] = "|cffffd700<LFGSpamFilter>|r |cff808080(v0.3.2 by romdeau23)|r |cff47bbff/lsf for help|r",
+					["timestamp"] = 684194.33,
+					["serverTime"] = 1619357640,
+				}, -- [7]
+				{
+					["message"] = "Dungeon Difficulty set to Mythic.",
+					["serverTime"] = 1619357654,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684208.718,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [8]
+				{
+					["message"] = "|Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Philopoemen-Tichondrius:50:PARTY|h|cffa22fc8Philopoemen|r-|cff20beccTic|r|h|cffd8d8d8]|r: quick bio brb",
+					["serverTime"] = 1619357678,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684232.122,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [9]
+				{
+					["message"] = "|Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Unholytremor-MoonGuard:51:PARTY|h|cfffe7b09Unholytremor|r-|cffc4bee7Moo|r|h|cffd8d8d8]|r: no worries, still flyin",
+					["serverTime"] = 1619357687,
+					["r"] = 0.4627451300621033,
+					["extraData"] = {
+						50, -- [1]
+						false, -- [2]
+						3, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684241.2980000001,
+					["g"] = 0.7843137979507446,
+					["b"] = 1,
+				}, -- [10]
+				{
+					["message"] = "|cfffe7b09Meka|r has gone offline.",
+					["serverTime"] = 1619357750,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684304.405,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [11]
+				{
+					["message"] = "Loot Specialization set to: Marksmanship",
+					["serverTime"] = 1619357764,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 684317.617,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [12]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Ardenweald]|h",
+					["serverTime"] = 1619357764,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684318.16,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [13]
+				{
+					["message"] = "|Hchannel:channel:2|h[2] |h Left Channel: |Hchannel:CHANNEL:2|h[2. Trade - City]|h",
+					["serverTime"] = 1619357764,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684318.16,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [14]
+				{
+					["message"] = "|Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Ardenweald]|h",
+					["serverTime"] = 1619357764,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684318.16,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [15]
+				{
+					["message"] = "|Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Lindakay-Thunderhorn:59:PARTY|h|cffd8bc3f60|r:|cff3ec6eaLindakay|r-|cff18fb03Thu|r|h|cffd8d8d8]|r: on way",
+					["serverTime"] = 1619357772,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						3, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684326.233,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [16]
+				{
+					["message"] = "Quest accepted: A Call to Bastion",
+					["serverTime"] = 1619357775,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684328.946,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [17]
+				{
+					["message"] = "Quest accepted: Challenges in Ardenweald",
+					["serverTime"] = 1619357787,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684341.491,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [18]
+				{
+					["message"] = "Quest accepted: Aiding Revendreth",
+					["serverTime"] = 1619357800,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684354.451,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [19]
+				{
+					["message"] = "|TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq10|k:7:63:BN_INLINE_TOAST_ALERT:0|h[|Kq10|k] (|TInterface\\ChatFrame\\UI-ChatIcon-Battlenet:14:14:0:0|tMorfeu)|h has come online.",
+					["serverTime"] = 1619357845,
+					["r"] = 0.5098039507865906,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684399.345,
+					["g"] = 0.7725490927696228,
+					["b"] = 1,
+				}, -- [20]
+				{
+					["message"] = "Loot Specialization set to: Marksmanship",
+					["serverTime"] = 1619357880,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 684434.018,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [21]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Dalaran]|h",
+					["serverTime"] = 1619357880,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684434.4940000001,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [22]
+				{
+					["message"] = "|Hchannel:channel:2|h[2] |h Changed Channel: |Hchannel:CHANNEL:2|h[2. Trade - City]|h",
+					["serverTime"] = 1619357880,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684434.4940000001,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [23]
+				{
+					["message"] = "|Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Dalaran]|h",
+					["serverTime"] = 1619357880,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684434.4940000001,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [24]
+				{
+					["message"] = "Loot Specialization set to: Marksmanship",
+					["serverTime"] = 1619357924,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 684478.272,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [25]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Maldraxxus]|h",
+					["serverTime"] = 1619357925,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684478.824,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [26]
+				{
+					["message"] = "|Hchannel:channel:2|h[2] |h Left Channel: |Hchannel:CHANNEL:2|h[2. Trade - City]|h",
+					["serverTime"] = 1619357925,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684478.824,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [27]
+				{
+					["message"] = "|Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Maldraxxus]|h",
+					["serverTime"] = 1619357925,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684478.824,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [28]
+				{
+					["message"] = "Welcome to Plaguefall (Mythic). Instance locks are scheduled to expire in 2 |4Day:Days; 1 |4Hour:Hours;.",
+					["serverTime"] = 1619357946,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 684500.138,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [29]
+				{
+					["message"] = "Loot Specialization set to: Marksmanship",
+					["serverTime"] = 1619357947,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 684500.348,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [30]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Plaguefall]|h",
+					["serverTime"] = 1619357947,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684501.099,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [31]
+				{
+					["message"] = "|Hchannel:channel:3|h[3] |h Left Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Maldraxxus]|h",
+					["serverTime"] = 1619357947,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684501.099,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [32]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200DBM|r|cffff7d0a>|r Loaded 'Dungeons (Shadowlands)' mods. For more options such as custom alert sounds and personalized warning notes, type /dbm.",
+					["r"] = 0.41,
+					["serverTime"] = 1619357947,
+					["timestamp"] = 684501.384,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [33]
+				{
+					["message"] = "|cffFFFFFFRaider.IO|r: Combat being logged to Logs\\WoWCombatLog",
+					["serverTime"] = 1619357947,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 684501.713,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [34]
+				{
+					["message"] = "You gained: |cffffffff911|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 60|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 78|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t|r",
+					["serverTime"] = 1619357990,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 684544.137,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [35]
+				{
+					["message"] = "|TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq6|k:6:75:BN_INLINE_TOAST_ALERT:0|h[|Kq6|k] (|TInterface\\ChatFrame\\UI-ChatIcon-Battlenet:14:14:0:0|tStark)|h has come online.",
+					["serverTime"] = 1619357992,
+					["r"] = 0.5098039507865906,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						16, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684545.791,
+					["g"] = 0.7725490927696228,
+					["b"] = 1,
+				}, -- [36]
+				{
+					["message"] = "|cffa5a5a5Unholytremor|r-MoonGuard has initiated a ready check.",
+					["serverTime"] = 1619358005,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684558.88,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [37]
+				{
+					["message"] = "|cffa5a5a5Faellan|r-MoonGuard is now the group leader.",
+					["serverTime"] = 1619358007,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684561.055,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [38]
+				{
+					["message"] = "|cffffaeaeDetails!:|r overall data are now reset.    ",
+					["timestamp"] = 684582.171,
+					["serverTime"] = 1619358028,
+				}, -- [39]
+				{
+					["message"] = "Domina Venomblade says: So, the House of Eyes has finally sent someone to kill me. You're welcome to try.",
+					["serverTime"] = 1619358039,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						19, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684593.221,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [40]
+				{
+					["message"] = "Plaguebound yells: It's coming for us!",
+					["serverTime"] = 1619358040,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684594.164,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [41]
+				{
+					["message"] = "Plaguebound yells: Ahhhhhhh!!!!!!!",
+					["serverTime"] = 1619358042,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684596.194,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [42]
+				{
+					["message"] = "Plaguebound yells: We're better off jumping...",
+					["serverTime"] = 1619358042,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684596.605,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [43]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200Plaguefall Trash|r|cffff7d0a>|r |cffffb200[Special Warning]  |T132108:12:12|t Toxic Pool damage - move away |T132108:12:12|t |r",
+					["r"] = 0.41,
+					["serverTime"] = 1619358063,
+					["timestamp"] = 684616.883,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [44]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200Plaguefall Trash|r|cffff7d0a>|r |cffffb200[Special Warning]  |T1029746:12:12|t Wonder Grow - interrupt Fungalmancer! |T1029746:12:12|t |r",
+					["r"] = 0.41,
+					["serverTime"] = 1619358088,
+					["timestamp"] = 684642.154,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [45]
+				{
+					["message"] = "|Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Philopoemen-Tichondrius:86:PARTY|h|cffd8bc3f60|r:|cffa22fc8Philopoemen|r-|cff20beccTic|r|h|cffd8d8d8]|r: oh no linda",
+					["serverTime"] = 1619358095,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 684649.006,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [46]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

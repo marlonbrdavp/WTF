@@ -1,0 +1,66 @@
+VER 3 0000000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player,mod:ctrl][@mouseover, help, nodead]Shadow Mend;[@target, harm, nodead]Vampiric Touch;[@target, help, nodead][@player] Shadow Mend
+END
+VER 3 0000000000000002 " " "135919"
+/clearfocus
+/focus
+END
+VER 3 0000000000000008 " " "237543"
+#showtooltip
+/cast Rapture
+/use Pearl Diver's Compass
+END
+VER 3 0000000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Desperate Prayer
+/cast Fade
+END
+VER 3 0000000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, harm, nodead]Shadow Word: Death;[@target, harm, nodead][@target] Shadow Word: Death
+END
+VER 3 000000000000000B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, harm, nodead]Holy Word: Chastise;[@target, harm, nodead][@target] Holy Word: Chastise
+END
+VER 3 000000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence reset=15 Dark Void,Shadow Crash
+END
+VER 3 000000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Holy Word: Sanctify
+END
+VER 3 000000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists][]Heart Essence
+END
+VER 3 000000000000000F " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead]Light's Judgment(Racial);[@mouseover,help,nodead]Prayer of Mending;[]Prayer of Mending
+END
+VER 3 0000000000000010 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player]Prayer of Healing
+END
+VER 3 0000000000000011 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead]Shadow Word: Pain;[@mouseover,help,nodead]Power Word: Shield;[@target,harm,nodead]Shadow Word: Pain;[@target,help,nodead][]Power Word: Shield
+END
+VER 3 0000000000000012 " " "132319"
+/s .st
+END
+VER 3 0000000000000013 " " "132847"
+#showtooltip
+/target Explosives
+END
+VER 3 0000000000000014 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:7/3]Evangelism
+/cast [talent:7/2]Power Word: Barrier
+/cast [talent:7/1]Power Word: Barrier
+END
+VER 3 0000000000000015 " " "132217"
+/reload
+END

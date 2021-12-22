@@ -1,0 +1,71 @@
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,nodead,harm,mod:ctrl]Crackling Jade Lightning;[mod:ctrl]Crackling Jade Lightning;[@mouseover,nodead,harm][]Clash
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player,mod:ctrl,talent:2/2]Vivify;[@mouseover,nodead,help]Vivify;[@target,nodead,harm,talent:2/2][talent:2/2]Whirling Dragon Punch;[talent:2/3]Vivify
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor,talent:6/1,mod:ctrl]Summon Jade Serpent Statue;[@mouseover,nodead,help]Enveloping Mist;[@target,nodead,harm]tiger palm;[]Enveloping Mist
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:5/2]Diffuse Magic
+/cast [talent:5/3]Dampen Harm
+/cast Fortifying Brew
+/cast [@player]Gift of the Naaru(Racial)
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player,mod:ctrl]Vivify;[@target,help,nodead]vivify;[@target,harm,nodead][]Provoke
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Purifying Brew;[@mouseover,nodead,harm][]Keg smash
+END
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player,mod:ctrl]Ring of peace;[@cursor]Ring of peace
+END
+VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl,spec:2]Spinning Crane Kick;[mod:alt,spec:3]Disable;Rising Sun Kick
+END
+VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,help,spec:2]Detox;[@target,nodead,help,spec:2]Detox;[mod:ctrl]Expel harm;[]Blackout Kick
+END
+VER 3 0100000000000015 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl,talent:6/2]Rushing jade wind;[@cursor,mod:alt,talent:6/3]Exploding Keg;[]Spinning Crane Kick
+END
+VER 3 0100000000000016 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:5/3]Dampen Harm
+/cast [talent:3/3]Black ox Brew
+/cast Weapons of Order
+/use Darkmoon Deck: Indomitable
+END
+VER 3 0100000000000017 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:6/2,mod:ctrl]Refreshing Jade Wind;[talent:6/2]Essence Font;[talent:6/1]Essence Font;[talent:6/3]Essence Font
+END
+VER 3 0100000000000018 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,harm,mod:ctrl]Crackling Jade Lightning;[mod:ctrl]Crackling Jade Lightning;[@mouseover,nodead,harm][]Flying Serpent Kick
+END
+VER 3 010000000000001A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,help,talent:2/3,spec:2]Tiger's Lust;[@player,mod:ctrl,talent:2/3]Tiger's Lust;[]Roll
+END
+VER 3 010000000000001B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][]Life Cocoon
+/cast [@mouseover,help,nodead][]Gift of the Naaru(Racial)
+END
+VER 3 010000000000001C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Celestial Brew
+END

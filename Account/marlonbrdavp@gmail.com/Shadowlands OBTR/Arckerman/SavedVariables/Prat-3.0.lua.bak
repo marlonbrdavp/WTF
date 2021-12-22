@@ -1,0 +1,1015 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["scrollback"] = {
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 1,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 407774.204,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [1]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 69,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cffffff00You seem to be running !BugGrabber with no display addon to go along with it. Although a slash command is provided for accessing error reports, a display can help you manage these errors in a more convenient way.|r",
+					["timestamp"] = 407774.204,
+				}, -- [1]
+				{
+					["message"] = "|cffffff00The standard display is called BugSack, and can probably be found on the same site where you found !BugGrabber.|r",
+					["timestamp"] = 407774.204,
+				}, -- [2]
+				{
+					["message"] = "|cffffff00If you don't want to be reminded about this again, run /stopnag.|r",
+					["timestamp"] = 407774.204,
+				}, -- [3]
+				{
+					["message"] = "|cffffaeaeDetails!:|r use '/details me' macro to open the player breakdown for you!    ",
+					["timestamp"] = 407796.405,
+					["serverTime"] = 1637605835,
+				}, -- [4]
+				{
+					["message"] = "Loot Specialization set to: Arms",
+					["serverTime"] = 1637605835,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 407796.405,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [5]
+				{
+					["message"] = "|Hbuggrabber:Arckerman:000001B66B3305E0:|h|cffff0000[Error 000001B66B3305E0]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 407796.405,
+					["serverTime"] = 1637605836,
+				}, -- [6]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. world_en]|h",
+					["serverTime"] = 1637605837,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 407799.642,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [7]
+				{
+					["message"] = "|Hchannel:channel:2|h[2] |h Changed Channel: |Hchannel:CHANNEL:2|h[2. world_ptbr]|h",
+					["serverTime"] = 1637605837,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 407799.673,
+					["g"] = 0.8980392813682556,
+					["b"] = 0.3176470696926117,
+				}, -- [8]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Cinquecento:1239:CHANNEL:1|h|cfffe7b09Cinquecento|r|h|cffd8d8d8]|r: last boss of plaguefall is bugged, right?",
+					["serverTime"] = 1637605842,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 407804.498,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [9]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dashwolf:1241:CHANNEL:1|h|cffc31d39Dashwolf|r|h|cffd8d8d8]|r: Yes",
+					["serverTime"] = 1637605847,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 407808.991,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [10]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Shradar:1243:CHANNEL:1|h|cff8687edShradar|r|h|cffd8d8d8]|r: i have 2 abilities from Night fae and venthyr :D",
+					["serverTime"] = 1637605882,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 407844.695,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [11]
+				{
+					["message"] = "Loot Specialization set to: Arms",
+					["serverTime"] = 1637605887,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 407849.713,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [12]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Shradar:1249:CHANNEL:1|h|cff8687edShradar|r|h|cffd8d8d8]|r: Last heal RDF HC",
+					["serverTime"] = 1637605917,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 407879.705,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [13]
+				{
+					["message"] = "Loot Specialization set to: Arms",
+					["serverTime"] = 1637605934,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 407896.671,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [14]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200DBM|r|cffff7d0a>|r Loaded 'Brawlers' mods. For more options such as custom alert sounds and personalized warning notes, type /dbm.",
+					["r"] = 0.41,
+					["serverTime"] = 1637605935,
+					["timestamp"] = 407897.676,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [15]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Zarionlena:1255:CHANNEL:1|h|cff006fdcZarionlena|r|h|cffd8d8d8]|r: hi guy anyone happend we had only 40 mounts instead of how many we gained:",
+					["serverTime"] = 1637605939,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 407901.002,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [16]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Hujligan:1256:CHANNEL:1|h|cfff38bb9Hujligan|r|h|cffd8d8d8]|r: |cffffff00|Hquest:58268:1334|h[Take the High Ground]|h|r bug ?",
+					["serverTime"] = 1637605964,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 407926.815,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [17]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Coffeeticks:1257:CHANNEL:1|h|cffc59a6cCoffeeticks|r|h|cffd8d8d8]|r: Hujligan no",
+					["serverTime"] = 1637605986,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 407947.96,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [18]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Coffeeticks:1258:CHANNEL:1|h|cffc59a6cCoffeeticks|r|h|cffd8d8d8]|r: u jst need to wait for the npc to run with u before u detonate or charge the bomb",
+					["serverTime"] = 1637606001,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 407963.815,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [19]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Thøthø:1259:CHANNEL:1|h|cfffe7b09Thøthø|r|h|cffd8d8d8]|r: LF heal for rHC",
+					["serverTime"] = 1637606018,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 407980.739,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [20]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Hujligan:1260:CHANNEL:1|h|cfff38bb9Hujligan|r|h|cffd8d8d8]|r: k ty man",
+					["serverTime"] = 1637606031,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 407993.364,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [21]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Coffeeticks:1261:CHANNEL:1|h|cffc59a6cCoffeeticks|r|h|cffd8d8d8]|r: np",
+					["serverTime"] = 1637606037,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 407999.118,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [22]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Cinquecento:1262:CHANNEL:1|h|cfffe7b09Cinquecento|r|h|cffd8d8d8]|r: how to do |cffffff00|Hquest:57515:1325|h[The House of the Chosen]|h|r",
+					["serverTime"] = 1637606073,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408035.827,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [23]
+				{
+					["message"] = "Loot Specialization set to: Arms",
+					["serverTime"] = 1637606083,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 408045.182,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [24]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Cinquecento:1268:CHANNEL:1|h|cfffe7b09Cinquecento|r|h|cffd8d8d8]|r: i entered the place, but i dont get credit",
+					["serverTime"] = 1637606084,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408046.594,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [25]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Shradar:1269:CHANNEL:1|h|cff8687edShradar|r|h|cffd8d8d8]|r: you need go with Draka",
+					["serverTime"] = 1637606093,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408055.321,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [26]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Cinquecento:1270:CHANNEL:1|h|cfffe7b09Cinquecento|r|h|cffd8d8d8]|r: ah ty",
+					["serverTime"] = 1637606102,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408064.263,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [27]
+				{
+					["message"] = "",
+					["timestamp"] = 408071.779,
+					["serverTime"] = 1637606109,
+				}, -- [28]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Hadisan:1271:CHANNEL:1|h|cfff38bb9Hadisan|r|h|cffd8d8d8]|r: who else is randomly spawning in revend after dying in the maw",
+					["serverTime"] = 1637606112,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408074.086,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [29]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Gallaxybby:1272:CHANNEL:1|h|cffc59a6cGallaxybby|r|h|cffd8d8d8]|r: +",
+					["serverTime"] = 1637606133,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408095.727,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [30]
+				{
+					["message"] = "|cff00ccff|Hitem:122355::::::::50:71:::::::::|h[Polished Spaulders of Valor]|h|r has been added to your heirloom collection.",
+					["serverTime"] = 1637606140,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408102.249,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [31]
+				{
+					["message"] = "|cffffff00Added missing appearances of: |cffff7fff|Htransmogset-extra:10934|h[Battlegear of Valor]|h|r",
+					["timestamp"] = 408102.249,
+					["serverTime"] = 1637606140,
+				}, -- [32]
+				{
+					["message"] = "|cffff80ff|Htransmogappearance:69186|h[Polished Spaulders of Valor]|h|r has been added to your appearance collection.",
+					["serverTime"] = 1637606140,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408102.249,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [33]
+				{
+					["message"] = "|cff00ccff|Hitem:122381::::::::50:71:::::::::|h[Polished Breastplate of Valor]|h|r has been added to your heirloom collection.",
+					["serverTime"] = 1637606144,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408106.515,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [34]
+				{
+					["message"] = "|cffffff00Added missing appearances of: |cffff7fff|Htransmogset-extra:10934|h[Battlegear of Valor]|h|r",
+					["timestamp"] = 408106.515,
+					["serverTime"] = 1637606144,
+				}, -- [35]
+				{
+					["message"] = "|cffff80ff|Htransmogappearance:69208|h[Polished Breastplate of Valor]|h|r has been added to your appearance collection.",
+					["serverTime"] = 1637606144,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408106.515,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [36]
+				{
+					["message"] = "|cff00ccff|Hitem:122365::::::::50:71:::::::::|h[Reforged Truesilver Champion]|h|r has been added to your heirloom collection.",
+					["serverTime"] = 1637606150,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408112.388,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [37]
+				{
+					["message"] = "|cffff80ff|Htransmogappearance:69194|h[Reforged Truesilver Champion]|h|r has been added to your appearance collection.",
+					["serverTime"] = 1637606150,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408112.388,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [38]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Lykadisc:1282:CHANNEL:1|h|cfffefefeLykadisc|r|h|cffd8d8d8]|r: 1 tank to m0 go",
+					["serverTime"] = 1637606155,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408117.532,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [39]
+				{
+					["message"] = "|cff00ccff|Hitem:122389::::::::50:71:::::::::|h[Bloodsoaked Skullforge Reaver]|h|r has been added to your heirloom collection.",
+					["serverTime"] = 1637606161,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408123.452,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [40]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dóòm:1285:CHANNEL:1|h|cffc59a6cDóòm|r|h|cffd8d8d8]|r: Pls make a report on the Bugtracker for that spawn.",
+					["serverTime"] = 1637606165,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408127.043,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [41]
+				{
+					["message"] = "|cff00ccff|Hitem:122392::::::::50:71:::::::::|h[Weathered Observer's Shield]|h|r has been added to your heirloom collection.",
+					["serverTime"] = 1637606178,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408140.255,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [42]
+				{
+					["message"] = "|cffff80ff|Htransmogappearance:69219|h[Weathered Observer's Shield]|h|r has been added to your appearance collection.",
+					["serverTime"] = 1637606178,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408140.255,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [43]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Noogi:1289:CHANNEL:1|h|cfffef367Noogi|r|h|cffd8d8d8]|r: anyone doing hcs or mm?",
+					["serverTime"] = 1637606180,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						31, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408142.801,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [44]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Alreola:1290:CHANNEL:1|h|cfff38bb9Alreola|r|h|cffd8d8d8]|r: si c'est script",
+					["serverTime"] = 1637606181,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408143.522,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [45]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Skulbone:1291:CHANNEL:1|h|cfffefefeSkulbone|r|h|cffd8d8d8]|r: |cffff8040|Hquest:57515:1325|h[The House of the Chosen]|h|r I dont see draka anywhere",
+					["serverTime"] = 1637606185,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408147.669,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [46]
+				{
+					["message"] = "|cffd8d8d8[|r|Hplayer:Dragønwàr:1292|h|cffd84e4e60|r:|cff00fe97Dragønwàr|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1637606189,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408151.062,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [47]
+				{
+					["message"] = "Loot Specialization set to: Arms",
+					["serverTime"] = 1637606195,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 408157.056,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [48]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Cinquecento:1297:CHANNEL:1|h|cfffe7b09Cinquecento|r|h|cffd8d8d8]|r: abandon the quest",
+					["serverTime"] = 1637606197,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408159.395,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [49]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Cinquecento:1298:CHANNEL:1|h|cfffe7b09Cinquecento|r|h|cffd8d8d8]|r: and go back where you did the last quest",
+					["serverTime"] = 1637606204,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408166.582,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [50]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Husleedh:1299:CHANNEL:1|h|cffa22fc8Husleedh|r|h|cffd8d8d8]|r: is there any1 chose night fae?",
+					["serverTime"] = 1637606207,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408169.758,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [51]
+				{
+					["message"] = "Loot Specialization set to: Arms",
+					["serverTime"] = 1637606218,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 408180.329,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [52]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Skulbone:1304:CHANNEL:1|h|cfffefefeSkulbone|r|h|cffd8d8d8]|r: I asm stil there but cannot find draka",
+					["serverTime"] = 1637606223,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408185.929,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [53]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Cinquecento:1305:CHANNEL:1|h|cfffe7b09Cinquecento|r|h|cffd8d8d8]|r: relog then",
+					["serverTime"] = 1637606243,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408205.549,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [54]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Kanehealz:1306:CHANNEL:1|h|cfffe7b09Kanehealz|r|h|cffd8d8d8]|r: |cffa335ee|Hkeystone:180653:381:4:9:6:0:0|h[Keystone: Spires of Ascension (4)]|h|r EZ",
+					["serverTime"] = 1637606246,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						39, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408208.434,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [55]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Palatrainerr:1307:CHANNEL:1|h|cfff38bb9Palatrainerr|r|h|cffd8d8d8]|r: EEZZZ",
+					["serverTime"] = 1637606249,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						41, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408211.316,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [56]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Palatrainerr:1308:CHANNEL:1|h|cfff38bb9Palatrainerr|r|h|cffd8d8d8]|r: XDD",
+					["serverTime"] = 1637606250,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						41, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408212.017,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [57]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Palatrainerr:1311:CHANNEL:1|h|cfff38bb9Palatrainerr|r|h|cffd8d8d8]|r: ez bro",
+					["serverTime"] = 1637606262,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						41, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408224.114,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [58]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Cobaltrix:1312:CHANNEL:1|h|cffa22fc8Cobaltrix|r|h|cffd8d8d8]|r: gj @kane",
+					["serverTime"] = 1637606268,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						43, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408230.082,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [59]
+				{
+					["message"] = "",
+					["timestamp"] = 408231.381,
+					["serverTime"] = 1637606269,
+				}, -- [60]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Lykadisc:1313:CHANNEL:1|h|cfffefefeLykadisc|r|h|cffd8d8d8]|r: 1 tank to m0 go",
+					["serverTime"] = 1637606270,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408232.847,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [61]
+				{
+					["message"] = "|cff00ccff|Hitem:122266::::::::50:71:::::::::|h[Ripped Sandstorm Cloak]|h|r has been added to your heirloom collection.",
+					["serverTime"] = 1637606276,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408238.51,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [62]
+				{
+					["message"] = "|cffff80ff|Htransmogappearance:69103|h[Ripped Sandstorm Cloak]|h|r has been added to your appearance collection.",
+					["serverTime"] = 1637606276,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408238.51,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [63]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Seunsh:1317:CHANNEL:1|h|cffa22fc8Seunsh|r|h|cffd8d8d8]|r: go tag miss 1heal",
+					["serverTime"] = 1637606280,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408242.791,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [64]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Palatrainerr:1318:CHANNEL:1|h|cfff38bb9Palatrainerr|r|h|cffd8d8d8]|r: we was rly close for +3",
+					["serverTime"] = 1637606280,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						41, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408242.904,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [65]
+				{
+					["message"] = "|cff00ccff|Hitem:122245::::::::50:71:::::::::|h[Polished Helm of Valor]|h|r has been added to your heirloom collection.",
+					["serverTime"] = 1637606281,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408243.366,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [66]
+				{
+					["message"] = "|cffffff00Added missing appearances of: |cffff7fff|Htransmogset-extra:10934|h[Battlegear of Valor]|h|r",
+					["timestamp"] = 408243.366,
+					["serverTime"] = 1637606281,
+				}, -- [67]
+				{
+					["message"] = "|cffff80ff|Htransmogappearance:69086|h[Polished Helm of Valor]|h|r has been added to your appearance collection.",
+					["serverTime"] = 1637606281,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408243.366,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [68]
+				{
+					["message"] = "|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Wilfredo:1322:CHANNEL:1|h|cfff38bb9Wilfredo|r|h|cffd8d8d8]|r: 1 tank ilv 150+ for mythic 0, we have summon, alliance",
+					["serverTime"] = 1637606283,
+					["r"] = 0.8117647767066956,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						47, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 408245.082,
+					["g"] = 0.6627451181411743,
+					["b"] = 0.5882353186607361,
+				}, -- [69]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

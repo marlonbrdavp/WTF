@@ -1,0 +1,66 @@
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead]Purge;[@mouseover,help,nodead]Cleanse Spirit;[@target]Purge;[@player]Cleanse Spirit
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][@target]Hex(Frog)
+END
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player]Earthbind Totem
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][@target]Wind Shear
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Feral Lunge
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][@target,help][@player,help]Healing Surge
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence reset=10  Flametongue,Frostbrand
+END
+VER 3 0100000000000008 " " "132224"
+#showtooltip
+/cast Water Walking
+/use Garn Nighthowl 
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player]Capacitor Totem
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][@target,help]Healing Wave;[@target,harm]Flame Shock;[@player]Healing Wave
+END
+VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][@target,help,nodead]Riptide;[@target,harm]Lava Burst;[@player]Riptide
+END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][@target,help]Chain Heal;[@target,harm]Chain Lightning;[@player]Chain Heal
+END
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][@target,help]Healing Surge;[@target,harm]Lightning Bolt;[@player]Healing Surge
+END
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead]Purge;[@mouseover,help,nodead]Purify Spirit;[@target]Purge;[@player]Purify Spirit
+END
+VER 3 010000000000000F " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead]Lightning Bolt;[@target]Lightning Bolt
+END
+VER 3 0100000000000010 " " "451167"
+#showtooltip
+/cast Astral Shift
+/cast [@player]Gift of the Naaru(Racial)
+END

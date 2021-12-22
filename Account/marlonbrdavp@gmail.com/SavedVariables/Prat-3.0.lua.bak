@@ -1,0 +1,161 @@
+
+Prat3DB = {
+	["namespaces"] = {
+		["Prat_TellTarget"] = {
+		},
+		["Prat_AltNames"] = {
+		},
+		["Prat_PlayerNames"] = {
+		},
+		["Prat_Memory"] = {
+		},
+		["Prat_Frames"] = {
+			["profiles"] = {
+				["Default"] = {
+					["initialized"] = true,
+					["maxchatheightdefault"] = 400,
+					["maxchatwidthdefault"] = 608.0000610351562,
+					["minchatwidthdefault"] = 296,
+				},
+			},
+		},
+		["Prat_ChannelColorMemory"] = {
+			["profiles"] = {
+				["Default"] = {
+					["colors"] = {
+						["world_ptbr"] = {
+							["r"] = 1,
+							["g"] = 0.8980392813682556,
+							["b"] = 0.3176470696926117,
+						},
+						["world_en"] = {
+							["r"] = 0.8117647767066956,
+							["g"] = 0.6627451181411743,
+							["b"] = 0.5882353186607361,
+						},
+						["general"] = {
+							["r"] = 1,
+							["g"] = 0.7529412508010864,
+							["b"] = 0.7529412508010864,
+						},
+						["trade"] = {
+							["b"] = 0.7490196228027344,
+							["g"] = 0.7490196228027344,
+							["r"] = 1,
+						},
+						["localdefense"] = {
+							["r"] = 1,
+							["g"] = 0.7529412508010864,
+							["b"] = 0.7529412508010864,
+						},
+						["world_pt"] = {
+							["b"] = 1,
+							["g"] = 0.8352941870689392,
+							["r"] = 0.3607843220233917,
+						},
+					},
+				},
+			},
+		},
+		["Prat_Editbox"] = {
+		},
+		["Prat_Fading"] = {
+		},
+		["Prat_UrlCopy"] = {
+		},
+		["Prat_Bubbles"] = {
+		},
+		["Prat_Timestamps"] = {
+			["profiles"] = {
+				["Default"] = {
+					["show"] = {
+						["ChatFrame1"] = false,
+					},
+				},
+			},
+		},
+		["Prat_Sounds"] = {
+		},
+		["Prat_ChannelNames"] = {
+		},
+		["Prat_KeyBindings"] = {
+		},
+		["Prat_ChatLog"] = {
+		},
+		["Prat_Scroll"] = {
+		},
+		["Prat_ChannelSticky"] = {
+		},
+		["Prat_Achievements"] = {
+		},
+		["Prat_Font"] = {
+			["profiles"] = {
+				["Default"] = {
+					["size"] = {
+						["ChatFrame1"] = 14,
+						["ChatFrame4"] = 14,
+						["ChatFrame11"] = 14,
+						["ChatFrame3"] = 14,
+					},
+				},
+			},
+		},
+		["Prat_Alias"] = {
+		},
+		["Prat_OriginalButtons"] = {
+		},
+		["Prat_Highlight"] = {
+		},
+		["Prat_Paragraph"] = {
+		},
+		["Prat_Mentions"] = {
+		},
+		["Prat_Invites"] = {
+		},
+		["Prat_History"] = {
+		},
+		["Prat_CopyChat"] = {
+		},
+		["Prat_PopupMessage"] = {
+		},
+		["Prat_Search"] = {
+		},
+		["Prat_Buttons"] = {
+		},
+		["Prat_ServerNames"] = {
+		},
+		["Prat_HoverTips"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Undineh - Oribos"] = "Default",
+		["Hanjih - Shadowlands OBTR"] = "Default",
+		["Alunary - Sethraliss"] = "Default",
+		["Leonharty - Sethraliss"] = "Default",
+		["Hanjy - Shadowlands OBTR"] = "Default",
+		["Mithsuya - Sethraliss"] = "Default",
+		["Hanj - Oribos"] = "Default",
+		["Sylfy - Sethraliss"] = "Default",
+		["Sylphety - Sethraliss"] = "Default",
+		["Arckerman - Oribos"] = "Default",
+		["Linaell - Sethraliss"] = "Default",
+		["Ynlight - Sethraliss"] = "Default",
+		["Arckerman - Sethraliss"] = "Default",
+		["Arckerman - Shadowlands OBTR"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["modules"] = {
+				["ChatLog"] = 2,
+				["Mentions"] = 2,
+				["PopupMessage"] = 2,
+				["AltNames"] = 2,
+				["Sounds"] = 2,
+				["Paragraph"] = 2,
+				["KeyBindings"] = 2,
+				["OriginalButtons"] = 2,
+				["Alias"] = 2,
+			},
+		},
+	},
+}

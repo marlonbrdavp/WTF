@@ -1,0 +1,9 @@
+
+RaiderIO_Config = {
+}
+RaiderIO_LastCharacter = "us-Alunary-Sethraliss"
+RaiderIO_MissingCharacters = {
+	["us-Animalcoomer-Sethraliss"] = true,
+	["us-Alunary-Sethraliss"] = true,
+}
+RaiderIO_CachedRuns = nil

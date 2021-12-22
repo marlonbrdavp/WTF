@@ -1,0 +1,82 @@
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,help][nodead,help]Light of the Martyr; [@mouseover,harm,nodead,nomodifier][harm,nodead,nomodifier]Crusader Strike; [@player,nodead][] Light of the Martyr
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,help][nodead,help] Holy Light; [@mouseover,harm,nodead,nomodifier][harm,nodead,nomodifier] Judgment; [@player,nodead][] Holy Light
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,help,nodead][@player] Hand of the Protector; [@player,help]Hand of the Protector
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead] Avenger's Shield;[@target]Avenger's Shield
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead] Judgment;[@target]Judgment
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,help][nodead,help]Blessing of Freedom; [@player,nodead][] Blessing of Freedom
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,help][nodead,help]Blessing of Sacrifice; [@player,nodead][] Blessing of Sacrifice
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,help][nodead,help]Lay on Hands; [@player,nodead][] Lay on Hands
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,help][nodead,help]Blessing of Protection; [@player,nodead][] Blessing of Protection
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,help][nodead,help]Flash of Light; [@player,nodead][] Flash of Light
+END
+VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,help][nodead,help] Holy Shock; [@mouseover,harm,nodead,nomodifier][harm,nodead,nomodifier] Holy Shock; [@player,nodead][] Holy Shock
+END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Holy Avenger
+/use Dread Aspirant's Medallion
+/cast Rule of Law
+/charge
+END
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Avenging Wrath
+/use Galecaller's Beak
+/cast Rule of Law
+/charge
+END
+VER 3 010000000000000F " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,help][nodead,help]Cleanse; [@player,nodead][] Cleanse
+END
+VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/no
+/cast [@mouseover,harm,nodead] Rebuke;[@target]Rebuke
+END
+VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead] Light's Judgment(Racial)[@target]Light's Judgment(Racial)
+END
+VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,help][nodead,help]Cleanse Toxins; [@player,nodead][] Cleanse Toxins
+END
+VER 3 010000000000000E "  " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/charge
+/cast Ardent Defender
+/cast Avenging Wrath
+/use Galecaller's Beak
+END

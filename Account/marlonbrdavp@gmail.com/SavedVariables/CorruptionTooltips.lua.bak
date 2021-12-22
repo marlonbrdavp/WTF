@@ -1,0 +1,43 @@
+
+CorruptionTooltipsDB = {
+	["profileKeys"] = {
+		["Undineh - Oribos"] = "Undineh - Oribos",
+		["Hanjih - Shadowlands OBTR"] = "Hanjih - Shadowlands OBTR",
+		["Arckerman - Sethraliss"] = "Arckerman - Sethraliss",
+		["Arckerman - Shadowlands OBTR"] = "Arckerman - Shadowlands OBTR",
+		["Hanjy - Shadowlands OBTR"] = "Hanjy - Shadowlands OBTR",
+		["Mithsuya - Sethraliss"] = "Mithsuya - Sethraliss",
+		["Sylfy - Sethraliss"] = "Sylfy - Sethraliss",
+		["Arckerman - Oribos"] = "Arckerman - Oribos",
+		["Linaell - Sethraliss"] = "Linaell - Sethraliss",
+		["Ynlight - Sethraliss"] = "Ynlight - Sethraliss",
+		["Hanj - Oribos"] = "Hanj - Oribos",
+		["Leonharty - Sethraliss"] = "Leonharty - Sethraliss",
+	},
+	["profiles"] = {
+		["Undineh - Oribos"] = {
+		},
+		["Hanjih - Shadowlands OBTR"] = {
+		},
+		["Arckerman - Sethraliss"] = {
+		},
+		["Arckerman - Shadowlands OBTR"] = {
+		},
+		["Hanjy - Shadowlands OBTR"] = {
+		},
+		["Mithsuya - Sethraliss"] = {
+		},
+		["Sylfy - Sethraliss"] = {
+		},
+		["Arckerman - Oribos"] = {
+		},
+		["Linaell - Sethraliss"] = {
+		},
+		["Ynlight - Sethraliss"] = {
+		},
+		["Hanj - Oribos"] = {
+		},
+		["Leonharty - Sethraliss"] = {
+		},
+	},
+}

@@ -1,0 +1,26 @@
+VER 3 000000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Nightborne Manasaber
+/cast Dreadsteed
+END
+VER 3 000000000000000C " " "607854"
+/clearfocus
+/focus
+END
+VER 3 0000000000000001 " " "413582"
+/s .st
+END
+VER 3 0000000000000004 "t3" "INV_Misc_QuestionMark"
+END
+VER 3 0000000000000006 "t5" "INV_Misc_QuestionMark"
+END
+VER 3 0000000000000007 "t6" "INV_Misc_QuestionMark"
+END
+VER 3 0000000000000008 "t7" "INV_Misc_QuestionMark"
+END
+VER 3 0000000000000009 "tpvp1" "INV_Misc_QuestionMark"
+END
+VER 3 000000000000000A "tpvp2" "INV_Misc_QuestionMark"
+END
+VER 3 000000000000000B "tpvp3" "INV_Misc_QuestionMark"
+END

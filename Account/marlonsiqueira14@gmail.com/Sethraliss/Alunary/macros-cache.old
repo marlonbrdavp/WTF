@@ -1,0 +1,74 @@
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Summon Infernal(Guardian)
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [pet:Voidwalker]Suffering(Special Ability)
+/cast [pet:fel Imp]Flee(Special Ability)
+/cast [pet:Succubus]Whiplash(Special Ability)
+/cast [@pet:Felhunter]Devour Magic(Special Ability)
+/cast [pet:felguard]Felstorm
+END
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,harm][]Immolate
+/petattack
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,harm][]Fear
+END
+VER 3 0100000000000008 " " "460695"
+#showtooltip
+/cast [@cursor]Bane of Havoc
+/cast [@mouseover,nodead,harm][]Havoc
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Demonic Gateway
+END
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor,mod:ctrl]Shadowfury;[@cursor]rain of fire
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Shadowfury
+END
+VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Summon imp; summon felhunter
+END
+VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Summon succubus; summon VoidWalker
+END
+VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor,talent:4/3]Cataclysm;BackDraft
+END
+VER 3 0100000000000013 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/petfollow [pet,mod:Ctrl]
+/petpassive [pet,mod:Ctrl]
+/cast [nomod]Conflagrate
+END
+VER 3 0100000000000014 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/petattack [pet,mod:Ctrl]
+/petassist [pet,mod:Ctrl]
+/cast [nomod]Chaos Bolt
+END
+VER 3 0100000000000015 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Create Soulwell;ritual of summoning
+END
+VER 3 0100000000000017 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:7/3]Dark Soul: Instability;[talent:7/2]Channel Demonfire;[talent:7/1]Soul Leech
+END
+VER 3 0100000000000018 " " "132174"
+#showtooltip
+/petdismiss
+END

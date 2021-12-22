@@ -1,0 +1,76 @@
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,harm][]Spellsteal
+END
+VER 3 0100000000000007 " " "136048"
+#showtooltip
+/cast Arcane Power
+/cast Presence of Mind
+/use Sinister Aspirant's Badge
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm] Arcane Barrage;[@target]Arcane Barrage
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast Pyroblast
+END
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,harm] Ice Lance;[@target]Ice Lance
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Freeze
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm] Polymorph(Sheep);[@target] Polymorph(Sheep)
+END
+VER 3 0100000000000004 " " "135779"
+#showtooltip
+/cast Gift of the Naaru(Racial)
+/cast Ice Block
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence Freeze,Frost Nova
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,harm] Ice Nova;[@target]Ice Nova
+END
+VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,harm] Counterspell;[@target]Counterspell
+END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence Dragon's Breath,Blast Wave
+END
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Meteor
+END
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Flamestrike
+END
+VER 3 010000000000000F " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm] Slow;[@target] Slow
+END
+VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence reset=22 Blink,Displacement
+END
+VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Blizzard
+END
+VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][]Remove Curse
+END
