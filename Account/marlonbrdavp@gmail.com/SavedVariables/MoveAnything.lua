@@ -43,6 +43,40 @@ MADB = {
 						96, -- [5]
 					},
 				},
+				["ArenaEnemyFrame3"] = {
+					["orgPos"] = {
+						"RIGHT", -- [1]
+						"ArenaEnemyFrames", -- [2]
+						"RIGHT", -- [3]
+						-1.999999761581421, -- [4]
+						0, -- [5]
+					},
+					["name"] = "ArenaEnemyFrame3",
+					["pos"] = {
+						"RIGHT", -- [1]
+						"ArenaEnemyFrames", -- [2]
+						"RIGHT", -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+				},
+				["ArenaEnemyFrame2"] = {
+					["orgPos"] = {
+						"RIGHT", -- [1]
+						"ArenaEnemyFrames", -- [2]
+						"RIGHT", -- [3]
+						-1.999999761581421, -- [4]
+						0, -- [5]
+					},
+					["name"] = "ArenaEnemyFrame2",
+					["pos"] = {
+						"RIGHT", -- [1]
+						"ArenaEnemyFrames", -- [2]
+						"RIGHT", -- [3]
+						-1294.001098632813, -- [4]
+						-610.0000457763672, -- [5]
+					},
+				},
 				["QuestLogPopupDetailFrame"] = {
 					["UIPanelWindows"] = {
 						["whileDead"] = 1,
@@ -99,23 +133,6 @@ MADB = {
 						1158.000122070313, -- [5]
 					},
 				},
-				["ObjectiveTrackerFrameMover"] = {
-					["orgPos"] = {
-						"TOPRIGHT", -- [1]
-						"MinimapCluster", -- [2]
-						"BOTTOMRIGHT", -- [3]
-						-10, -- [4]
-						0, -- [5]
-					},
-					["name"] = "ObjectiveTrackerFrameMover",
-					["pos"] = {
-						"TOPRIGHT", -- [1]
-						"MinimapCluster", -- [2]
-						"BOTTOMRIGHT", -- [3]
-						-8.9998779296875, -- [4]
-						-103.9999389648438, -- [5]
-					},
-				},
 				["QuestFrame"] = {
 					["UIPanelWindows"] = {
 						["pushable"] = 0,
@@ -137,21 +154,38 @@ MADB = {
 						467.9999389648438, -- [5]
 					},
 				},
-				["PlayerPowerBarAltMover"] = {
+				["ObjectiveTrackerFrameMover"] = {
 					["orgPos"] = {
-						"BOTTOM", -- [1]
-						"UIParent", -- [2]
-						"BOTTOM", -- [3]
-						0, -- [4]
-						155, -- [5]
+						"TOPRIGHT", -- [1]
+						"MinimapCluster", -- [2]
+						"BOTTOMRIGHT", -- [3]
+						-10, -- [4]
+						0, -- [5]
 					},
-					["name"] = "PlayerPowerBarAltMover",
+					["name"] = "ObjectiveTrackerFrameMover",
 					["pos"] = {
-						"BOTTOM", -- [1]
-						"UIParent", -- [2]
-						"BOTTOM", -- [3]
-						-9.999847412109375, -- [4]
-						1015, -- [5]
+						"TOPRIGHT", -- [1]
+						"MinimapCluster", -- [2]
+						"BOTTOMRIGHT", -- [3]
+						-8.9998779296875, -- [4]
+						-103.9999389648438, -- [5]
+					},
+				},
+				["ArenaEnemyFrame1"] = {
+					["orgPos"] = {
+						"RIGHT", -- [1]
+						"ArenaEnemyFrames", -- [2]
+						"RIGHT", -- [3]
+						-1.999999761581421, -- [4]
+						0, -- [5]
+					},
+					["name"] = "ArenaEnemyFrame1",
+					["pos"] = {
+						"RIGHT", -- [1]
+						"ArenaEnemyFrames", -- [2]
+						"RIGHT", -- [3]
+						-1293.000366210938, -- [4]
+						-647.0003128051758, -- [5]
 					},
 				},
 				["ObjectiveTrackerBonusBannerFrame"] = {
@@ -169,6 +203,23 @@ MADB = {
 						"TOP", -- [3]
 						-3.0517578125e-05, -- [4]
 						-169.9998779296875, -- [5]
+					},
+				},
+				["PlayerPowerBarAltMover"] = {
+					["orgPos"] = {
+						"BOTTOM", -- [1]
+						"UIParent", -- [2]
+						"BOTTOM", -- [3]
+						0, -- [4]
+						155, -- [5]
+					},
+					["name"] = "PlayerPowerBarAltMover",
+					["pos"] = {
+						"BOTTOM", -- [1]
+						"UIParent", -- [2]
+						"BOTTOM", -- [3]
+						-9.999847412109375, -- [4]
+						1015, -- [5]
 					},
 				},
 				["Boss3TargetFrame"] = {

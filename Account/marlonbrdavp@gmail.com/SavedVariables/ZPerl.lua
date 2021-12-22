@@ -45,10 +45,10 @@ ZPerlConfigNew = {
 		},
 		["rangeFinder"] = {
 			["StatsFrame"] = {
-				["FadeAmount"] = 0.5,
 				["spell"] = "Unending Breath",
-				["HealthLowPoint"] = 0.85,
+				["FadeAmount"] = 0.5,
 				["item"] = "",
+				["HealthLowPoint"] = 0.85,
 			},
 			["enabled"] = true,
 			["Main"] = {
@@ -60,10 +60,10 @@ ZPerlConfigNew = {
 				["interact"] = 5,
 			},
 			["NameFrame"] = {
-				["FadeAmount"] = 0.5,
 				["spell"] = "Unending Breath",
-				["HealthLowPoint"] = 0.85,
+				["FadeAmount"] = 0.5,
 				["item"] = "",
+				["HealthLowPoint"] = 0.85,
 			},
 		},
 		["showAFK"] = 1,
@@ -203,8 +203,8 @@ ZPerlConfigNew = {
 			["size"] = {
 				["width"] = 0,
 			},
-			["manaPercent"] = 1,
 			["gap"] = 0,
+			["manaPercent"] = 1,
 			["percent"] = 1,
 			["titles"] = 1,
 			["mana"] = 1,
@@ -229,27 +229,8 @@ ZPerlConfigNew = {
 			["pos"] = 182.7757773169284,
 		},
 		["colour"] = {
-			["frame"] = {
-				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
-				["b"] = 0,
-			},
-			["gradient"] = {
-				["enable"] = 1,
-				["s"] = {
-					["a"] = 1,
-					["r"] = 0.25,
-					["g"] = 0.25,
-					["b"] = 0.25,
-				},
-				["e"] = {
-					["a"] = 0,
-					["r"] = 0.1,
-					["g"] = 0.1,
-					["b"] = 0.1,
-				},
-			},
+			["class"] = 1,
+			["guildList"] = 1,
 			["reaction"] = {
 				["tapped"] = {
 					["r"] = 0.5,
@@ -282,9 +263,28 @@ ZPerlConfigNew = {
 					["b"] = 1,
 				},
 			},
-			["class"] = 1,
+			["frame"] = {
+				["a"] = 1,
+				["r"] = 0,
+				["g"] = 0,
+				["b"] = 0,
+			},
 			["classic"] = 1,
-			["guildList"] = 1,
+			["gradient"] = {
+				["enable"] = 1,
+				["s"] = {
+					["a"] = 1,
+					["r"] = 0.25,
+					["g"] = 0.25,
+					["b"] = 0.25,
+				},
+				["e"] = {
+					["a"] = 0,
+					["r"] = 0.1,
+					["g"] = 0.1,
+					["b"] = 0.1,
+				},
+			},
 			["border"] = {
 				["a"] = 1,
 				["r"] = 0.5,
@@ -493,16 +493,61 @@ ZPerlConfigNew = {
 			["frame"] = 1,
 			["text"] = 1,
 		},
-		["tooltip"] = {
-			["enable"] = 1,
-			["enableBuffs"] = 1,
-			["modifier"] = "all",
+		["focustarget"] = {
+			["debuffs"] = {
+				["enable"] = 1,
+				["curable"] = 0,
+				["size"] = 29,
+			},
+			["values"] = 1,
+			["pvpIcon"] = 1,
+			["healerMode"] = {
+				["type"] = 1,
+			},
+			["mana"] = 1,
+			["healprediction"] = 1,
+			["scale"] = 0.7,
+			["absorbs"] = 1,
+			["buffs"] = {
+				["onlyMine"] = 1,
+				["castable"] = 0,
+				["size"] = 22,
+				["rows"] = 1,
+				["wrap"] = 1,
+				["maxrows"] = 2,
+			},
+			["percent"] = 1,
+			["size"] = {
+				["width"] = 0,
+			},
 		},
-		["highlightDebuffs"] = {
-			["enable"] = 1,
-			["frame"] = 1,
-			["border"] = 1,
-			["class"] = 1,
+		["pettarget"] = {
+			["debuffs"] = {
+				["enable"] = 1,
+				["curable"] = 0,
+				["size"] = 29,
+			},
+			["values"] = 1,
+			["pvpIcon"] = 1,
+			["healerMode"] = {
+				["type"] = 1,
+			},
+			["mana"] = 1,
+			["healprediction"] = 1,
+			["scale"] = 0.7,
+			["absorbs"] = 1,
+			["buffs"] = {
+				["size"] = 22,
+				["castable"] = 0,
+				["enable"] = 1,
+				["rows"] = 3,
+				["wrap"] = 1,
+				["maxrows"] = 2,
+			},
+			["percent"] = 1,
+			["size"] = {
+				["width"] = 0,
+			},
 		},
 		["partypet"] = {
 			["debuffs"] = {
@@ -575,20 +620,19 @@ ZPerlConfigNew = {
 			["portrait3D"] = 1,
 			["withName"] = 1,
 			["extendPortrait"] = 1,
-			["xpBar"] = 1,
 			["pvpIcon"] = 1,
+			["noDruidBar"] = 1,
 			["healerMode"] = {
 				["type"] = 1,
 			},
-			["absorbs"] = 1,
 			["threatMode"] = "portraitFrame",
+			["absorbs"] = 1,
 			["healprediction"] = 1,
 			["totems"] = {
 				["enable"] = 1,
 				["offsetY"] = -207,
 				["offsetX"] = 0,
 			},
-			["noDruidBar"] = 1,
 			["buffs"] = {
 				["above"] = 1,
 				["enable"] = 1,
@@ -605,8 +649,8 @@ ZPerlConfigNew = {
 		},
 		["custom"] = {
 			["enable"] = true,
-			["alpha"] = 0.5,
 			["blend"] = "ADD",
+			["alpha"] = 0.5,
 			["zones"] = {
 				["Ulduar"] = {
 					[61888] = true,
@@ -653,13 +697,13 @@ ZPerlConfigNew = {
 					[103434] = true,
 					[107439] = true,
 					[108649] = true,
-					[109325] = true,
+					[106730] = true,
 					[105171] = true,
 					[109075] = true,
 					[110214] = true,
 					[106794] = true,
 					[105490] = true,
-					[106730] = true,
+					[109325] = true,
 					[106199] = true,
 				},
 				["Blackwing Descent"] = {
@@ -687,8 +731,8 @@ ZPerlConfigNew = {
 					[40932] = true,
 					[41001] = true,
 					[39837] = true,
-					[40251] = true,
 					[43581] = true,
+					[40251] = true,
 				},
 				["Tomb of Sargeras"] = {
 					[238429] = true,
@@ -809,61 +853,16 @@ ZPerlConfigNew = {
 				},
 			},
 		},
-		["focustarget"] = {
-			["debuffs"] = {
-				["enable"] = 1,
-				["curable"] = 0,
-				["size"] = 29,
-			},
-			["values"] = 1,
-			["pvpIcon"] = 1,
-			["healerMode"] = {
-				["type"] = 1,
-			},
-			["mana"] = 1,
-			["healprediction"] = 1,
-			["scale"] = 0.7,
-			["absorbs"] = 1,
-			["buffs"] = {
-				["onlyMine"] = 1,
-				["castable"] = 0,
-				["size"] = 22,
-				["rows"] = 1,
-				["wrap"] = 1,
-				["maxrows"] = 2,
-			},
-			["percent"] = 1,
-			["size"] = {
-				["width"] = 0,
-			},
+		["tooltip"] = {
+			["enable"] = 1,
+			["enableBuffs"] = 1,
+			["modifier"] = "all",
 		},
-		["pettarget"] = {
-			["debuffs"] = {
-				["enable"] = 1,
-				["curable"] = 0,
-				["size"] = 29,
-			},
-			["values"] = 1,
-			["pvpIcon"] = 1,
-			["healerMode"] = {
-				["type"] = 1,
-			},
-			["mana"] = 1,
-			["healprediction"] = 1,
-			["scale"] = 0.7,
-			["absorbs"] = 1,
-			["buffs"] = {
-				["size"] = 22,
-				["castable"] = 0,
-				["enable"] = 1,
-				["rows"] = 3,
-				["wrap"] = 1,
-				["maxrows"] = 2,
-			},
-			["percent"] = 1,
-			["size"] = {
-				["width"] = 0,
-			},
+		["highlightDebuffs"] = {
+			["enable"] = 1,
+			["frame"] = 1,
+			["border"] = 1,
+			["class"] = 1,
 		},
 		["buffs"] = {
 			["countdownStart"] = 20,
@@ -1595,9 +1594,9 @@ ZPerlConfigNew = {
 					["width"] = 740.0001220703125,
 				},
 				["XPerl_Player"] = {
-					["top"] = 158.2000284750484,
+					["top"] = 149.199699281653,
 					["height"] = false,
-					["left"] = 663.7001032272019,
+					["left"] = 665.7001569285421,
 					["width"] = false,
 				},
 				["XPerl_Raid_Title9"] = {
@@ -1643,9 +1642,9 @@ ZPerlConfigNew = {
 					["width"] = false,
 				},
 				["XPerl_Party_Anchor"] = {
-					["top"] = 495.000153860452,
+					["top"] = 182.9995968930962,
 					["height"] = false,
-					["left"] = 0,
+					["left"] = 493.0000212067243,
 					["width"] = false,
 				},
 				["XPerl_Raid_Title12"] = {

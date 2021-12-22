@@ -2,7 +2,7 @@
 OneRing_Config = {
 	["CenterActions"] = {
 		["OPieTracking"] = "OPieBundleTracker14",
-		["OPieAutoQuest"] = "OPieBundleQuest179921",
+		["OPieAutoQuest"] = "OPieBundleQuest174864",
 	},
 	["CharProfiles"] = {
 	},
@@ -16,7 +16,7 @@ OneRing_Config = {
 				["SpecMenu"] = "SHIFT-SPACE",
 			},
 			["RotationTokens"] = {
-				["OPCTAt"] = "OPCHSh",
+				["OPCTAt"] = "OPCHSs",
 			},
 		},
 	},

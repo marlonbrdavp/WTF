@@ -9,10 +9,10 @@ NameplateSCTDB = {
 		["Mithsuya - Sethraliss"] = "Default",
 		["Sylfy - Sethraliss"] = "Default",
 		["Leonharty - Sethraliss"] = "Default",
-		["Arckerman - Oribos"] = "Default",
+		["Linaell - Sethraliss"] = "Default",
 		["Ynlight - Sethraliss"] = "Default",
 		["Hanj - Oribos"] = "Default",
-		["Linaell - Sethraliss"] = "Default",
+		["Arckerman - Oribos"] = "Default",
 	},
 	["global"] = {
 		["yOffsetPersonal"] = -185,

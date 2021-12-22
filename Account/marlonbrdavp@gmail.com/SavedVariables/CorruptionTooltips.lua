@@ -9,10 +9,10 @@ CorruptionTooltipsDB = {
 		["Mithsuya - Sethraliss"] = "Mithsuya - Sethraliss",
 		["Sylfy - Sethraliss"] = "Sylfy - Sethraliss",
 		["Leonharty - Sethraliss"] = "Leonharty - Sethraliss",
-		["Arckerman - Oribos"] = "Arckerman - Oribos",
+		["Linaell - Sethraliss"] = "Linaell - Sethraliss",
 		["Ynlight - Sethraliss"] = "Ynlight - Sethraliss",
 		["Hanj - Oribos"] = "Hanj - Oribos",
-		["Linaell - Sethraliss"] = "Linaell - Sethraliss",
+		["Arckerman - Oribos"] = "Arckerman - Oribos",
 	},
 	["profiles"] = {
 		["Undineh - Oribos"] = {
@@ -31,13 +31,13 @@ CorruptionTooltipsDB = {
 		},
 		["Leonharty - Sethraliss"] = {
 		},
-		["Arckerman - Oribos"] = {
+		["Linaell - Sethraliss"] = {
 		},
 		["Ynlight - Sethraliss"] = {
 		},
 		["Hanj - Oribos"] = {
 		},
-		["Linaell - Sethraliss"] = {
+		["Arckerman - Oribos"] = {
 		},
 	},
 }

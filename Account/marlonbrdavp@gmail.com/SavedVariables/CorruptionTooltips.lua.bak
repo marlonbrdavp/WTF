@@ -8,8 +8,8 @@ CorruptionTooltipsDB = {
 		["Hanjy - Shadowlands OBTR"] = "Hanjy - Shadowlands OBTR",
 		["Mithsuya - Sethraliss"] = "Mithsuya - Sethraliss",
 		["Sylfy - Sethraliss"] = "Sylfy - Sethraliss",
-		["Arckerman - Oribos"] = "Arckerman - Oribos",
 		["Linaell - Sethraliss"] = "Linaell - Sethraliss",
+		["Arckerman - Oribos"] = "Arckerman - Oribos",
 		["Ynlight - Sethraliss"] = "Ynlight - Sethraliss",
 		["Hanj - Oribos"] = "Hanj - Oribos",
 		["Leonharty - Sethraliss"] = "Leonharty - Sethraliss",
@@ -29,9 +29,9 @@ CorruptionTooltipsDB = {
 		},
 		["Sylfy - Sethraliss"] = {
 		},
-		["Arckerman - Oribos"] = {
-		},
 		["Linaell - Sethraliss"] = {
+		},
+		["Arckerman - Oribos"] = {
 		},
 		["Ynlight - Sethraliss"] = {
 		},

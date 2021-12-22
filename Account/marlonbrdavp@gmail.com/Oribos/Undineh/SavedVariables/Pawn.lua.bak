@@ -5,9 +5,9 @@ PawnOptions = {
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
-			["ID"] = 175525,
-			["Level"] = 134,
-			["Link"] = "|cffa335ee|Hitem:175525::::::::57:263::11:2:6706:7173:1:9:55:::::|h[Forgotten Pursuer's Cowl]|h|r",
+			["ID"] = 175661,
+			["Level"] = 140,
+			["Link"] = "|cff0070dd|Hitem:175661::::::::59:263::11:1:6706:1:9:58:::::|h[Dreamthorn Headgear]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 158075,
@@ -26,24 +26,24 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:175650::::::::58:263::11:1:6706:1:9:56:::::|h[Dreamthorn Chainmail]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 175673,
-			["Level"] = 120,
-			["Link"] = "|cff1eff00|Hitem:175673::::::::58:263::11:1:6707:1:9:56:::::|h[Dreamthorn Chain]|h|r",
+			["ID"] = 175440,
+			["Level"] = 140,
+			["Link"] = "|cff0070dd|Hitem:175440::::::::59:263::11:2:6707:6901:1:9:58:::::|h[Soul Hunter's Belt]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 175464,
-			["Level"] = 108,
-			["Link"] = "|cff1eff00|Hitem:175464::::::::55:263::11:1:6707:1:9:54:::::|h[Flesh Architect's Leggings]|h|r",
+			["ID"] = 175432,
+			["Level"] = 138,
+			["Link"] = "|cff1eff00|Hitem:175432::::::::60:263::11:1:6707:1:9:60:::::|h[Soul Hunter's Leggings]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 175654,
-			["Level"] = 114,
-			["Link"] = "|cff1eff00|Hitem:175654::::::::57:263::11:1:6707:1:9:55:::::|h[Dreamthorn Sabatons]|h|r",
+			["ID"] = 184792,
+			["Level"] = 190,
+			["Link"] = "|cffa335ee|Hitem:184792::::::::60:263:::1:6646:1:9:53:::::|h[Haru Kiemund's Sabatons]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 175476,
-			["Level"] = 108,
-			["Link"] = "|cff1eff00|Hitem:175476::::::::56:263::11:1:6707:1:9:54:::::|h[Flesh Architect's Wristwraps]|h|r",
+			["ID"] = 177787,
+			["Level"] = 129,
+			["Link"] = "|cff1eff00|Hitem:177787::::::::59:263:::2:6907:1701:1:9:59:::::|h[Savage Bonemauler Bracers of the Feverflare]|h|r",
 		}, -- [9]
 		{
 			["ID"] = 175659,
@@ -51,28 +51,28 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:175659::::::::57:263::11:2:6707:6902:1:9:55:::::|h[Dreamthorn Handguards]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 184165,
-			["Level"] = 134,
+			["ID"] = 175710,
+			["Level"] = 140,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cff0070dd|Hitem:184165::::::::57:264::11:1:6706:1:9:57:::::|h[Seal of Fordragon]|h|r",
+			["Link"] = "|cff0070dd|Hitem:175710::::::::59:263::11:1:6706:1:9:58:::::|h[Night Courtier's Ring]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 184165,
-			["Level"] = 134,
+			["ID"] = 175710,
+			["Level"] = 140,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff0070dd|Hitem:184165::::::::57:263::11:1:6706:1:9:57:::::|h[Seal of Fordragon]|h|r",
+			["Link"] = "|cff0070dd|Hitem:175710::::::::60:263::11:1:6706:1:9:58:::::|h[Night Courtier's Ring]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 175722,
-			["Level"] = 108,
+			["ID"] = 175730,
+			["Level"] = 132,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff1eff00|Hitem:175722::::::::56:263::11:1:6707:1:9:54:::::|h[Vial of Caustic Liquid]|h|r",
+			["Link"] = "|cff1eff00|Hitem:175730::::::::59:263::11:1:6707:1:9:58:::::|h[Master Duelist's Chit]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 175722,
-			["Level"] = 108,
+			["ID"] = 175730,
+			["Level"] = 132,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff1eff00|Hitem:175722::::::::57:263::11:1:6707:1:9:54:::::|h[Vial of Caustic Liquid]|h|r",
+			["Link"] = "|cff1eff00|Hitem:175730::::::::60:263::11:1:6707:1:9:58:::::|h[Master Duelist's Chit]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 175767,

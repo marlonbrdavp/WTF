@@ -16,7 +16,7 @@ OneRing_Config = {
 				["OPieAutoQuest"] = "ALT-BUTTON3",
 			},
 			["RotationTokens"] = {
-				["OPCTAt"] = "OPCHSh",
+				["OPCTAt"] = "OPCHSs",
 			},
 		},
 	},

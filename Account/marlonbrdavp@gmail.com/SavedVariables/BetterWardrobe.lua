@@ -7,14 +7,14 @@ BetterWardrobe_Options = {
 		["Leonharty - Sethraliss"] = "Default",
 		["Hanjy - Shadowlands OBTR"] = "Default",
 		["Arckerman - Shadowlands OBTR"] = "Default",
-		["Mithsuya - Sethraliss"] = "Default",
+		["Hanj - Oribos"] = "Default",
 		["Sylfy - Sethraliss"] = "Default",
 		["Sylphety - Sethraliss"] = "Default",
 		["Arckerman - Sethraliss"] = "Default",
-		["Arckerman - Oribos"] = "Default",
-		["Ynlight - Sethraliss"] = "Default",
 		["Linaell - Sethraliss"] = "Default",
-		["Hanj - Oribos"] = "Default",
+		["Ynlight - Sethraliss"] = "Default",
+		["Arckerman - Oribos"] = "Default",
+		["Mithsuya - Sethraliss"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -32,14 +32,14 @@ BetterWardrobe_CharacterData = {
 		["Leonharty - Sethraliss"] = "Leonharty - Sethraliss",
 		["Hanjy - Shadowlands OBTR"] = "Hanjy - Shadowlands OBTR",
 		["Arckerman - Shadowlands OBTR"] = "Arckerman - Shadowlands OBTR",
-		["Mithsuya - Sethraliss"] = "Mithsuya - Sethraliss",
+		["Hanj - Oribos"] = "Hanj - Oribos",
 		["Sylfy - Sethraliss"] = "Sylfy - Sethraliss",
 		["Sylphety - Sethraliss"] = "Sylphety - Sethraliss",
 		["Arckerman - Sethraliss"] = "Arckerman - Sethraliss",
-		["Arckerman - Oribos"] = "Arckerman - Oribos",
-		["Ynlight - Sethraliss"] = "Ynlight - Sethraliss",
 		["Linaell - Sethraliss"] = "Linaell - Sethraliss",
-		["Hanj - Oribos"] = "Hanj - Oribos",
+		["Ynlight - Sethraliss"] = "Ynlight - Sethraliss",
+		["Arckerman - Oribos"] = "Arckerman - Oribos",
+		["Mithsuya - Sethraliss"] = "Mithsuya - Sethraliss",
 	},
 	["profiles"] = {
 		["Mithsuya - Sethraliss"] = {
@@ -99,32 +99,59 @@ BetterWardrobe_SavedSetData = {
 		["sets"] = {
 			["Undineh - Oribos"] = {
 				{
+					["outfitID"] = 2,
+					["sources"] = {
+						77344, -- [1]
+						0, -- [2]
+						55813, -- [3]
+						0, -- [4]
+						63362, -- [5]
+						62792, -- [6]
+						46484, -- [7]
+						70633, -- [8]
+						100732, -- [9]
+						46475, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						105940, -- [15]
+						109454, -- [16]
+						113248, -- [17]
+						0, -- [18]
+						0, -- [19]
+					},
+					["name"] = "Void",
+					["icon"] = 1360261,
+					["index"] = 1,
+				}, -- [1]
+				{
 					["outfitID"] = 1,
 					["sources"] = {
 						77344, -- [1]
 						0, -- [2]
 						77343, -- [3]
 						0, -- [4]
-						38884, -- [5]
-						85469, -- [6]
-						95188, -- [7]
-						24894, -- [8]
+						63362, -- [5]
+						83366, -- [6]
+						46484, -- [7]
+						70633, -- [8]
 						100732, -- [9]
-						74636, -- [10]
+						85461, -- [10]
 						0, -- [11]
 						0, -- [12]
 						0, -- [13]
 						0, -- [14]
-						83219, -- [15]
-						50197, -- [16]
-						50197, -- [17]
+						107267, -- [15]
+						80576, -- [16]
+						80576, -- [17]
 						0, -- [18]
 						0, -- [19]
 					},
 					["name"] = "FrostCold",
 					["icon"] = 1360261,
-					["index"] = 1,
-				}, -- [1]
+					["index"] = 2,
+				}, -- [2]
 				{
 					["outfitID"] = 0,
 					["sources"] = {
@@ -150,8 +177,8 @@ BetterWardrobe_SavedSetData = {
 					},
 					["name"] = "SunLeaf",
 					["icon"] = 1360261,
-					["index"] = 2,
-				}, -- [2]
+					["index"] = 3,
+				}, -- [3]
 			},
 			["Hanjih - Shadowlands OBTR"] = {
 			},
@@ -159,7 +186,7 @@ BetterWardrobe_SavedSetData = {
 			},
 			["Leonharty - Sethraliss"] = {
 				{
-					["name"] = "PureElune",
+					["isClass"] = true,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -167,8 +194,7 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["uiOrder"] = 100,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						22292, -- [1]
 						0, -- [2]
@@ -190,15 +216,16 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						83203, -- [19]
 					},
-					["isClass"] = true,
+					["name"] = "PureElune",
 					["setID"] = 5003,
 					["patchID"] = "",
 					["collected"] = true,
 					["favorite"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 				}, -- [1]
 				{
-					["name"] = "HalfDisc",
+					["isClass"] = true,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -206,8 +233,7 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["uiOrder"] = 200,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						44916, -- [1]
 						0, -- [2]
@@ -229,15 +255,16 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						83203, -- [19]
 					},
-					["isClass"] = true,
+					["name"] = "HalfDisc",
 					["setID"] = 5002,
 					["patchID"] = "",
 					["collected"] = true,
 					["favorite"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 				}, -- [2]
 				{
-					["name"] = "VoidPriest",
+					["isClass"] = true,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -245,8 +272,7 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["uiOrder"] = 300,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						44916, -- [1]
 						0, -- [2]
@@ -268,15 +294,16 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						83203, -- [19]
 					},
-					["isClass"] = true,
+					["name"] = "VoidPriest",
 					["setID"] = 5000,
 					["patchID"] = "",
 					["collected"] = true,
 					["favorite"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 				}, -- [3]
 				{
-					["name"] = "ShineBisp",
+					["isClass"] = true,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -284,8 +311,7 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["uiOrder"] = 400,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						101646, -- [1]
 						0, -- [2]
@@ -307,12 +333,13 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						93937, -- [19]
 					},
-					["isClass"] = true,
+					["name"] = "ShineBisp",
 					["setID"] = 5001,
 					["patchID"] = "",
 					["collected"] = true,
 					["favorite"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 				}, -- [4]
 			},
 			["Hanjy - Shadowlands OBTR"] = {
@@ -373,7 +400,7 @@ BetterWardrobe_SavedSetData = {
 			},
 			["Mithsuya - Sethraliss"] = {
 				{
-					["isClass"] = true,
+					["name"] = "FrostCold",
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -381,7 +408,8 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["uiOrder"] = 100,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						77344, -- [1]
 						0, -- [2]
@@ -403,16 +431,15 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["name"] = "FrostCold",
+					["isClass"] = true,
 					["setID"] = 5001,
 					["patchID"] = "",
 					["collected"] = true,
 					["favorite"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 				}, -- [1]
 				{
-					["isClass"] = true,
+					["name"] = "SunLeaf",
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -420,7 +447,8 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["uiOrder"] = 200,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						77344, -- [1]
 						0, -- [2]
@@ -442,18 +470,17 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["name"] = "SunLeaf",
+					["isClass"] = true,
 					["setID"] = 5000,
 					["patchID"] = "",
 					["collected"] = true,
 					["favorite"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 				}, -- [2]
 			},
 			["Sylfy - Sethraliss"] = {
 				{
-					["name"] = "BlueZeal",
+					["isClass"] = true,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -461,8 +488,7 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["uiOrder"] = 100,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						88714, -- [1]
 						0, -- [2]
@@ -484,15 +510,16 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["isClass"] = true,
+					["name"] = "BlueZeal",
 					["setID"] = 5002,
 					["patchID"] = "",
 					["collected"] = true,
 					["favorite"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 				}, -- [1]
 				{
-					["name"] = "BlackWrath",
+					["isClass"] = true,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -500,8 +527,7 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["uiOrder"] = 200,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						14675, -- [1]
 						0, -- [2]
@@ -523,15 +549,16 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["isClass"] = true,
+					["name"] = "BlackWrath",
 					["setID"] = 5001,
 					["patchID"] = "",
 					["collected"] = true,
 					["favorite"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 				}, -- [2]
 				{
-					["name"] = "TrueLeaf",
+					["isClass"] = true,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -539,8 +566,7 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["uiOrder"] = 300,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						14675, -- [1]
 						0, -- [2]
@@ -562,12 +588,13 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["isClass"] = true,
+					["name"] = "TrueLeaf",
 					["setID"] = 5000,
 					["patchID"] = "",
 					["collected"] = true,
 					["favorite"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 				}, -- [3]
 			},
 			["Arckerman - Shadowlands OBTR"] = {
@@ -655,8 +682,7 @@ BetterWardrobe_SavedSetData = {
 			},
 			["Arckerman - Sethraliss"] = {
 				{
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -664,7 +690,8 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						77344, -- [1]
 						0, -- [2]
@@ -686,16 +713,15 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						83203, -- [19]
 					},
-					["isClass"] = true,
+					["name"] = "PureLight",
 					["patchID"] = "",
 					["setID"] = 5002,
 					["uiOrder"] = 100,
 					["icon"] = 1360261,
-					["name"] = "PureLight",
+					["isClass"] = true,
 				}, -- [1]
 				{
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -703,7 +729,8 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						77344, -- [1]
 						0, -- [2]
@@ -725,16 +752,15 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						83203, -- [19]
 					},
-					["isClass"] = true,
+					["name"] = "VoidArmor",
 					["patchID"] = "",
 					["setID"] = 5001,
 					["uiOrder"] = 200,
 					["icon"] = 1360261,
-					["name"] = "VoidArmor",
+					["isClass"] = true,
 				}, -- [2]
 				{
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -742,7 +768,8 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						77344, -- [1]
 						0, -- [2]
@@ -764,13 +791,212 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						83203, -- [19]
 					},
-					["isClass"] = true,
+					["name"] = "GoldArmor",
 					["patchID"] = "",
 					["setID"] = 5000,
 					["uiOrder"] = 300,
 					["icon"] = 1360261,
-					["name"] = "GoldArmor",
+					["isClass"] = true,
 				}, -- [3]
+			},
+			["Linaell - Sethraliss"] = {
+				{
+					["isClass"] = true,
+					["type"] = "Saved",
+					["description"] = "",
+					["label"] = "Saved Set",
+					["icon"] = 1360261,
+					["limitedTimeSet"] = false,
+					["uiOrder"] = 100,
+					["hiddenUtilCollected"] = false,
+					["expansionID"] = 1,
+					["sources"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						0, -- [6]
+						0, -- [7]
+						0, -- [8]
+						0, -- [9]
+						0, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						0, -- [15]
+						0, -- [16]
+						0, -- [17]
+						0, -- [18]
+						0, -- [19]
+					},
+					["name"] = "DarkLeaf",
+					["setID"] = 5000,
+					["patchID"] = "",
+					["collected"] = true,
+					["favorite"] = false,
+					["items"] = {
+					},
+				}, -- [1]
+			},
+			["Ynlight - Sethraliss"] = {
+				{
+					["isClass"] = true,
+					["type"] = "Saved",
+					["description"] = "",
+					["label"] = "Saved Set",
+					["icon"] = 132767,
+					["limitedTimeSet"] = false,
+					["uiOrder"] = 100,
+					["hiddenUtilCollected"] = false,
+					["expansionID"] = 1,
+					["sources"] = {
+						22292, -- [1]
+						0, -- [2]
+						77343, -- [3]
+						0, -- [4]
+						13585, -- [5]
+						83350, -- [6]
+						93099, -- [7]
+						46680, -- [8]
+						95545, -- [9]
+						74379, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						67838, -- [15]
+						92414, -- [16]
+						32688, -- [17]
+						0, -- [18]
+						83203, -- [19]
+					},
+					["name"] = "PureElune",
+					["setID"] = 5003,
+					["patchID"] = "",
+					["collected"] = true,
+					["favorite"] = false,
+					["items"] = {
+					},
+				}, -- [1]
+				{
+					["isClass"] = true,
+					["type"] = "Saved",
+					["description"] = "",
+					["label"] = "Saved Set",
+					["icon"] = 618866,
+					["limitedTimeSet"] = false,
+					["uiOrder"] = 200,
+					["hiddenUtilCollected"] = false,
+					["expansionID"] = 1,
+					["sources"] = {
+						44916, -- [1]
+						0, -- [2]
+						77343, -- [3]
+						0, -- [4]
+						8640, -- [5]
+						70404, -- [6]
+						41835, -- [7]
+						46649, -- [8]
+						15673, -- [9]
+						39838, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						13444, -- [15]
+						104772, -- [16]
+						32688, -- [17]
+						0, -- [18]
+						83203, -- [19]
+					},
+					["name"] = "HalfDisc",
+					["setID"] = 5002,
+					["patchID"] = "",
+					["collected"] = true,
+					["favorite"] = false,
+					["items"] = {
+					},
+				}, -- [2]
+				{
+					["isClass"] = true,
+					["type"] = "Saved",
+					["description"] = "",
+					["label"] = "Saved Set",
+					["icon"] = 618866,
+					["limitedTimeSet"] = false,
+					["uiOrder"] = 300,
+					["hiddenUtilCollected"] = false,
+					["expansionID"] = 1,
+					["sources"] = {
+						44916, -- [1]
+						0, -- [2]
+						77343, -- [3]
+						0, -- [4]
+						19561, -- [5]
+						70404, -- [6]
+						41835, -- [7]
+						46649, -- [8]
+						95545, -- [9]
+						74634, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						13444, -- [15]
+						104772, -- [16]
+						64531, -- [17]
+						0, -- [18]
+						83203, -- [19]
+					},
+					["name"] = "VoidPriest",
+					["setID"] = 5000,
+					["patchID"] = "",
+					["collected"] = true,
+					["favorite"] = false,
+					["items"] = {
+					},
+				}, -- [3]
+				{
+					["isClass"] = true,
+					["type"] = "Saved",
+					["description"] = "",
+					["label"] = "Saved Set",
+					["icon"] = 2444253,
+					["limitedTimeSet"] = false,
+					["uiOrder"] = 400,
+					["hiddenUtilCollected"] = false,
+					["expansionID"] = 1,
+					["sources"] = {
+						101646, -- [1]
+						0, -- [2]
+						77343, -- [3]
+						0, -- [4]
+						1018, -- [5]
+						85869, -- [6]
+						93099, -- [7]
+						46680, -- [8]
+						95545, -- [9]
+						74379, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						100412, -- [15]
+						97781, -- [16]
+						32688, -- [17]
+						0, -- [18]
+						93937, -- [19]
+					},
+					["name"] = "ShineBisp",
+					["setID"] = 5001,
+					["patchID"] = "",
+					["collected"] = true,
+					["favorite"] = false,
+					["items"] = {
+					},
+				}, -- [4]
 			},
 			["Arckerman - Oribos"] = {
 				{
@@ -801,205 +1027,6 @@ BetterWardrobe_SavedSetData = {
 					["index"] = 1,
 				}, -- [1]
 			},
-			["Ynlight - Sethraliss"] = {
-				{
-					["name"] = "PureElune",
-					["type"] = "Saved",
-					["description"] = "",
-					["label"] = "Saved Set",
-					["icon"] = 132767,
-					["limitedTimeSet"] = false,
-					["uiOrder"] = 100,
-					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
-					["sources"] = {
-						22292, -- [1]
-						0, -- [2]
-						77343, -- [3]
-						0, -- [4]
-						13585, -- [5]
-						83350, -- [6]
-						93099, -- [7]
-						46680, -- [8]
-						95545, -- [9]
-						74379, -- [10]
-						0, -- [11]
-						0, -- [12]
-						0, -- [13]
-						0, -- [14]
-						67838, -- [15]
-						92414, -- [16]
-						32688, -- [17]
-						0, -- [18]
-						83203, -- [19]
-					},
-					["isClass"] = true,
-					["setID"] = 5003,
-					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["expansionID"] = 1,
-				}, -- [1]
-				{
-					["name"] = "HalfDisc",
-					["type"] = "Saved",
-					["description"] = "",
-					["label"] = "Saved Set",
-					["icon"] = 618866,
-					["limitedTimeSet"] = false,
-					["uiOrder"] = 200,
-					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
-					["sources"] = {
-						44916, -- [1]
-						0, -- [2]
-						77343, -- [3]
-						0, -- [4]
-						8640, -- [5]
-						70404, -- [6]
-						41835, -- [7]
-						46649, -- [8]
-						15673, -- [9]
-						39838, -- [10]
-						0, -- [11]
-						0, -- [12]
-						0, -- [13]
-						0, -- [14]
-						13444, -- [15]
-						104772, -- [16]
-						32688, -- [17]
-						0, -- [18]
-						83203, -- [19]
-					},
-					["isClass"] = true,
-					["setID"] = 5002,
-					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["expansionID"] = 1,
-				}, -- [2]
-				{
-					["name"] = "VoidPriest",
-					["type"] = "Saved",
-					["description"] = "",
-					["label"] = "Saved Set",
-					["icon"] = 618866,
-					["limitedTimeSet"] = false,
-					["uiOrder"] = 300,
-					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
-					["sources"] = {
-						44916, -- [1]
-						0, -- [2]
-						77343, -- [3]
-						0, -- [4]
-						19561, -- [5]
-						70404, -- [6]
-						41835, -- [7]
-						46649, -- [8]
-						95545, -- [9]
-						74634, -- [10]
-						0, -- [11]
-						0, -- [12]
-						0, -- [13]
-						0, -- [14]
-						13444, -- [15]
-						104772, -- [16]
-						64531, -- [17]
-						0, -- [18]
-						83203, -- [19]
-					},
-					["isClass"] = true,
-					["setID"] = 5000,
-					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["expansionID"] = 1,
-				}, -- [3]
-				{
-					["name"] = "ShineBisp",
-					["type"] = "Saved",
-					["description"] = "",
-					["label"] = "Saved Set",
-					["icon"] = 2444253,
-					["limitedTimeSet"] = false,
-					["uiOrder"] = 400,
-					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
-					["sources"] = {
-						101646, -- [1]
-						0, -- [2]
-						77343, -- [3]
-						0, -- [4]
-						1018, -- [5]
-						85869, -- [6]
-						93099, -- [7]
-						46680, -- [8]
-						95545, -- [9]
-						74379, -- [10]
-						0, -- [11]
-						0, -- [12]
-						0, -- [13]
-						0, -- [14]
-						100412, -- [15]
-						97781, -- [16]
-						32688, -- [17]
-						0, -- [18]
-						93937, -- [19]
-					},
-					["isClass"] = true,
-					["setID"] = 5001,
-					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["expansionID"] = 1,
-				}, -- [4]
-			},
-			["Linaell - Sethraliss"] = {
-				{
-					["name"] = "DarkLeaf",
-					["type"] = "Saved",
-					["description"] = "",
-					["label"] = "Saved Set",
-					["icon"] = 1360261,
-					["limitedTimeSet"] = false,
-					["uiOrder"] = 100,
-					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
-					["sources"] = {
-						0, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						0, -- [6]
-						0, -- [7]
-						0, -- [8]
-						0, -- [9]
-						0, -- [10]
-						0, -- [11]
-						0, -- [12]
-						0, -- [13]
-						0, -- [14]
-						0, -- [15]
-						0, -- [16]
-						0, -- [17]
-						0, -- [18]
-						0, -- [19]
-					},
-					["isClass"] = true,
-					["setID"] = 5000,
-					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["expansionID"] = 1,
-				}, -- [1]
-			},
 			["Hanj - Oribos"] = {
 			},
 		},
@@ -1011,14 +1038,14 @@ BetterWardrobe_SavedSetData = {
 		["Leonharty - Sethraliss"] = "Leonharty - Sethraliss",
 		["Hanjy - Shadowlands OBTR"] = "Hanjy - Shadowlands OBTR",
 		["Arckerman - Shadowlands OBTR"] = "Arckerman - Shadowlands OBTR",
-		["Mithsuya - Sethraliss"] = "Mithsuya - Sethraliss",
+		["Hanj - Oribos"] = "Hanj - Oribos",
 		["Sylfy - Sethraliss"] = "Sylfy - Sethraliss",
 		["Sylphety - Sethraliss"] = "Sylphety - Sethraliss",
 		["Arckerman - Sethraliss"] = "Arckerman - Sethraliss",
-		["Arckerman - Oribos"] = "Arckerman - Oribos",
-		["Ynlight - Sethraliss"] = "Ynlight - Sethraliss",
 		["Linaell - Sethraliss"] = "Linaell - Sethraliss",
-		["Hanj - Oribos"] = "Hanj - Oribos",
+		["Ynlight - Sethraliss"] = "Ynlight - Sethraliss",
+		["Arckerman - Oribos"] = "Arckerman - Oribos",
+		["Mithsuya - Sethraliss"] = "Mithsuya - Sethraliss",
 	},
 	["profiles"] = {
 		["Undineh - Oribos"] = {
@@ -1037,14 +1064,14 @@ BetterWardrobe_SubstituteItemData = {
 		["Leonharty - Sethraliss"] = "Default",
 		["Hanjy - Shadowlands OBTR"] = "Default",
 		["Arckerman - Shadowlands OBTR"] = "Default",
-		["Mithsuya - Sethraliss"] = "Default",
+		["Hanj - Oribos"] = "Default",
 		["Sylfy - Sethraliss"] = "Default",
 		["Sylphety - Sethraliss"] = "Default",
 		["Arckerman - Sethraliss"] = "Default",
-		["Arckerman - Oribos"] = "Default",
-		["Ynlight - Sethraliss"] = "Default",
 		["Linaell - Sethraliss"] = "Default",
-		["Hanj - Oribos"] = "Default",
+		["Ynlight - Sethraliss"] = "Default",
+		["Arckerman - Oribos"] = "Default",
+		["Mithsuya - Sethraliss"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -1060,14 +1087,14 @@ BetterWardrobe_ListData = {
 			["Leonharty - Sethraliss"] = "Leonharty - Sethraliss",
 			["Hanjy - Shadowlands OBTR"] = "Hanjy - Shadowlands OBTR",
 			["Arckerman - Shadowlands OBTR"] = "Arckerman - Shadowlands OBTR",
-			["Mithsuya - Sethraliss"] = "Mithsuya - Sethraliss",
+			["Hanj - Oribos"] = "Hanj - Oribos",
 			["Sylfy - Sethraliss"] = "Sylfy - Sethraliss",
 			["Sylphety - Sethraliss"] = "Sylphety - Sethraliss",
 			["Arckerman - Sethraliss"] = "Arckerman - Sethraliss",
-			["Arckerman - Oribos"] = "Arckerman - Oribos",
-			["Ynlight - Sethraliss"] = "Ynlight - Sethraliss",
 			["Linaell - Sethraliss"] = "Linaell - Sethraliss",
-			["Hanj - Oribos"] = "Hanj - Oribos",
+			["Ynlight - Sethraliss"] = "Ynlight - Sethraliss",
+			["Arckerman - Oribos"] = "Arckerman - Oribos",
+			["Mithsuya - Sethraliss"] = "Mithsuya - Sethraliss",
 		},
 		["profiles"] = {
 			["Undineh - Oribos"] = {
@@ -1102,14 +1129,14 @@ BetterWardrobe_ListData = {
 			["Leonharty - Sethraliss"] = "Leonharty - Sethraliss",
 			["Hanjy - Shadowlands OBTR"] = "Hanjy - Shadowlands OBTR",
 			["Arckerman - Shadowlands OBTR"] = "Arckerman - Shadowlands OBTR",
-			["Mithsuya - Sethraliss"] = "Mithsuya - Sethraliss",
+			["Hanj - Oribos"] = "Hanj - Oribos",
 			["Sylfy - Sethraliss"] = "Sylfy - Sethraliss",
 			["Sylphety - Sethraliss"] = "Sylphety - Sethraliss",
 			["Arckerman - Sethraliss"] = "Arckerman - Sethraliss",
-			["Arckerman - Oribos"] = "Arckerman - Oribos",
-			["Ynlight - Sethraliss"] = "Ynlight - Sethraliss",
 			["Linaell - Sethraliss"] = "Linaell - Sethraliss",
-			["Hanj - Oribos"] = "Hanj - Oribos",
+			["Ynlight - Sethraliss"] = "Ynlight - Sethraliss",
+			["Arckerman - Oribos"] = "Arckerman - Oribos",
+			["Mithsuya - Sethraliss"] = "Mithsuya - Sethraliss",
 		},
 		["profiles"] = {
 			["Undineh - Oribos"] = {
@@ -1128,14 +1155,14 @@ BetterWardrobe_ListData = {
 					{
 						["name"] = "Collection List",
 						["item"] = {
-							[39072] = true,
-							[25110] = true,
-							[40029] = true,
 							[8009] = true,
+							[25110] = true,
+							[38426] = true,
+							[39072] = true,
 							[39508] = true,
 							[22626] = true,
 							[27131] = true,
-							[38426] = true,
+							[40029] = true,
 						},
 						["extraset"] = {
 							[2173] = {
@@ -1224,20 +1251,20 @@ BetterWardrobe_ListData = {
 			["Leonharty - Sethraliss"] = "Leonharty - Sethraliss",
 			["Hanjy - Shadowlands OBTR"] = "Hanjy - Shadowlands OBTR",
 			["Arckerman - Shadowlands OBTR"] = "Arckerman - Shadowlands OBTR",
-			["Mithsuya - Sethraliss"] = "Mithsuya - Sethraliss",
+			["Hanj - Oribos"] = "Hanj - Oribos",
 			["Sylfy - Sethraliss"] = "Sylfy - Sethraliss",
 			["Sylphety - Sethraliss"] = "Sylphety - Sethraliss",
 			["Arckerman - Sethraliss"] = "Arckerman - Sethraliss",
-			["Arckerman - Oribos"] = "Arckerman - Oribos",
-			["Ynlight - Sethraliss"] = "Ynlight - Sethraliss",
 			["Linaell - Sethraliss"] = "Linaell - Sethraliss",
-			["Hanj - Oribos"] = "Hanj - Oribos",
+			["Ynlight - Sethraliss"] = "Ynlight - Sethraliss",
+			["Arckerman - Oribos"] = "Arckerman - Oribos",
+			["Mithsuya - Sethraliss"] = "Mithsuya - Sethraliss",
 		},
 		["char"] = {
 			["Undineh - Oribos"] = {
 				["lastTransmogOutfitIDSpec"] = {
 					5001, -- [1]
-					5002, -- [2]
+					5001, -- [2]
 					5001, -- [3]
 				},
 			},
@@ -1308,14 +1335,14 @@ BetterWardrobe_ListData = {
 			["Leonharty - Sethraliss"] = "Leonharty - Sethraliss",
 			["Hanjy - Shadowlands OBTR"] = "Hanjy - Shadowlands OBTR",
 			["Arckerman - Shadowlands OBTR"] = "Arckerman - Shadowlands OBTR",
-			["Mithsuya - Sethraliss"] = "Mithsuya - Sethraliss",
+			["Hanj - Oribos"] = "Hanj - Oribos",
 			["Sylfy - Sethraliss"] = "Sylfy - Sethraliss",
 			["Sylphety - Sethraliss"] = "Sylphety - Sethraliss",
 			["Arckerman - Sethraliss"] = "Arckerman - Sethraliss",
-			["Arckerman - Oribos"] = "Arckerman - Oribos",
-			["Ynlight - Sethraliss"] = "Ynlight - Sethraliss",
 			["Linaell - Sethraliss"] = "Linaell - Sethraliss",
-			["Hanj - Oribos"] = "Hanj - Oribos",
+			["Ynlight - Sethraliss"] = "Ynlight - Sethraliss",
+			["Arckerman - Oribos"] = "Arckerman - Oribos",
+			["Mithsuya - Sethraliss"] = "Mithsuya - Sethraliss",
 		},
 		["profiles"] = {
 			["Undineh - Oribos"] = {

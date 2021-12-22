@@ -83,14 +83,14 @@ KuiNameplatesCoreSaved = {
 				0.5568627450980392, -- [2]
 				1, -- [3]
 			},
+			["cvar_disable_scale"] = false,
+			["nameonly_friendly_players"] = false,
 			["colour_absorb"] = {
 				0.9490196078431372, -- [1]
 				0.9686274509803922, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["nameonly_friendly_players"] = false,
-			["cvar_disable_scale"] = false,
 			["hide_names"] = false,
 			["castbar_shield"] = false,
 			["cvar_occluded_mult"] = 0.300000011920929,
